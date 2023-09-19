@@ -1,0 +1,11 @@
+{
+  "Bots": {
+    "TyrP": {
+      "Race": "Protoss",
+      "Type": "DotNetCore",
+      "RootPath": "./",
+      "FileName": "TyrP.dll",
+      "Debug": true
+    }
+  }
+}

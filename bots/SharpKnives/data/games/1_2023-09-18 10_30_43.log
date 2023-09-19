@@ -1,0 +1,105 @@
+2023-09-18 10:30:58.073 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-18 10:30:58.074 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Protoss)
+2023-09-18 10:30:58.321 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-18 10:30:58.322 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-18 10:30:58.395 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: Ancient CisternAIE and hash: 3831388.
+2023-09-18 10:30:58.931 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-18 10:30:59.485 | [Start] My race: Protoss
+2023-09-18 10:30:59.486 | [Start] Opponent race: Terran
+2023-09-18 10:30:59.487 | [Start] OpponentId: 1
+2023-09-18 10:31:01.323 | 00:16    8ms    0M    0G  13/ 15U [ProtossUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:02.593 | 00:29    6ms    0M    0G  14/ 15U [ProtossUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:03.831 | 00:41    7ms   95M    0G  15/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:05.100 | 00:54    7ms   65M    0G  16/ 31U [ProtossUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:13.904 | 01:39   60ms  190M    0G  17/ 31U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 114.5)
+2023-09-18 10:31:14.015 | 01:40   61ms  195M    0G  19/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 10:31:16.636 | 01:51   85ms  260M    0G  19/ 31U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 114.5)
+2023-09-18 10:31:16.765 | 01:51   53ms  270M    0G  21/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 10:31:18.358 | 01:57   13ms  375M    0G  21/ 31U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-18 10:31:18.362 | 01:57   13ms  375M    0G  21/ 31U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-18 10:31:18.363 | 01:57   13ms  275M    0G  21/ 31U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 114.5)
+2023-09-18 10:31:19.126 | 02:00   78ms  210M    0G  23/ 31U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 117.5)
+2023-09-18 10:31:20.749 | 02:07   76ms  210M    0G  25/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 10:31:21.367 | 02:09   61ms  140M    0G  25/ 31U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 114.5)
+2023-09-18 10:31:22.029 | 02:12    8ms   90M    0G  27/ 31U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 117.5)
+2023-09-18 10:31:23.581 | 02:18   80ms   85M    0G  29/ 31U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-18 10:31:23.588 | 02:18   80ms   85M    0G  29/ 31U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 10:31:24.093 | 02:20   83ms    0M    0G  29/ 31U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 114.5)
+2023-09-18 10:31:26.371 | 02:28   68ms   20M    0G  31/ 39U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 117.5)
+2023-09-18 10:31:28.812 | 02:35   76ms   45M    0G  33/ 47U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 114.5)
+2023-09-18 10:31:28.823 | 02:35   76ms   45M    0G  33/ 47U [PlanZoneAttack] Power 10.00 is larger than required attack power 7.00 -> attack!
+2023-09-18 10:31:28.824 | 02:35   76ms   45M    0G  33/ 47U [PlanZoneAttack] Attack started at 10.00 power.
+2023-09-18 10:31:30.002 | 02:39   63ms  110M    0G  35/ 47U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-18 10:31:30.008 | 02:39   63ms  110M    0G  35/ 47U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-18 10:31:30.010 | 02:39   63ms   10M    0G  35/ 47U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 117.5)
+2023-09-18 10:31:32.677 | 02:45   84ms   10M    0G  37/ 47U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 114.5)
+2023-09-18 10:31:34.025 | 02:50   75ms   75M    0G  39/ 47U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-18 10:31:36.261 | 02:57   58ms    0M    0G  39/ 47U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 117.5)
+2023-09-18 10:31:38.485 | 03:04   63ms    5M    0G  41/ 47U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 114.5)
+2023-09-18 10:31:39.887 | 03:10   85ms   95M    0G  43/ 47U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 10:31:39.961 | 03:11   68ms  100M    0G  43/ 47U [GameAnalyzer] Income advantage is now Even
+2023-09-18 10:31:39.962 | 03:11   68ms    0M    0G  43/ 47U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 117.5)
+2023-09-18 10:31:40.390 | 03:12   10ms   40M    0G  45/ 47U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-18 10:31:40.391 | 03:12   10ms   40M    0G  45/ 47U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-18 10:31:41.777 | 03:17   19ms   10M    0G  45/ 55U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 114.5)
+2023-09-18 10:31:42.018 | 03:18   20ms   20M    0G  47/ 55U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-18 10:31:43.365 | 03:23   20ms    0M    0G  47/ 55U [ProtossUnit] ZEALOT from GATEWAY at (96.5, 117.5)
+2023-09-18 10:31:44.984 | 03:28   20ms   85M    0G  49/ 55U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-18 10:31:46.152 | 03:34   16ms   70M    0G  49/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1225
+2023-09-18 10:31:46.268 | 03:34   24ms   75M    0G  49/ 55U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-18 10:31:46.679 | 03:36   20ms    5M    0G  49/ 55U [ProtossUnit] ZEALOT from GATEWAY at (99.5, 114.5)
+2023-09-18 10:31:47.061 | 03:38   11ms   30M    0G  51/ 55U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 10:31:47.220 | 03:39   11ms   50M    0G  51/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1361
+2023-09-18 10:31:47.533 | 03:41   35ms    0M    0G  51/ 55U [BuildGas] Building ASSIMILATOR to (35.5, 19.5)
+2023-09-18 10:31:48.259 | 03:45   63ms   50M    0G  51/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1396
+2023-09-18 10:31:48.267 | 03:45   63ms    0M    0G  51/ 55U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:49.585 | 03:50   63ms   85M    0G  52/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1482
+2023-09-18 10:31:50.777 | 03:55   64ms  165M    0G  52/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1418
+2023-09-18 10:31:51.180 | 03:57   15ms   45M    0G  52/ 63U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:51.919 | 04:01   31ms  210M    0G  53/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1495
+2023-09-18 10:31:53.087 | 04:06   13ms  290M    0G  53/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1520
+2023-09-18 10:31:53.640 | 04:10   12ms  200M    0G  53/ 63U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:54.313 | 04:14   63ms  220M    0G  54/ 63U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 10:31:56.441 | 04:19   19ms  165M    0G  54/ 63U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:31:59.924 | 04:33   80ms  400M    0G  55/ 63U [Expand] Expanding to (28.5, 50.5)
+2023-09-18 10:32:00.705 | 04:36   84ms    0M    0G  55/ 63U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:32:00.959 | 04:37   19ms  125M    0G  56/ 63U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 10:32:01.795 | 04:41   75ms    5M    0G  56/ 63U [BuildGas] Building ASSIMILATOR to (24.5, 29.5)
+2023-09-18 10:32:08.324 | 05:07   69ms  190M    0G  56/ 63U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:32:09.306 | 05:10   53ms  240M    0G  57/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -105
+2023-09-18 10:32:10.530 | 05:16   18ms  330M    0G  57/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -41
+2023-09-18 10:32:10.937 | 05:17   65ms  360M    0G  57/ 63U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 10:32:11.199 | 05:19   22ms  325M    0G  57/ 71U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:32:13.153 | 05:27   19ms  310M    0G  58/ 79U [ActUnit] PROBE from NEXUS at (31.5, 26.5)
+2023-09-18 10:32:14.061 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-18 10:32:14.066 | Result: Victory
+2023-09-18 10:32:14.067 | Duration: 05:30
+2023-09-18 10:32:14.068 | Step time min: 6
+2023-09-18 10:32:14.069 | Step time avg: 43
+2023-09-18 10:32:14.070 | Step time max: 155
+2023-09-18 10:32:14.070 | [LostUnitsContents] My lost units minerals and gas: (0, 0)
+2023-09-18 10:32:14.071 | [LostUnitsContents] My lost units minerals by score: 0.0
+2023-09-18 10:32:14.072 | [LostUnitsContents] Enemy lost units minerals and gas: (4275, 200)
+2023-09-18 10:32:14.072 | [LostUnitsContents] Enemy lost units minerals by score: 3475.0
+2023-09-18 10:32:14.075 | [GameAnalyzerEnd] Own units:
+2023-09-18 10:32:14.075 | [GameAnalyzerEnd] PROBE             total:  24 alive:  24 dead:   0 
+2023-09-18 10:32:14.076 | [GameAnalyzerEnd] ZEALOT            total:  17 alive:  17 dead:   0 
+2023-09-18 10:32:14.077 | [GameAnalyzerEnd] PYLON             total:   8 alive:   8 dead:   0 
+2023-09-18 10:32:14.077 | [GameAnalyzerEnd] GATEWAY           total:   4 alive:   4 dead:   0 
+2023-09-18 10:32:14.078 | [GameAnalyzerEnd] SHIELDBATTERY     total:   2 alive:   2 dead:   0 
+2023-09-18 10:32:14.079 | [GameAnalyzerEnd] ASSIMILATOR       total:   2 alive:   2 dead:   0 
+2023-09-18 10:32:14.079 | [GameAnalyzerEnd] NEXUS             total:   2 alive:   2 dead:   0 
+2023-09-18 10:32:14.080 | [GameAnalyzerEnd] CYBERNETICSCORE   total:   1 alive:   1 dead:   0 
+2023-09-18 10:32:14.081 | [GameAnalyzerEnd] Enemy units:
+2023-09-18 10:32:14.081 | [GameAnalyzerEnd] SCV               total:  33 alive:   1 dead:  32 
+2023-09-18 10:32:14.082 | [GameAnalyzerEnd] MARINE            total:  21 alive:   0 dead:  21 
+2023-09-18 10:32:14.082 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   4 alive:   0 dead:   4 
+2023-09-18 10:32:14.083 | [GameAnalyzerEnd] BARRACKS          total:   3 alive:   0 dead:   3 
+2023-09-18 10:32:14.083 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   1 dead:   0 
+2023-09-18 10:32:14.084 | [GameAnalyzerEnd] COMMANDCENTER     total:   1 alive:   0 dead:   1 
+2023-09-18 10:32:14.085 | [GameAnalyzerEnd] STARPORT          total:   1 alive:   0 dead:   1 
+2023-09-18 10:32:14.086 | [GameAnalyzerEnd] REFINERY          total:   1 alive:   0 dead:   1 
+2023-09-18 10:32:14.086 | [GameAnalyzerEnd] FACTORY           total:   1 alive:   0 dead:   1 
+2023-09-18 10:32:14.087 | [GameAnalyzerEnd] Minerals max 495 Average 140
+2023-09-18 10:32:14.088 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-18 10:32:14.089 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Protoss): Victory

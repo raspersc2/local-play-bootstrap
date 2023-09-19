@@ -1,0 +1,5 @@
+debug = false
+allowAllMaps = true
+BuildsProvider=AIArenaBuildsProvider
+BuildSelector=ProbabilitySelector
+noTimeLimit = true

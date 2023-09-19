@@ -1,0 +1,175 @@
+2023-09-18 14:13:06.542 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-18 14:13:06.543 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Protoss)
+2023-09-18 14:13:06.773 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-18 14:13:06.774 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-18 14:13:06.835 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: Berlingrad AIE and hash: 3586864.
+2023-09-18 14:13:07.295 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-18 14:13:07.297 | 00:00    0ms    0M    0G  12/ 15U [Build] Cannon contain
+2023-09-18 14:13:07.320 | [Start] My race: Protoss
+2023-09-18 14:13:07.321 | [Start] Opponent race: Terran
+2023-09-18 14:13:07.322 | [Start] OpponentId: 1
+2023-09-18 14:13:09.456 | 00:16    7ms    0M    0G  13/ 15U [ActUnitOnce] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:11.172 | 00:35    7ms    0M    0G  14/ 23U [ActUnitOnce] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:11.212 | 00:35    7ms    0M    0G  15/ 23U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:13:12.282 | 00:43    7ms   25M    0G  15/ 23U [ActUnitOnce] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:13.115 | 00:52    8ms   85M    0G  16/ 23U [ActUnitOnce] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:13.297 | 00:54    8ms  100M    0G  17/ 23U [BuildPosition] Building PYLON to (123.5, 48.5)
+2023-09-18 14:13:14.612 | 01:02   55ms   65M    0G  17/ 23U [ActUnitOnce] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:15.819 | 01:08   58ms  150M    0G  18/ 23U [BuildPosition] Could not build PHOTONCANNON to None
+2023-09-18 14:13:16.288 | 01:12    7ms  200M    0G  18/ 31U [BuildPosition] Building PYLON to (128.23729362155848, 40.53268279233393)
+2023-09-18 14:13:17.403 | 01:22    7ms  250M    0G  18/ 31U [BuildPosition] Building PHOTONCANNON to (124.11876825906026, 43.53843514185499)
+2023-09-18 14:13:18.278 | 01:30    7ms  200M    0G  18/ 31U [BuildPosition] Building PYLON to (119.42594718107763, 45.293669012352254)
+2023-09-18 14:13:18.281 | 01:30    7ms  100M    0G  18/ 31U [BuildPosition] Building PYLON to (126.4900292144964, 38.56149622696798)
+2023-09-18 14:13:20.066 | 01:40   56ms  150M    0G  18/ 39U [BuildPosition] Building PHOTONCANNON to (121.86856942684963, 47.7687031252749)
+2023-09-18 14:13:20.636 | 01:43   58ms  200M    0G  18/ 39U [BuildPosition] Building PHOTONCANNON to (119.86856942684963, 49.7687031252749)
+2023-09-18 14:13:21.483 | 01:47   87ms  120M    0G  18/ 39U [BuildPosition] Building PYLON to (111.35189436215525, 38.08733802470451)
+2023-09-18 14:13:22.783 | 01:52   60ms   95M    0G  18/ 55U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:22.784 | 01:52   60ms   95M    0G  18/ 55U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:28.165 | 02:13   58ms  400M    0G  16/ 63U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:28.166 | 02:13   58ms  400M    0G  16/ 63U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:29.462 | 02:19   58ms  475M    0G  16/ 63U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:29.463 | 02:19   58ms  475M    0G  16/ 63U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:33.474 | 02:36   41ms  695M    0G  16/ 63U [BuildPosition] Building PHOTONCANNON to (108.68241450284559, 35.067235577346)
+2023-09-18 14:13:33.583 | 02:36   78ms  560M    0G  16/ 63U [BuildPosition] Building PHOTONCANNON to (110.68241450284559, 33.067235577346)
+2023-09-18 14:13:33.713 | 02:37   61ms  575M    0G  16/ 63U [BuildPosition] Building PHOTONCANNON to (110.68241450284559, 35.067235577346)
+2023-09-18 14:13:35.062 | 02:42   79ms  640M    0G  16/ 63U [PlanCancelBuilding] Cancelled PHOTONCANNON at (111.0, 35.0) with 32.347412109375 health
+2023-09-18 14:13:35.196 | 02:42   63ms  758M    0G  16/ 63U [Expand] Expanding to (28.5, 107.5)
+2023-09-18 14:13:35.202 | 02:42   63ms  133M    0G  16/ 63U [BuildGas] Building ASSIMILATOR to (35.5, 138.5)
+2023-09-18 14:13:35.203 | 02:42   63ms   58M    0G  16/ 63U [BuildGas] Building ASSIMILATOR to (35.5, 138.5)
+2023-09-18 14:13:37.982 | 02:50   57ms  363M    0G  16/ 55U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-18 14:13:37.985 | 02:50   57ms  313M    0G  16/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:37.987 | 02:50   57ms   88M    0G  16/ 55U [BuildGas] Building ASSIMILATOR to (24.5, 128.5)
+2023-09-18 14:13:37.989 | 02:50   57ms   13M    0G  16/ 55U [BuildGas] Building ASSIMILATOR to (24.5, 128.5)
+2023-09-18 14:13:39.567 | 02:56   60ms  163M    0G  17/ 55U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:39.573 | 02:56   60ms  163M    0G  17/ 55U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:40.908 | 03:02   62ms   63M    0G  17/ 55U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:40.909 | 03:02   62ms   63M    0G  17/ 55U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:41.127 | 03:03   59ms   78M    0G  17/ 55U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:13:41.131 | 03:03   59ms   28M    0G  17/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:41.323 | 03:03   17ms   33M    0G  18/ 55U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-18 14:13:41.828 | 03:05   60ms   58M    0G  18/ 55U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:13:43.784 | 03:12   59ms  148M    4G  18/ 55U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:43.785 | 03:12   59ms  148M    4G  18/ 55U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:44.480 | 03:15   61ms  143M    8G  18/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:46.555 | 03:23   63ms  238M   28G  19/ 55U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:46.558 | 03:23   63ms  238M   28G  19/ 55U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:47.561 | 03:28   17ms  243M   44G  19/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:49.170 | 03:34   60ms  313M   68G  20/ 55U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:49.176 | 03:34   60ms  313M   68G  20/ 55U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:50.567 | 03:39   60ms  373M   92G  20/ 55U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:50.569 | 03:39   60ms  373M   92G  20/ 55U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:50.755 | 03:40   13ms  338M   96G  20/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:54.259 | 03:50   59ms  318M  136G  21/ 55U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:54.260 | 03:50   59ms  318M  136G  21/ 55U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:54.923 | 03:53   60ms  303M  144G  21/ 55U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:13:55.297 | 03:54   78ms  323M  152G  22/ 55U [Tech] Started PROTOSSGROUNDWEAPONSLEVEL1
+2023-09-18 14:13:55.429 | 03:54   66ms  228M   52G  22/ 55U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:13:55.619 | 03:55   22ms  233M   56G  22/ 55U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:13:55.620 | 03:55   22ms  233M   56G  22/ 55U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:13:56.920 | 04:01   20ms  303M   84G  22/ 55U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:13:56.925 | 04:01   20ms  303M   84G  22/ 55U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:13:57.101 | 04:01   18ms  278M   88G  22/ 70U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:13:57.105 | 04:01   18ms  203M   88G  22/ 70U [BuildGas] Building ASSIMILATOR to (21.5, 104.5)
+2023-09-18 14:13:57.909 | 04:05   60ms  198M  108G  23/ 70U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:00.296 | 04:14   61ms  228M  148G  24/ 70U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:00.409 | 04:14   75ms  228M  152G  25/ 70U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:14:01.025 | 04:17   61ms  258M  164G  25/ 70U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:14:01.031 | 04:17   61ms  258M  164G  25/ 70U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:14:01.273 | 04:18   26ms  223M  168G  25/ 70U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:03.365 | 04:25   58ms  218M  158G  26/ 70U [ProtossUnit] STALKER from GATEWAY at (48.5, 130.5)
+2023-09-18 14:14:03.366 | 04:25   58ms  218M  158G  26/ 70U [Tech] Started WARPGATERESEARCH
+2023-09-18 14:14:03.371 | 04:25   58ms   43M   58G  26/ 70U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:14:03.494 | 04:26   48ms   48M   62G  30/ 70U [ChronoAnyTech] Chrono RESEARCH_WARPGATE
+2023-09-18 14:14:03.722 | 04:26   45ms   13M   66G  30/ 70U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:03.959 | 04:27   63ms   33M   70G  31/ 70U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:14:03.964 | 04:27   63ms   33M   70G  31/ 70U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:14:04.600 | 04:30   25ms   23M   86G  31/ 70U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:05.429 | 04:33   62ms   83M  102G  32/ 70U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:14:05.430 | 04:33   62ms   83M  102G  32/ 70U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:14:05.887 | 04:35   59ms  113M  110G  32/ 70U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:14:07.142 | 04:39   61ms  138M  134G  32/ 70U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:07.253 | 04:39   83ms  148M  134G  33/ 70U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:14:08.175 | 04:43   61ms  158M  154G  33/ 62U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:09.744 | 04:46   82ms  208M  166G  34/ 62U [ChronoAnyTech] Chrono RESEARCH_WARPGATE
+2023-09-18 14:14:10.512 | 04:49   15ms  268M  190G  34/ 62U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:14:10.517 | 04:49   15ms  268M  190G  34/ 62U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:14:11.004 | 04:51   54ms  123M  110G  34/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:11.610 | 04:55   57ms  133M  126G  35/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:11.725 | 04:55   27ms  138M  134G  36/ 62U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-18 14:14:11.732 | 04:55   27ms  138M  134G  36/ 62U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-18 14:14:11.735 | 04:55   27ms   13M   84G  36/ 62U [ProtossUnit] STALKER from GATEWAY at (48.5, 130.5)
+2023-09-18 14:14:12.974 | 05:01   66ms    3M   70G  38/ 62U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:14:13.463 | 05:04   18ms    3M   94G  40/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:13.697 | 05:05   63ms   28M  102G  41/ 62U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:14:14.470 | 05:08   62ms   18M  118G  41/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:16.819 | 05:16   61ms   68M  198G  42/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:17.037 | 05:17   62ms   78M  198G  43/ 62U [ChronoAnyTech] Chrono RESEARCH_WARPGATE
+2023-09-18 14:14:17.547 | 05:20   17ms  103M  222G  43/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:18.159 | 05:24   21ms  173M  250G  44/ 62U [Tech] Started PROTOSSGROUNDARMORSLEVEL1
+2023-09-18 14:14:18.560 | 05:26   20ms  128M  170G  44/ 62U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-18 14:14:18.562 | 05:26   20ms  128M  170G  44/ 62U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 14:14:18.569 | 05:26   20ms    3M  120G  44/ 62U [ProtossUnit] STALKER from GATEWAY at (48.5, 130.5)
+2023-09-18 14:14:19.403 | 05:29   66ms   18M  144G  46/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:19.990 | 05:32   65ms   98M  168G  47/ 62U [PlanZoneAttack] Power 8.00 is larger than required attack power 6.00 -> attack!
+2023-09-18 14:14:19.991 | 05:32   65ms   98M  168G  47/ 62U [PlanZoneAttack] Attack started at 8.00 power.
+2023-09-18 14:14:20.243 | 05:33   69ms   73M  176G  47/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:21.418 | 05:37   70ms  163M  204G  48/ 70U [Tech] Started BLINKTECH
+2023-09-18 14:14:22.904 | 05:41   68ms   93M   98G  48/ 70U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:23.606 | 05:45   20ms    3M   76G  51/ 70U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:25.496 | 05:54   65ms   53M  148G  52/ 70U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:25.993 | 05:56   66ms  103M  168G  53/ 70U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-18 14:14:25.994 | 05:56   66ms  103M  168G  53/ 70U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-18 14:14:26.417 | 05:58   29ms   13M  184G  53/ 70U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:28.874 | 06:06   25ms   58M  202G  56/ 70U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:14:29.407 | 06:08   71ms  123M  218G  57/ 70U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:14:30.066 | 06:10   74ms   18M  180G  59/ 70U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:14:32.853 | 06:21   70ms  138M  264G  60/ 78U [ChronoAnyTech] Chrono RESEARCH_BLINK
+2023-09-18 14:14:34.660 | 06:28   26ms   53M  324G  60/ 78U [GameAnalyzer] Income advantage is now OverwhelmingAdvantage
+2023-09-18 14:14:35.626 | 06:32   21ms   68M  310G  62/ 78U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:14:39.497 | 06:52   23ms  258M  374G  66/ 78U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -995
+2023-09-18 14:14:39.871 | 06:54   26ms  198M  340G  68/ 78U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-18 14:14:39.873 | 06:54   26ms  198M  340G  68/ 78U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-18 14:14:39.961 | 06:54   32ms  108M  340G  68/ 78U [GameAnalyzer] Income advantage is now OverwhelmingAdvantage
+2023-09-18 14:14:40.538 | 06:57   25ms  188M  364G  68/ 78U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1045
+2023-09-18 14:14:41.534 | 07:03   26ms  228M  362G  70/ 78U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1095
+2023-09-18 14:14:42.466 | 07:08   24ms  383M  398G  70/ 78U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1095
+2023-09-18 14:14:43.161 | 07:12   25ms  518M  434G  70/ 78U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:14:43.397 | 07:13   23ms  438M  396G  72/ 78U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1145
+2023-09-18 14:14:44.628 | 07:19   71ms  243M  344G  76/ 86U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1095
+2023-09-18 14:14:44.637 | 07:19   71ms  243M  344G  76/ 86U [Tech] Started PROTOSSGROUNDWEAPONSLEVEL2
+2023-09-18 14:14:44.766 | 07:19   82ms   28M  194G  76/ 86U [BuildGas] Building ASSIMILATOR to (25.5, 100.5)
+2023-09-18 14:14:46.044 | 07:24   73ms   48M  180G  78/ 86U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1145
+2023-09-18 14:14:46.045 | 07:24   73ms   48M  180G  78/ 86U [ChronoAnyTech] Chrono RESEARCH_BLINK
+2023-09-18 14:14:47.192 | 07:30   28ms  108M  228G  78/ 86U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1145
+2023-09-18 14:14:47.503 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-18 14:14:47.507 | Result: Victory
+2023-09-18 14:14:47.508 | Duration: 07:30
+2023-09-18 14:14:47.509 | Step time min: 5
+2023-09-18 14:14:47.509 | Step time avg: 45
+2023-09-18 14:14:47.510 | Step time max: 128
+2023-09-18 14:14:47.511 | [LostUnitsContents] My lost units minerals and gas: (337.5, 0.0)
+2023-09-18 14:14:47.511 | [LostUnitsContents] My lost units minerals by score: 187.0
+2023-09-18 14:14:47.512 | [LostUnitsContents] Enemy lost units minerals and gas: (3375, 0)
+2023-09-18 14:14:47.513 | [LostUnitsContents] Enemy lost units minerals by score: 3775.0
+2023-09-18 14:14:47.514 | [GameAnalyzerEnd] Own units:
+2023-09-18 14:14:47.514 | [GameAnalyzerEnd] PROBE             total:  43 alive:  41 dead:   2 
+2023-09-18 14:14:47.515 | [GameAnalyzerEnd] STALKER           total:  17 alive:  17 dead:   0 
+2023-09-18 14:14:47.515 | [GameAnalyzerEnd] PYLON             total:  11 alive:   9 dead:   2 
+2023-09-18 14:14:47.516 | [GameAnalyzerEnd] WARPGATE          total:   6 alive:   6 dead:   0 
+2023-09-18 14:14:47.516 | [GameAnalyzerEnd] ASSIMILATOR       total:   4 alive:   4 dead:   0 
+2023-09-18 14:14:47.517 | [GameAnalyzerEnd] PHOTONCANNON      total:   3 alive:   2 dead:   1 
+2023-09-18 14:14:47.518 | [GameAnalyzerEnd] NEXUS             total:   2 alive:   2 dead:   0 
+2023-09-18 14:14:47.518 | [GameAnalyzerEnd] GATEWAY           total:   1 alive:   1 dead:   0 
+2023-09-18 14:14:47.519 | [GameAnalyzerEnd] FORGE             total:   1 alive:   1 dead:   0 
+2023-09-18 14:14:47.519 | [GameAnalyzerEnd] CYBERNETICSCORE   total:   1 alive:   1 dead:   0 
+2023-09-18 14:14:47.520 | [GameAnalyzerEnd] TWILIGHTCOUNCIL   total:   1 alive:   1 dead:   0 
+2023-09-18 14:14:47.521 | [GameAnalyzerEnd] Enemy units:
+2023-09-18 14:14:47.521 | [GameAnalyzerEnd] SCV               total:  33 alive:   0 dead:  33 
+2023-09-18 14:14:47.522 | [GameAnalyzerEnd] MARINE            total:  22 alive:   0 dead:  22 
+2023-09-18 14:14:47.522 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   2 alive:   1 dead:   1 
+2023-09-18 14:14:47.523 | [GameAnalyzerEnd] BARRACKS          total:   2 alive:   0 dead:   2 
+2023-09-18 14:14:47.523 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   0 dead:   1 
+2023-09-18 14:14:47.524 | [GameAnalyzerEnd] REFINERY          total:   1 alive:   0 dead:   1 
+2023-09-18 14:14:47.525 | [GameAnalyzerEnd] Minerals max 695 Average 176
+2023-09-18 14:14:47.525 | [GameAnalyzerEnd] Vespene max 434 Average 104
+2023-09-18 14:14:47.526 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Protoss): Victory

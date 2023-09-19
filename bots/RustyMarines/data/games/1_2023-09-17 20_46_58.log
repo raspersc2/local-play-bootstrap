@@ -1,0 +1,47 @@
+2023-09-17 20:47:13.600 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-17 20:47:13.601 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Terran)
+2023-09-17 20:47:13.893 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-17 20:47:13.894 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-17 20:47:13.978 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: Dragon ScalesAIE and hash: 3095225.
+2023-09-17 20:47:15.107 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-17 20:47:15.110 | 00:00    0ms    0M    0G  12/ 15U [Build] 10 marine proxy rax
+2023-09-17 20:47:15.138 | [Start] My race: Terran
+2023-09-17 20:47:15.139 | [Start] Opponent race: Terran
+2023-09-17 20:47:15.140 | [Start] OpponentId: 1
+2023-09-17 20:47:16.649 | 00:12    7ms   65M    0G  13/ 15U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:17.932 | 00:25    8ms   60M    0G  14/ 15U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:19.781 | 00:43   10ms  230M    0G  15/ 23U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:21.530 | 00:55   60ms   85M    0G  16/ 23U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:23.990 | 01:08   60ms  165M    0G  17/ 23U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:25.426 | 01:15   21ms  260M    0G  18/ 31U [BuildPosition] Building BARRACKS to (150.5, 81.5)
+2023-09-17 20:47:26.608 | 01:20   61ms  125M    0G  18/ 31U [ActUnit] SCV from COMMANDCENTER at (76.5, 154.5)
+2023-09-17 20:47:26.859 | 01:22   58ms  125M    0G  19/ 31U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-17 20:47:26.964 | 01:22   25ms  135M    0G  19/ 31U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-17 20:47:27.079 | 01:23   59ms  140M    0G  19/ 31U [GameAnalyzer] Income advantage is now Even
+2023-09-17 20:47:29.297 | 01:39   12ms  150M    0G  19/ 31U [ActUnit] MARINE from BARRACKS at (78.5, 149.5)
+2023-09-17 20:47:29.653 | 01:41   12ms  190M    0G  20/ 31U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 20:47:30.340 | 01:47   12ms  275M    0G  20/ 31U [BuildPosition] Building BARRACKS to (150.1318743003038, 78.51357006775156)
+2023-09-17 20:47:30.508 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-17 20:47:30.512 | Result: Victory
+2023-09-17 20:47:30.513 | Duration: 01:48
+2023-09-17 20:47:30.514 | Step time min: 6
+2023-09-17 20:47:30.514 | Step time avg: 21
+2023-09-17 20:47:30.515 | Step time max: 123
+2023-09-17 20:47:30.515 | [LostUnitsContents] My lost units minerals and gas: (0, 0)
+2023-09-17 20:47:30.516 | [LostUnitsContents] My lost units minerals by score: 0.0
+2023-09-17 20:47:30.516 | [LostUnitsContents] Enemy lost units minerals and gas: (0, 0)
+2023-09-17 20:47:30.517 | [LostUnitsContents] Enemy lost units minerals by score: 0.0
+2023-09-17 20:47:30.518 | [GameAnalyzerEnd] Own units:
+2023-09-17 20:47:30.518 | [GameAnalyzerEnd] SCV               total:  19 alive:  19 dead:   0 
+2023-09-17 20:47:30.518 | [GameAnalyzerEnd] BARRACKS          total:   3 alive:   3 dead:   0 
+2023-09-17 20:47:30.519 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   2 alive:   2 dead:   0 
+2023-09-17 20:47:30.519 | [GameAnalyzerEnd] COMMANDCENTER     total:   1 alive:   1 dead:   0 
+2023-09-17 20:47:30.520 | [GameAnalyzerEnd] Enemy units:
+2023-09-17 20:47:30.520 | [GameAnalyzerEnd] SCV               total:  19 alive:  19 dead:   0 
+2023-09-17 20:47:30.521 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   2 alive:   2 dead:   0 
+2023-09-17 20:47:30.521 | [GameAnalyzerEnd] BARRACKS          total:   2 alive:   2 dead:   0 
+2023-09-17 20:47:30.522 | [GameAnalyzerEnd] COMMANDCENTER     total:   1 alive:   1 dead:   0 
+2023-09-17 20:47:30.522 | [GameAnalyzerEnd] REFINERY          total:   1 alive:   1 dead:   0 
+2023-09-17 20:47:30.523 | [GameAnalyzerEnd] Minerals max 275 Average 135
+2023-09-17 20:47:30.523 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-17 20:47:30.524 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Terran): Victory

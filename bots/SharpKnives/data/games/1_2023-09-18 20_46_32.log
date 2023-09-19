@@ -1,0 +1,323 @@
+2023-09-18 20:46:47.649 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-18 20:46:47.650 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Protoss)
+2023-09-18 20:46:47.938 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-18 20:46:47.939 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-18 20:46:48.018 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: Dragon ScalesAIE and hash: 3095225.
+2023-09-18 20:46:49.024 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-18 20:46:50.102 | [Start] My race: Protoss
+2023-09-18 20:46:50.103 | [Start] Opponent race: Terran
+2023-09-18 20:46:50.104 | [Start] OpponentId: 1
+2023-09-18 20:46:51.710 | 00:16    6ms   10M    0G  13/ 15U [ProtossUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:46:52.914 | 00:29    6ms    0M    0G  14/ 15U [ProtossUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:46:54.152 | 00:41    7ms   95M    0G  15/ 23U [ProtossUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:46:55.372 | 00:54    7ms   60M    0G  16/ 31U [ProtossUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:03.237 | 01:35   57ms  120M    0G  17/ 31U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 87.5)
+2023-09-18 20:47:03.346 | 01:35   19ms  135M    0G  19/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 20:47:05.584 | 01:48    9ms  225M    0G  19/ 31U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 90.5)
+2023-09-18 20:47:05.645 | 01:48    8ms  230M    0G  21/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 20:47:06.463 | 01:53    9ms  305M    0G  21/ 31U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-18 20:47:06.464 | 01:53    9ms  305M    0G  21/ 31U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-18 20:47:06.465 | 01:53    9ms  205M    0G  21/ 31U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 87.5)
+2023-09-18 20:47:07.749 | 02:01    9ms  225M    0G  23/ 31U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 87.5)
+2023-09-18 20:47:08.480 | 02:06    7ms   95M    0G  25/ 31U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 90.5)
+2023-09-18 20:47:08.574 | 02:07   13ms  110M    0G  27/ 31U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 20:47:09.128 | 02:10    8ms   65M    0G  27/ 31U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 90.5)
+2023-09-18 20:47:11.902 | 02:20   62ms  100M    0G  29/ 31U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-18 20:47:11.904 | 02:20   62ms  100M    0G  29/ 31U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 20:47:11.905 | 02:20   62ms    0M    0G  29/ 31U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 87.5)
+2023-09-18 20:47:13.933 | 02:26   62ms    0M    0G  31/ 39U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 87.5)
+2023-09-18 20:47:16.061 | 02:33  107ms   95M    0G  33/ 39U [PlanZoneAttack] Power 10.00 is larger than required attack power 7.00 -> attack!
+2023-09-18 20:47:16.064 | 02:33  107ms   95M    0G  33/ 39U [PlanZoneAttack] Attack started at 10.00 power.
+2023-09-18 20:47:16.222 | 02:33   70ms    5M    0G  33/ 39U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 90.5)
+2023-09-18 20:47:17.679 | 02:37   99ms   70M    0G  35/ 47U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-18 20:47:17.680 | 02:37   99ms   70M    0G  35/ 47U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-18 20:47:18.263 | 02:39  112ms    0M    0G  35/ 47U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 90.5)
+2023-09-18 20:47:20.030 | 02:46   12ms    5M    0G  37/ 47U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-18 20:47:23.164 | 02:52   16ms    0M    0G  37/ 47U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 87.5)
+2023-09-18 20:47:25.342 | 02:58   70ms    0M    0G  39/ 47U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 87.5)
+2023-09-18 20:47:26.374 | 03:02   66ms   60M    0G  41/ 47U [GameAnalyzer] Income advantage is now Even
+2023-09-18 20:47:26.983 | 03:04   10ms    0M    0G  41/ 47U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 90.5)
+2023-09-18 20:47:29.116 | 03:10   91ms   90M    0G  43/ 55U [ChronoUnit] Chrono GATEWAYTRAIN_ZEALOT
+2023-09-18 20:47:29.282 | 03:11   77ms    0M    0G  43/ 55U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 90.5)
+2023-09-18 20:47:30.620 | 03:15   70ms   65M    0G  45/ 55U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 20:47:31.939 | 03:19  111ms   35M    0G  45/ 55U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-18 20:47:31.940 | 03:19  111ms   35M    0G  45/ 55U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-18 20:47:32.128 | 03:20   18ms   50M    0G  45/ 55U [GameAnalyzer] Income advantage is now Even
+2023-09-18 20:47:32.599 | 03:22   19ms   90M    0G  45/ 55U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-18 20:47:32.816 | 03:23   23ms  105M    0G  45/ 55U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 20:47:32.818 | 03:23   23ms    5M    0G  45/ 55U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 87.5)
+2023-09-18 20:47:33.238 | 03:25   21ms   25M    0G  47/ 55U [GameAnalyzer] Income advantage is now Even
+2023-09-18 20:47:33.992 | 03:28   18ms   85M    0G  47/ 55U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-18 20:47:34.255 | 03:30   20ms    5M    0G  47/ 55U [ProtossUnit] ZEALOT from GATEWAY at (147.5, 87.5)
+2023-09-18 20:47:35.686 | 03:36   20ms    0M    0G  49/ 55U [ProtossUnit] ZEALOT from GATEWAY at (144.5, 90.5)
+2023-09-18 20:47:36.523 | 03:40   14ms    0M    0G  51/ 63U [BuildGas] Building ASSIMILATOR to (80.5, 161.5)
+2023-09-18 20:47:37.219 | 03:44   12ms    0M    0G  51/ 63U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:40.471 | 03:56   12ms   40M    0G  52/ 63U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:41.099 | 04:00   12ms   90M    0G  53/ 63U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-18 20:47:41.441 | 04:01   16ms  125M    0G  53/ 63U [GameAnalyzer] Income advantage is now Even
+2023-09-18 20:47:42.214 | 04:06   13ms  200M    0G  53/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -30
+2023-09-18 20:47:42.587 | 04:09   13ms  185M    0G  53/ 63U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:43.501 | 04:14   20ms  120M    0G  54/ 71U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 20:47:44.070 | 04:17   14ms  165M    0G  54/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1
+2023-09-18 20:47:44.409 | 04:18   15ms   45M    0G  54/ 71U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:45.097 | 04:22   14ms  200M    0G  55/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -62
+2023-09-18 20:47:47.195 | 04:33   16ms  380M    0G  55/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -84
+2023-09-18 20:47:48.245 | 04:38   16ms  465M    0G  55/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -119
+2023-09-18 20:47:48.615 | 04:40   16ms  400M    0G  55/ 71U [Expand] Expanding to (105.5, 159.5)
+2023-09-18 20:47:49.195 | 04:43   17ms    0M    0G  55/ 71U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:49.260 | 04:43   17ms  100M    0G  56/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -55
+2023-09-18 20:47:49.397 | 04:44   15ms  120M    0G  56/ 71U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 20:47:49.849 | 04:47   16ms    0M    0G  56/ 71U [BuildGas] Building ASSIMILATOR to (69.5, 151.5)
+2023-09-18 20:47:53.224 | 05:00   15ms   90M    0G  56/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -62
+2023-09-18 20:47:54.286 | 05:05   17ms  165M    0G  56/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -248
+2023-09-18 20:47:54.997 | 05:08   20ms  175M    0G  56/ 71U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:55.416 | 05:10   17ms  205M    0G  57/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -334
+2023-09-18 20:47:56.434 | 05:16   19ms  305M    0G  57/ 71U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -519
+2023-09-18 20:47:56.788 | 05:17   18ms  330M    0G  57/ 71U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 20:47:57.216 | 05:20   22ms  315M    0G  57/ 71U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:57.424 | 05:21   19ms  240M    0G  58/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -505
+2023-09-18 20:47:58.432 | 05:26   17ms  330M    0G  58/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -591
+2023-09-18 20:47:58.772 | 05:28   17ms  315M    0G  58/ 79U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:47:59.448 | 05:32   17ms  365M    0G  59/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -526
+2023-09-18 20:47:59.755 | 05:33   17ms  400M    0G  59/ 79U [Expand] Expanding to (134.5, 160.5)
+2023-09-18 20:48:00.246 | 05:37   16ms   70M    0G  59/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -462
+2023-09-18 20:48:01.119 | 05:42   17ms  155M    0G  59/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -448
+2023-09-18 20:48:01.891 | 05:46   20ms  175M    0G  59/ 79U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:02.152 | 05:48   17ms  195M    0G  60/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -534
+2023-09-18 20:48:02.522 | 05:50   17ms  230M    0G  60/ 79U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 20:48:03.196 | 05:53   16ms  180M    0G  58/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -519
+2023-09-18 20:48:03.689 | 05:56   16ms  235M    0G  58/ 94U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 20:48:03.785 | 05:56   20ms  190M    0G  58/ 94U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:04.209 | 05:58   16ms  220M    0G  59/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -455
+2023-09-18 20:48:04.309 | 05:59   24ms  185M    0G  59/ 94U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:05.056 | 06:03   16ms  175M    0G  60/ 94U [BuildGas] Building ASSIMILATOR to (112.5, 162.5)
+2023-09-18 20:48:06.085 | 06:04   16ms  195M    0G  60/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -391
+2023-09-18 20:48:06.770 | 06:07   16ms  205M    0G  60/ 94U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:07.118 | 06:09   16ms  230M    0G  61/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -326
+2023-09-18 20:48:07.122 | 06:09   16ms  180M    0G  61/ 94U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:08.187 | 06:15   17ms  275M    0G  62/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -662
+2023-09-18 20:48:08.484 | 06:16   23ms  250M    0G  62/ 94U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:08.488 | 06:16   23ms  175M    0G  62/ 94U [BuildGas] Building ASSIMILATOR to (109.5, 166.5)
+2023-09-18 20:48:09.295 | 06:20   16ms  245M    0G  63/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -598
+2023-09-18 20:48:09.662 | 06:22   17ms  235M    0G  63/ 94U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:10.367 | 06:25   16ms  205M    0G  64/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -584
+2023-09-18 20:48:10.994 | 06:28   23ms  205M    0G  64/102U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:11.408 | 06:31   17ms  240M    0G  65/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -619
+2023-09-18 20:48:12.121 | 06:34   17ms  260M    0G  65/102U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:12.475 | 06:36   17ms  295M    0G  66/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -555
+2023-09-18 20:48:13.454 | 06:41   23ms  325M    0G  66/102U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:13.526 | 06:41   18ms  330M    0G  67/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -541
+2023-09-18 20:48:14.566 | 06:47   18ms  430M    0G  67/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -476
+2023-09-18 20:48:14.570 | 06:47   18ms  380M    0G  67/102U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:15.614 | 06:52   17ms  475M    0G  68/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -412
+2023-09-18 20:48:15.886 | 06:53   24ms  440M    0G  68/102U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:16.700 | 06:57   18ms  515M    0G  69/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -498
+2023-09-18 20:48:17.060 | 06:59   17ms  500M    0G  69/102U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:17.442 | 07:01   18ms  490M    0G  70/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:18.718 | 07:03   21ms  520M    0G  71/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -484
+2023-09-18 20:48:19.377 | 07:06   24ms  525M    0G  71/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:19.839 | 07:08   21ms  555M    0G  72/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -719
+2023-09-18 20:48:19.946 | 07:09   25ms  565M    0G  72/117U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 20:48:20.632 | 07:12   20ms  575M    0G  72/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:21.017 | 07:13   21ms  610M    0G  73/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -905
+2023-09-18 20:48:21.022 | 07:13   21ms  560M    0G  73/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:22.167 | 07:18   26ms  590M    0G  74/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:22.250 | 07:19   22ms  610M    0G  75/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -891
+2023-09-18 20:48:23.469 | 07:24   20ms  690M    0G  75/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -876
+2023-09-18 20:48:23.474 | 07:24   20ms  640M    0G  75/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:23.881 | 07:26   23ms  620M    0G  76/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:24.695 | 07:30   20ms  675M    0G  75/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -812
+2023-09-18 20:48:25.009 | 07:31   26ms  645M    0G  75/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:25.936 | 07:35   21ms  705M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -948
+2023-09-18 20:48:26.312 | 07:37   21ms  685M    0G  76/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:26.665 | 07:38   20ms  665M    0G  77/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:27.020 | 07:40   21ms  695M    0G  78/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -884
+2023-09-18 20:48:27.660 | 07:43   29ms  750M    0G  78/117U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 20:48:27.664 | 07:43   29ms  700M    0G  78/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:28.115 | 07:46   21ms  730M    0G  79/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -819
+2023-09-18 20:48:28.117 | 07:46   21ms  730M    0G  79/117U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 20:48:28.870 | 07:49   24ms  730M    0G  79/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:29.241 | 07:51   21ms  750M    0G  80/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -955
+2023-09-18 20:48:29.248 | 07:51   21ms  700M    0G  80/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:30.295 | 07:56   23ms  715M    0G  81/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:30.383 | 07:56   25ms  735M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1491
+2023-09-18 20:48:32.355 | 08:02   22ms  800M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1476
+2023-09-18 20:48:32.359 | 08:02   22ms  750M    0G  82/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:32.766 | 08:03   25ms  720M    0G  83/117U [ActUnit] PROBE from NEXUS at (134.5, 160.5)
+2023-09-18 20:48:33.521 | 08:07   25ms  770M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1412
+2023-09-18 20:48:33.816 | 08:08   24ms  740M    0G  84/117U [ActUnit] PROBE from NEXUS at (76.5, 154.5)
+2023-09-18 20:48:34.656 | 08:12   26ms  790M    0G  85/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1448
+2023-09-18 20:48:35.026 | 08:14   21ms  765M    0G  85/117U [ActUnit] PROBE from NEXUS at (105.5, 159.5)
+2023-09-18 20:48:35.125 | 08:15   27ms  695M    0G  84/117U [BuildGas] Building ASSIMILATOR to (127.5, 157.5)
+2023-09-18 20:48:35.564 | 08:17   20ms  725M    0G  84/117U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 20:48:35.934 | 08:18   21ms  735M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1384
+2023-09-18 20:48:37.049 | 08:23   21ms  815M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1369
+2023-09-18 20:48:38.167 | 08:28   22ms  885M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1455
+2023-09-18 20:48:39.283 | 08:34   21ms  965M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1391
+2023-09-18 20:48:40.449 | 08:39   21ms 1045M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1326
+2023-09-18 20:48:41.611 | 08:45   22ms 1115M    0G  84/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1412
+2023-09-18 20:48:42.840 | 08:50   24ms 1195M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1448
+2023-09-18 20:48:44.079 | 08:55   23ms 1265M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1534
+2023-09-18 20:48:46.147 | 09:01   26ms 1325M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1519
+2023-09-18 20:48:47.418 | 09:06   23ms 1390M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1455
+2023-09-18 20:48:48.701 | 09:11   23ms 1455M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1491
+2023-09-18 20:48:49.946 | 09:17   23ms 1520M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1526
+2023-09-18 20:48:51.198 | 09:22   24ms 1575M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1562
+2023-09-18 20:48:52.483 | 09:27   23ms 1640M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1748
+2023-09-18 20:48:53.777 | 09:33   22ms 1705M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1734
+2023-09-18 20:48:55.074 | 09:38   22ms 1765M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1669
+2023-09-18 20:48:56.296 | 09:43   23ms 1830M    0G  82/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1605
+2023-09-18 20:48:57.626 | 09:49   21ms 1900M    0G  80/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1541
+2023-09-18 20:48:58.921 | 09:54   21ms 1955M    0G  78/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1626
+2023-09-18 20:48:58.923 | 09:54   21ms 1955M    0G  78/117U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-18 20:48:58.923 | 09:54   21ms 1955M    0G  78/117U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-18 20:49:00.976 | 10:00   20ms 2025M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1912
+2023-09-18 20:49:02.171 | 10:05   21ms 2080M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1948
+2023-09-18 20:49:03.387 | 10:10   21ms 2145M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1984
+2023-09-18 20:49:04.599 | 10:16   21ms 2205M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5705
+2023-09-18 20:49:05.806 | 10:21   21ms 2270M    0G  76/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5641
+2023-09-18 20:49:06.975 | 10:26   22ms 2340M    0G  74/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5676
+2023-09-18 20:49:08.177 | 10:32   21ms 2395M    0G  74/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5662
+2023-09-18 20:49:09.343 | 10:37   24ms 2460M    0G  72/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5748
+2023-09-18 20:49:10.498 | 10:42   25ms 2525M    0G  72/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5784
+2023-09-18 20:49:11.673 | 10:48   21ms 2585M    0G  72/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5869
+2023-09-18 20:49:12.786 | 10:53   25ms 2650M    0G  70/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5805
+2023-09-18 20:49:14.248 | 10:56   26ms 2675M    0G  66/117U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-18 20:49:14.249 | 10:56   26ms 2675M    0G  66/117U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 20:49:14.806 | 10:58   25ms 2705M    0G  66/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6241
+2023-09-18 20:49:16.174 | 11:04   26ms 2775M    0G  66/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6176
+2023-09-18 20:49:16.181 | 11:04   26ms 2775M    0G  66/117U [Expand] Expanding to (138.5, 132.5)
+2023-09-18 20:49:17.374 | 11:09   26ms 2440M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6212
+2023-09-18 20:49:18.519 | 11:15   22ms 2400M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6148
+2023-09-18 20:49:19.686 | 11:20   25ms 2465M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6084
+2023-09-18 20:49:20.912 | 11:25   25ms 2525M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6069
+2023-09-18 20:49:21.971 | 11:31   25ms 2585M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6005
+2023-09-18 20:49:22.961 | 11:36   24ms 2650M    0G  64/117U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5941
+2023-09-18 20:49:23.933 | 11:41   23ms 2615M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5876
+2023-09-18 20:49:24.896 | 11:47   22ms 2680M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5812
+2023-09-18 20:49:25.908 | 11:52   20ms 2745M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5748
+2023-09-18 20:49:26.868 | 11:57   25ms 2800M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5684
+2023-09-18 20:49:27.846 | 12:03   28ms 2870M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5619
+2023-09-18 20:49:28.923 | 12:08   24ms 2925M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5555
+2023-09-18 20:49:30.036 | 12:13   24ms 2990M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5491
+2023-09-18 20:49:31.165 | 12:19   22ms 3055M    0G  64/125U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5426
+2023-09-18 20:49:32.345 | 12:24   22ms 3120M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5462
+2023-09-18 20:49:33.492 | 12:30   21ms 3185M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5398
+2023-09-18 20:49:34.428 | 12:35   23ms 3240M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5334
+2023-09-18 20:49:35.334 | 12:40   20ms 3305M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5269
+2023-09-18 20:49:36.205 | 12:46   22ms 3370M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5205
+2023-09-18 20:49:37.112 | 12:51   22ms 3430M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5141
+2023-09-18 20:49:38.026 | 12:56   21ms 3500M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5076
+2023-09-18 20:49:39.923 | 13:02   25ms 3560M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5012
+2023-09-18 20:49:40.962 | 13:07   21ms 3620M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4948
+2023-09-18 20:49:42.039 | 13:12   24ms 3685M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4884
+2023-09-18 20:49:43.101 | 13:18   21ms 3745M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4819
+2023-09-18 20:49:44.148 | 13:23   21ms 3795M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4805
+2023-09-18 20:49:45.191 | 13:28   20ms 3840M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4741
+2023-09-18 20:49:46.236 | 13:34   20ms 3895M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4676
+2023-09-18 20:49:47.306 | 13:39   20ms 3930M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4612
+2023-09-18 20:49:48.176 | 13:45   21ms 3970M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4548
+2023-09-18 20:49:49.048 | 13:50   21ms 4000M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4484
+2023-09-18 20:49:49.887 | 13:55   20ms 4025M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4419
+2023-09-18 20:49:50.749 | 14:01   78ms 4040M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4355
+2023-09-18 20:49:51.553 | 14:06   19ms 4050M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4291
+2023-09-18 20:49:52.335 | 14:11   18ms 4065M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4226
+2023-09-18 20:49:53.147 | 14:17   18ms 4075M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4162
+2023-09-18 20:49:53.943 | 14:22   18ms 4085M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4098
+2023-09-18 20:49:54.728 | 14:27   18ms 4095M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4034
+2023-09-18 20:49:55.499 | 14:33   18ms 4105M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3969
+2023-09-18 20:49:56.275 | 14:38   18ms 4115M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3905
+2023-09-18 20:49:57.066 | 14:43   18ms 4125M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3841
+2023-09-18 20:49:57.862 | 14:49   18ms 4140M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3776
+2023-09-18 20:49:58.661 | 14:54   18ms 4150M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3712
+2023-09-18 20:49:59.432 | 15:00   18ms 4160M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3648
+2023-09-18 20:50:00.221 | 15:05   18ms 4170M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3584
+2023-09-18 20:50:01.018 | 15:10   18ms 4180M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3519
+2023-09-18 20:50:01.842 | 15:16   18ms 4190M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3455
+2023-09-18 20:50:02.648 | 15:21   19ms 4200M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3541
+2023-09-18 20:50:03.455 | 15:26   18ms 4215M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3476
+2023-09-18 20:50:04.265 | 15:32   19ms 4225M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3412
+2023-09-18 20:50:05.073 | 15:37   19ms 4235M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3348
+2023-09-18 20:50:05.866 | 15:42   18ms 4245M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3284
+2023-09-18 20:50:06.668 | 15:48   18ms 4255M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3269
+2023-09-18 20:50:07.491 | 15:53   19ms 4265M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3205
+2023-09-18 20:50:08.316 | 15:58   19ms 4275M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3141
+2023-09-18 20:50:09.112 | 16:04   18ms 4290M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3076
+2023-09-18 20:50:09.919 | 16:09   19ms 4300M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3012
+2023-09-18 20:50:10.731 | 16:15   18ms 4310M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2948
+2023-09-18 20:50:11.544 | 16:20   18ms 4320M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2884
+2023-09-18 20:50:12.397 | 16:25   18ms 4330M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2819
+2023-09-18 20:50:13.196 | 16:31   18ms 4340M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2755
+2023-09-18 20:50:14.171 | 16:36   18ms 4350M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2691
+2023-09-18 20:50:14.980 | 16:41   18ms 4365M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2626
+2023-09-18 20:50:15.791 | 16:47   18ms 4375M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2562
+2023-09-18 20:50:16.617 | 16:52   18ms 4385M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2498
+2023-09-18 20:50:17.413 | 16:57   18ms 4395M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2434
+2023-09-18 20:50:18.238 | 17:03   18ms 4405M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2369
+2023-09-18 20:50:19.045 | 17:08   17ms 4415M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2305
+2023-09-18 20:50:19.944 | 17:13   20ms 4425M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2241
+2023-09-18 20:50:20.916 | 17:19   18ms 4440M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2176
+2023-09-18 20:50:21.899 | 17:24   18ms 4450M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2112
+2023-09-18 20:50:22.895 | 17:30   19ms 4460M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2048
+2023-09-18 20:50:24.782 | 17:35   18ms 4470M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1984
+2023-09-18 20:50:25.774 | 17:40   18ms 4480M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1919
+2023-09-18 20:50:26.796 | 17:46   18ms 4490M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1905
+2023-09-18 20:50:27.799 | 17:51   18ms 4500M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1841
+2023-09-18 20:50:28.774 | 17:56   18ms 4515M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1776
+2023-09-18 20:50:29.770 | 18:02   18ms 4525M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1712
+2023-09-18 20:50:30.782 | 18:07   18ms 4535M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1648
+2023-09-18 20:50:31.803 | 18:12   18ms 4545M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1584
+2023-09-18 20:50:32.811 | 18:18   18ms 4555M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1519
+2023-09-18 20:50:33.796 | 18:23   18ms 4565M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1455
+2023-09-18 20:50:34.832 | 18:28   18ms 4575M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1441
+2023-09-18 20:50:36.718 | 18:34   19ms 4590M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1426
+2023-09-18 20:50:37.781 | 18:39   18ms 4600M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1362
+2023-09-18 20:50:38.788 | 18:45   18ms 4610M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1298
+2023-09-18 20:50:39.808 | 18:50   18ms 4620M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1234
+2023-09-18 20:50:40.874 | 18:55   18ms 4630M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1169
+2023-09-18 20:50:41.900 | 19:01   18ms 4640M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1105
+2023-09-18 20:50:42.941 | 19:06   18ms 4650M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1041
+2023-09-18 20:50:43.979 | 19:11   18ms 4665M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -976
+2023-09-18 20:50:45.043 | 19:17   18ms 4675M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -975
+2023-09-18 20:50:46.305 | 19:22   18ms 4685M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -975
+2023-09-18 20:50:47.379 | 19:27   18ms 4695M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1075
+2023-09-18 20:50:49.332 | 19:33   18ms 4705M    0G  64/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:50.353 | 19:38   18ms 4715M    0G  62/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:51.365 | 19:43   18ms 4725M    0G  62/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:52.417 | 19:49   19ms 4740M    0G  62/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:53.466 | 19:54   17ms 4750M    0G  62/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:54.514 | 20:00   18ms 4760M    0G  62/140U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1125
+2023-09-18 20:50:54.613 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-18 20:50:54.618 | Result: Victory
+2023-09-18 20:50:54.619 | Duration: 20:00
+2023-09-18 20:50:54.620 | Step time min: 6
+2023-09-18 20:50:54.620 | Step time avg: 25
+2023-09-18 20:50:54.621 | Step time max: 151
+2023-09-18 20:50:54.621 | [LostUnitsContents] My lost units minerals and gas: (1400, 0)
+2023-09-18 20:50:54.622 | [LostUnitsContents] My lost units minerals by score: 1400.0
+2023-09-18 20:50:54.622 | [LostUnitsContents] Enemy lost units minerals and gas: (10050, 400)
+2023-09-18 20:50:54.623 | [LostUnitsContents] Enemy lost units minerals by score: 8750.0
+2023-09-18 20:50:54.624 | [GameAnalyzerEnd] Own units:
+2023-09-18 20:50:54.624 | [GameAnalyzerEnd] PROBE             total:  56 alive:  56 dead:   0 
+2023-09-18 20:50:54.625 | [GameAnalyzerEnd] ZEALOT            total:  17 alive:   3 dead:  14 
+2023-09-18 20:50:54.625 | [GameAnalyzerEnd] PYLON             total:  10 alive:  10 dead:   0 
+2023-09-18 20:50:54.626 | [GameAnalyzerEnd] ASSIMILATOR       total:   5 alive:   5 dead:   0 
+2023-09-18 20:50:54.626 | [GameAnalyzerEnd] NEXUS             total:   4 alive:   4 dead:   0 
+2023-09-18 20:50:54.627 | [GameAnalyzerEnd] GATEWAY           total:   4 alive:   4 dead:   0 
+2023-09-18 20:50:54.627 | [GameAnalyzerEnd] SHIELDBATTERY     total:   4 alive:   4 dead:   0 
+2023-09-18 20:50:54.628 | [GameAnalyzerEnd] CYBERNETICSCORE   total:   1 alive:   1 dead:   0 
+2023-09-18 20:50:54.628 | [GameAnalyzerEnd] Enemy units:
+2023-09-18 20:50:54.629 | [GameAnalyzerEnd] MARINE            total:  95 alive:   1 dead:  94 
+2023-09-18 20:50:54.629 | [GameAnalyzerEnd] SCV               total:  64 alive:  10 dead:  54 
+2023-09-18 20:50:54.630 | [GameAnalyzerEnd] SUPPLYDEPOT       total:  16 alive:   9 dead:   7 
+2023-09-18 20:50:54.630 | [GameAnalyzerEnd] BARRACKS          total:   9 alive:   6 dead:   3 
+2023-09-18 20:50:54.631 | [GameAnalyzerEnd] MARAUDER          total:   8 alive:   0 dead:   8 
+2023-09-18 20:50:54.631 | [GameAnalyzerEnd] FACTORY           total:   2 alive:   1 dead:   1 
+2023-09-18 20:50:54.632 | [GameAnalyzerEnd] REFINERY          total:   2 alive:   2 dead:   0 
+2023-09-18 20:50:54.632 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   1 dead:   0 
+2023-09-18 20:50:54.633 | [GameAnalyzerEnd] TECHLAB           total:   1 alive:   1 dead:   0 
+2023-09-18 20:50:54.633 | [GameAnalyzerEnd] COMMANDCENTER     total:   1 alive:   0 dead:   1 
+2023-09-18 20:50:54.634 | [GameAnalyzerEnd] STARPORT          total:   1 alive:   0 dead:   1 
+2023-09-18 20:50:54.634 | [GameAnalyzerEnd] Minerals max 4760 Average 2136
+2023-09-18 20:50:54.635 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-18 20:50:54.636 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Protoss): Victory

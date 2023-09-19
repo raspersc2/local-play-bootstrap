@@ -1,0 +1,582 @@
+2023-09-17 19:11:50.060 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-17 19:11:50.062 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Zerg)
+2023-09-17 19:11:50.310 | 00:00    0ms   50M    0G  12/ 14U [Version] 4.10.0.75689
+2023-09-17 19:11:50.311 | 00:00    0ms   50M    0G  12/ 14U [Version] 5.0.6 Balance mod recognized.
+2023-09-17 19:11:50.382 | 00:00    0ms   50M    0G  12/ 14U [ZoneManager] Map set to: MapName.Unknown from name: Ancient CisternAIE and hash: 3831388.
+2023-09-17 19:11:50.925 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-17 19:11:50.950 | [Start] My race: Zerg
+2023-09-17 19:11:50.951 | [Start] Opponent race: Terran
+2023-09-17 19:11:50.951 | [Start] OpponentId: 1
+2023-09-17 19:11:53.095 | 00:16    6ms  200M    0G  12/ 14U [ActBuilding] 1. SPAWNINGPOOL near (35.6, 34.5)
+2023-09-17 19:11:53.898 | 00:24    7ms    5M    0G  11/ 14U [ActUnit] OVERLORD from LARVA at (30.9, 23.4)
+2023-09-17 19:11:54.336 | 00:29    8ms    0M    0G  11/ 14U [ActUnit] DRONE from LARVA at (30.1, 23.9)
+2023-09-17 19:11:54.823 | 00:33    7ms    0M    0G  12/ 14U [ActUnit] DRONE from LARVA at (30.2, 24.2)
+2023-09-17 19:11:55.289 | 00:38    7ms    5M    0G  13/ 14U [ActUnit] DRONE from LARVA at (31.0, 23.5)
+2023-09-17 19:11:58.466 | 01:06   11ms  280M    0G  14/ 22U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:11:58.531 | 01:06   68ms  235M    0G  15/ 22U [ActUnit] ZERGLING from LARVA at (32.4, 23.9)
+2023-09-17 19:11:58.804 | 01:07   47ms  210M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (31.7, 23.7)
+2023-09-17 19:12:00.653 | 01:18    7ms  295M    0G  17/ 22U [ActUnit] ZERGLING from LARVA at (31.6, 23.9)
+2023-09-17 19:12:01.220 | 01:23    8ms  360M    0G  18/ 22U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:12:01.220 | 01:23    8ms  360M    0G  18/ 22U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:12:01.442 | 01:25   10ms  390M    0G  18/ 22U [PlanZoneAttack2] Power 3.00 is larger than required attack power 2.00 -> attack!
+2023-09-17 19:12:01.443 | 01:25   10ms  390M    0G  18/ 22U [PlanZoneAttack2] Attack started at 3.00 power.
+2023-09-17 19:12:01.553 | 01:26   12ms  390M    0G  18/ 22U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:12:01.979 | 01:29   10ms  360M    0G  18/ 22U [ActUnit] ZERGLING from LARVA at (31.6, 23.5)
+2023-09-17 19:12:03.402 | 01:40   11ms  345M    0G  19/ 22U [ActUnit] ZERGLING from LARVA at (31.6, 23.8)
+2023-09-17 19:12:04.277 | 01:46   14ms  370M    0G  20/ 22U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-17 19:12:04.278 | 01:46   14ms  370M    0G  20/ 22U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:12:04.911 | 01:50   14ms  335M    0G  20/ 22U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:12:06.784 | 02:01   13ms  320M    0G  21/ 22U [ActUnit] ZERGLING from LARVA at (31.3, 23.5)
+2023-09-17 19:12:07.210 | 02:02   88ms  325M    0G  22/ 22U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:12:08.003 | 02:06   23ms  340M    0G  22/ 22U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:12:08.004 | 02:06   23ms  340M    0G  22/ 22U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:12:09.181 | 02:12   20ms  310M    0G  18/ 22U [ActUnit] DRONE from LARVA at (31.6, 23.9)
+2023-09-17 19:12:11.312 | 02:22   14ms  295M    0G   9/ 22U [ActUnit] DRONE from LARVA at (31.6, 23.4)
+2023-09-17 19:12:13.123 | 02:33   12ms  290M    0G  10/ 22U [ActUnit] DRONE from LARVA at (31.3, 23.6)
+2023-09-17 19:12:13.422 | 02:35   13ms  300M    0G  11/ 22U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:12:13.423 | 02:35   13ms  300M    0G  11/ 22U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:12:13.424 | 02:35   13ms  300M    0G  11/ 22U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:12:13.839 | 02:37   15ms  315M    0G  11/ 22U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:12:13.840 | 02:37   15ms  315M    0G  11/ 22U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:12:15.711 | 02:44   11ms  295M    0G   8/ 22U [ActUnit] DRONE from LARVA at (31.4, 23.4)
+2023-09-17 19:12:17.475 | 02:55   11ms  315M    0G   8/ 22U [ActUnit] DRONE from LARVA at (31.7, 23.5)
+2023-09-17 19:12:17.477 | 02:55   11ms  315M    0G   8/ 22U [PlanZoneAttack2] No attacking units, starting retreat
+2023-09-17 19:12:19.089 | 03:05    9ms  340M    0G   9/ 22U [ActUnit] DRONE from LARVA at (31.3, 23.8)
+2023-09-17 19:12:20.538 | 03:15   12ms  420M    0G  10/ 22U [PlanZoneAttack2] Retreat stopped.
+2023-09-17 19:12:20.724 | 03:16   10ms  385M    0G  10/ 22U [ActUnit] DRONE from LARVA at (31.3, 23.7)
+2023-09-17 19:12:22.416 | 03:27   10ms  430M    0G  11/ 22U [ActUnit] DRONE from LARVA at (31.7, 23.8)
+2023-09-17 19:12:22.691 | 03:28   11ms  435M    0G  12/ 22U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:12:24.085 | 03:37   10ms  485M    0G  12/ 22U [ActUnit] DRONE from LARVA at (31.6, 23.4)
+2023-09-17 19:12:26.564 | 03:48   10ms  550M    0G  13/ 22U [ActUnit] DRONE from LARVA at (31.4, 23.6)
+2023-09-17 19:12:28.284 | 03:59   11ms  630M    0G  14/ 22U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:12:30.031 | 04:10   11ms  715M    0G  15/ 22U [ActUnit] ZERGLING from LARVA at (31.4, 23.7)
+2023-09-17 19:12:31.800 | 04:20   11ms  805M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (31.7, 23.7)
+2023-09-17 19:12:32.946 | 04:27   14ms  895M    0G  17/ 22U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:12:32.947 | 04:27   14ms  895M    0G  17/ 22U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:12:33.647 | 04:31   13ms  910M    0G  17/ 22U [ActUnit] ZERGLING from LARVA at (31.3, 23.8)
+2023-09-17 19:12:33.803 | 04:32   13ms  910M    0G  18/ 22U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:12:33.804 | 04:32   13ms  910M    0G  18/ 22U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:12:33.960 | 04:33   13ms  930M    0G  18/ 22U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-17 19:12:33.961 | 04:33   13ms  930M    0G  18/ 22U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-17 19:12:36.220 | 04:42   12ms 1005M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:12:38.011 | 04:52   13ms 1095M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (31.6, 23.4)
+2023-09-17 19:12:39.860 | 05:03   13ms 1190M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (31.4, 23.4)
+2023-09-17 19:12:41.728 | 05:14   11ms 1295M    0G  15/ 22U [ActUnit] ZERGLING from LARVA at (31.3, 23.5)
+2023-09-17 19:12:43.719 | 05:25   12ms 1395M    0G  15/ 22U [ActUnit] ZERGLING from LARVA at (31.4, 23.8)
+2023-09-17 19:12:44.697 | 05:30   15ms 1465M    0G  16/ 22U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 24.2)
+2023-09-17 19:12:45.617 | 05:35   14ms 1280M    0G  15/ 22U [ActUnit] DRONE from LARVA at (31.3, 23.5)
+2023-09-17 19:12:45.960 | 05:37   16ms 1310M    0G  16/ 22U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:12:45.961 | 05:37   16ms 1310M    0G  16/ 22U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:12:48.495 | 05:48   13ms 1340M    0G  15/ 22U [ActUnit] OVERLORD from LARVA at (31.8, 23.2)
+2023-09-17 19:12:53.961 | 06:20   11ms 1715M    0G  14/ 30U [ActUnit] ZERGLING from LARVA at (31.4, 23.7)
+2023-09-17 19:12:54.053 | 06:20   14ms 1675M    0G  15/ 30U [ActUnit] ZERGLING from LARVA at (31.4, 23.7)
+2023-09-17 19:12:54.115 | 06:21   12ms 1625M    0G  16/ 30U [ActUnit] ZERGLING from LARVA at (31.7, 23.5)
+2023-09-17 19:12:56.024 | 06:31   13ms 1710M    0G  17/ 30U [ActUnit] ZERGLING from LARVA at (31.3, 23.7)
+2023-09-17 19:12:58.072 | 06:38   14ms 1815M    0G  18/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:12:58.073 | 06:38   14ms 1815M    0G  18/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:12:58.673 | 06:41   14ms 1860M    0G  18/ 30U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:12:58.674 | 06:41   14ms 1860M    0G  18/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:12:58.772 | 06:42   18ms 1810M    0G  18/ 30U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:12:59.551 | 06:46   13ms 1865M    0G  19/ 30U [PlanZoneAttack2] Power 2.56 is larger than required attack power 2.00 -> attack!
+2023-09-17 19:12:59.552 | 06:46   13ms 1865M    0G  19/ 30U [PlanZoneAttack2] Attack started at 2.56 power.
+2023-09-17 19:12:59.731 | 06:47   17ms 1875M    0G  19/ 30U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:12:59.732 | 06:47   17ms 1875M    0G  19/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:12:59.733 | 06:47   17ms 1875M    0G  19/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:00.864 | 06:52   66ms 1845M    0G  19/ 30U [ActUnit] ZERGLING from LARVA at (31.4, 23.4)
+2023-09-17 19:13:02.619 | 07:03   19ms 1835M    0G  20/ 30U [ActUnit] ZERGLING from LARVA at (31.6, 23.4)
+2023-09-17 19:13:02.954 | 07:05   19ms 1850M    0G  21/ 30U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-17 19:13:02.955 | 07:05   19ms 1850M    0G  21/ 30U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:13:04.687 | 07:14   19ms 1830M    0G  21/ 30U [ActUnit] ZERGLING from LARVA at (31.7, 23.7)
+2023-09-17 19:13:06.806 | 07:25   22ms 1820M    0G  20/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.4)
+2023-09-17 19:13:08.916 | 07:35   28ms 1810M    0G  20/ 30U [ActUnit] DRONE from LARVA at (31.6, 23.5)
+2023-09-17 19:13:10.948 | 07:46   25ms 1800M    0G  14/ 30U [ActUnit] DRONE from LARVA at (31.5, 23.4)
+2023-09-17 19:13:11.282 | 07:48   17ms 1815M    0G  15/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:13:12.913 | 07:57   16ms 1805M    0G  15/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.7)
+2023-09-17 19:13:15.845 | 08:07   16ms 1825M    0G  16/ 30U [ActUnit] DRONE from LARVA at (31.5, 23.4)
+2023-09-17 19:13:17.947 | 08:18   28ms 1860M    0G  16/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.4)
+2023-09-17 19:13:18.387 | 08:20   17ms 1875M    0G  16/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:18.388 | 08:20   17ms 1875M    0G  16/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:18.652 | 08:22   23ms 1880M    0G  14/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:13:18.724 | 08:22   16ms 1880M    0G  14/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:13:18.815 | 08:23   21ms 1890M    0G  14/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:13:19.862 | 08:28   14ms 1945M    0G  12/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:19.864 | 08:28   14ms 1945M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:19.951 | 08:29   18ms 1900M    0G  11/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.5)
+2023-09-17 19:13:20.014 | 08:29   14ms 1905M    0G  12/ 30U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:13:20.015 | 08:29   14ms 1905M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:13:20.164 | 08:30   12ms 1910M    0G  11/ 30U [PlanZoneAttack2] No attacking units, starting retreat
+2023-09-17 19:13:21.532 | 08:40   13ms 1945M    0G  11/ 30U [ActUnit] DRONE from LARVA at (31.4, 23.9)
+2023-09-17 19:13:23.113 | 08:50   13ms 2005M    0G  12/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.7)
+2023-09-17 19:13:23.114 | 08:50   13ms 2005M    0G  12/ 30U [PlanZoneAttack2] Retreat stopped.
+2023-09-17 19:13:25.535 | 09:01   14ms 2070M    0G  13/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.6)
+2023-09-17 19:13:27.202 | 09:12   13ms 2145M    0G  14/ 30U [ActUnit] ZERGLING from LARVA at (31.6, 23.4)
+2023-09-17 19:13:28.837 | 09:22   14ms 2240M    0G  15/ 30U [ActUnit] ZERGLING from LARVA at (31.4, 23.6)
+2023-09-17 19:13:29.879 | 09:29   10ms 2325M    0G  16/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:29.880 | 09:29   10ms 2325M    0G  16/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:30.527 | 09:33   12ms 2330M    0G  16/ 30U [ActUnit] ZERGLING from LARVA at (31.6, 23.8)
+2023-09-17 19:13:31.581 | 09:40   10ms 2425M    0G  17/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:31.583 | 09:40   10ms 2425M    0G  17/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:32.240 | 09:44   14ms 2440M    0G  17/ 30U [ActUnit] ZERGLING from LARVA at (31.3, 23.4)
+2023-09-17 19:13:33.289 | 09:51   10ms 2520M    0G  18/ 30U [PlanZoneAttack2] Power 3.00 is larger than required attack power 2.00 -> attack!
+2023-09-17 19:13:33.290 | 09:51   10ms 2520M    0G  18/ 30U [PlanZoneAttack2] Attack started at 3.00 power.
+2023-09-17 19:13:33.432 | 09:51   17ms 2520M    0G  18/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:13:33.933 | 09:55   22ms 2485M    0G  18/ 30U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:13:36.490 | 10:05   23ms 2475M    0G  19/ 30U [ActUnit] ZERGLING from LARVA at (31.3, 23.7)
+2023-09-17 19:13:37.347 | 10:10   16ms 2495M    0G  20/ 30U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:13:37.349 | 10:10   16ms 2495M    0G  20/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:13:38.332 | 10:16   16ms 2515M    0G  18/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:38.333 | 10:16   16ms 2515M    0G  18/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:38.426 | 10:16   23ms 2465M    0G  18/ 30U [ActUnit] ZERGLING from LARVA at (31.5, 23.4)
+2023-09-17 19:13:39.313 | 10:21   14ms 2485M    0G  19/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:39.314 | 10:21   14ms 2485M    0G  19/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:40.188 | 10:27   17ms 2460M    0G  19/ 30U [ActUnit] ZERGLING from LARVA at (31.5, 23.9)
+2023-09-17 19:13:41.621 | 10:35   17ms 2490M    0G  20/ 30U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-17 19:13:41.622 | 10:35   17ms 2490M    0G  20/ 30U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:13:42.048 | 10:37   22ms 2505M    0G  20/ 30U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:13:42.050 | 10:37   22ms 2455M    0G  20/ 30U [ActUnit] ZERGLING from LARVA at (31.6, 23.4)
+2023-09-17 19:13:43.854 | 10:48   21ms 2495M    0G  15/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:13:43.856 | 10:48   21ms 2445M    0G  15/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.5)
+2023-09-17 19:13:45.699 | 10:59   19ms 2430M    0G  12/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.5)
+2023-09-17 19:13:47.485 | 11:10   16ms 2430M    0G  13/ 30U [ActUnit] DRONE from LARVA at (31.4, 23.4)
+2023-09-17 19:13:48.085 | 11:13   18ms 2450M    0G  14/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:13:48.149 | 11:14   17ms 2450M    0G  14/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:13:49.476 | 11:17   16ms 2465M    0G  13/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:49.477 | 11:17   16ms 2465M    0G  13/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:49.838 | 11:19   15ms 2480M    0G  12/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:13:50.318 | 11:20   63ms 2435M    0G  12/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.6)
+2023-09-17 19:13:50.805 | 11:22   84ms 2450M    0G  13/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:50.806 | 11:22   84ms 2450M    0G  13/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:51.629 | 11:25   62ms 2465M    0G  12/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:51.630 | 11:25   62ms 2465M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:52.353 | 11:28   77ms 2490M    0G  11/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:52.359 | 11:28   77ms 2490M    0G  11/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:52.774 | 11:31   13ms 2500M    0G  11/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:13:52.775 | 11:31   13ms 2500M    0G  11/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:13:52.870 | 11:31   17ms 2455M    0G  11/ 30U [ActUnit] DRONE from LARVA at (31.6, 23.5)
+2023-09-17 19:13:53.093 | 11:32   15ms 2470M    0G  12/ 30U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:13:53.094 | 11:32   15ms 2470M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:13:53.392 | 11:34   13ms 2475M    0G  11/ 30U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:13:53.393 | 11:34   13ms 2475M    0G  11/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:13:53.625 | 11:35   14ms 2485M    0G   9/ 30U [PlanZoneAttack2] No attacking units, starting retreat
+2023-09-17 19:13:54.514 | 11:42   12ms 2490M    0G   9/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.6)
+2023-09-17 19:13:56.052 | 11:52   13ms 2525M    0G  10/ 30U [ActUnit] DRONE from LARVA at (31.6, 23.4)
+2023-09-17 19:13:56.504 | 11:56    9ms 2550M    0G  11/ 30U [PlanZoneAttack2] Retreat stopped.
+2023-09-17 19:13:57.623 | 12:03   14ms 2575M    0G  11/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.5)
+2023-09-17 19:14:00.235 | 12:14   14ms 2635M    0G  12/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.6)
+2023-09-17 19:14:01.840 | 12:25   13ms 2695M    0G  13/ 30U [ActUnit] DRONE from LARVA at (31.5, 23.9)
+2023-09-17 19:14:03.497 | 12:35   14ms 2760M    0G  14/ 30U [ActUnit] ZERGLING from LARVA at (31.3, 23.6)
+2023-09-17 19:14:05.148 | 12:46   15ms 2825M    0G  15/ 30U [ActUnit] ZERGLING from LARVA at (31.6, 23.8)
+2023-09-17 19:14:06.766 | 12:56   13ms 2950M    0G  15/ 30U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-17 19:14:06.767 | 12:56   13ms 2950M    0G  15/ 30U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-17 19:14:06.853 | 12:57   17ms 2900M    0G  15/ 30U [ActUnit] ZERGLING from LARVA at (31.3, 23.6)
+2023-09-17 19:14:08.372 | 13:06   17ms 2995M    0G  15/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:14:08.723 | 13:07   16ms 2945M    0G  14/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.8)
+2023-09-17 19:14:11.477 | 13:18   14ms 2895M    0G   5/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.5)
+2023-09-17 19:14:11.778 | 13:20   12ms 2895M    0G   6/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:14:11.834 | 13:20   10ms 2895M    0G   4/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:14:12.227 | 13:23    9ms 2895M    0G   4/ 30U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:14:12.228 | 13:23    9ms 2895M    0G   4/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:14:13.092 | 13:29   11ms 2860M    0G   4/ 30U [ActUnit] DRONE from LARVA at (31.3, 23.8)
+2023-09-17 19:14:14.709 | 13:40   12ms 2820M    0G   1/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.6)
+2023-09-17 19:14:16.418 | 13:50   11ms 2775M    0G   2/ 30U [ActUnit] DRONE from LARVA at (31.6, 23.8)
+2023-09-17 19:14:18.135 | 14:01   11ms 2735M    0G   1/ 30U [ActUnit] DRONE from LARVA at (31.7, 23.7)
+2023-09-17 19:14:18.288 | 14:02   11ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.4, 34.9)
+2023-09-17 19:14:18.356 | 14:02   16ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 22.1)
+2023-09-17 19:14:18.450 | 14:03   18ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.9, 35.1)
+2023-09-17 19:14:18.825 | 14:05   13ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.6)
+2023-09-17 19:14:18.916 | 14:05   18ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.2)
+2023-09-17 19:14:18.980 | 14:06   15ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.2)
+2023-09-17 19:14:19.133 | 14:07   13ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.3, 35.1)
+2023-09-17 19:14:19.282 | 14:08   12ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.4, 35.0)
+2023-09-17 19:14:20.145 | 14:09   11ms 2735M    0G   2/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.1, 32.9)
+2023-09-17 19:14:20.292 | 14:10   11ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.1, 35.2)
+2023-09-17 19:14:20.375 | 14:10   13ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.8, 21.2)
+2023-09-17 19:14:20.428 | 14:10   11ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 24.3)
+2023-09-17 19:14:20.520 | 14:11   12ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 23.2)
+2023-09-17 19:14:20.574 | 14:11   11ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.7, 31.9)
+2023-09-17 19:14:20.660 | 14:12   13ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.5)
+2023-09-17 19:14:20.715 | 14:12   11ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 30.1)
+2023-09-17 19:14:20.806 | 14:13   14ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.6, 35.3)
+2023-09-17 19:14:20.862 | 14:13   12ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.4, 33.9)
+2023-09-17 19:14:20.956 | 14:14   13ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 31.5)
+2023-09-17 19:14:21.014 | 14:14   13ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 22.4)
+2023-09-17 19:14:21.154 | 14:15   11ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.8)
+2023-09-17 19:14:21.235 | 14:15   16ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.4, 33.1)
+2023-09-17 19:14:21.292 | 14:16   13ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.9)
+2023-09-17 19:14:21.372 | 14:16   17ms 2735M    0G   1/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.2)
+2023-09-17 19:14:21.429 | 14:17   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.7, 35.4)
+2023-09-17 19:14:21.511 | 14:17   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 24.5)
+2023-09-17 19:14:21.563 | 14:18   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.8, 32.5)
+2023-09-17 19:14:21.652 | 14:18   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.3, 33.3)
+2023-09-17 19:14:21.706 | 14:18   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.2, 34.4)
+2023-09-17 19:14:21.787 | 14:19   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.9)
+2023-09-17 19:14:21.839 | 14:19   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 31.4)
+2023-09-17 19:14:21.929 | 14:20   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.8, 34.9)
+2023-09-17 19:14:21.985 | 14:20   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.6, 33.1)
+2023-09-17 19:14:22.072 | 14:21   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 21.8)
+2023-09-17 19:14:22.125 | 14:21   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.2)
+2023-09-17 19:14:22.205 | 14:22   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.8, 34.2)
+2023-09-17 19:14:22.256 | 14:22   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.5, 34.0)
+2023-09-17 19:14:22.338 | 14:22   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 22.0)
+2023-09-17 19:14:22.395 | 14:23   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.9, 35.1)
+2023-09-17 19:14:22.476 | 14:23   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.8, 32.5)
+2023-09-17 19:14:22.529 | 14:24   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 31.3)
+2023-09-17 19:14:22.613 | 14:24   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.7, 34.1)
+2023-09-17 19:14:22.665 | 14:25   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.0, 35.4)
+2023-09-17 19:14:22.751 | 14:25   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.9, 34.4)
+2023-09-17 19:14:22.807 | 14:26   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.5, 34.6)
+2023-09-17 19:14:22.894 | 14:26   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.2, 31.1)
+2023-09-17 19:14:22.947 | 14:26   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.5, 20.9)
+2023-09-17 19:14:23.037 | 14:27   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.8, 35.2)
+2023-09-17 19:14:23.271 | 14:27   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.5, 33.2)
+2023-09-17 19:14:23.355 | 14:28   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.7, 35.2)
+2023-09-17 19:14:23.411 | 14:28   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.4, 22.2)
+2023-09-17 19:14:23.497 | 14:29   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.8)
+2023-09-17 19:14:23.550 | 14:29   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.0, 32.7)
+2023-09-17 19:14:23.637 | 14:30   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.3, 33.4)
+2023-09-17 19:14:23.692 | 14:30   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.0, 29.5)
+2023-09-17 19:14:23.785 | 14:30   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.9, 35.4)
+2023-09-17 19:14:23.839 | 14:31   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.3, 34.5)
+2023-09-17 19:14:23.925 | 14:31   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.1, 33.5)
+2023-09-17 19:14:23.979 | 14:32   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.3, 34.1)
+2023-09-17 19:14:24.066 | 14:32   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.1)
+2023-09-17 19:14:24.120 | 14:33   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.1, 29.2)
+2023-09-17 19:14:24.206 | 14:33   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 22.1)
+2023-09-17 19:14:24.263 | 14:34   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.1, 23.7)
+2023-09-17 19:14:24.351 | 14:34   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 30.7)
+2023-09-17 19:14:24.405 | 14:35   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.6, 35.2)
+2023-09-17 19:14:24.503 | 14:35   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.7)
+2023-09-17 19:14:24.559 | 14:35   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.1)
+2023-09-17 19:14:24.649 | 14:36   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.9, 32.6)
+2023-09-17 19:14:24.707 | 14:36   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.2, 34.4)
+2023-09-17 19:14:24.797 | 14:37   22ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.5)
+2023-09-17 19:14:24.851 | 14:37   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.0, 34.3)
+2023-09-17 19:14:24.936 | 14:38   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.0)
+2023-09-17 19:14:24.991 | 14:38   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 29.7)
+2023-09-17 19:14:25.077 | 14:39   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.8)
+2023-09-17 19:14:25.130 | 14:39   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.0, 34.3)
+2023-09-17 19:14:25.217 | 14:39   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.3, 35.5)
+2023-09-17 19:14:25.272 | 14:40   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.2, 35.3)
+2023-09-17 19:14:25.359 | 14:40   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.8, 34.4)
+2023-09-17 19:14:25.414 | 14:41   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.5, 34.6)
+2023-09-17 19:14:25.498 | 14:41   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.4, 33.9)
+2023-09-17 19:14:25.552 | 14:42   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.6, 35.5)
+2023-09-17 19:14:25.646 | 14:42   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.5, 33.2)
+2023-09-17 19:14:25.703 | 14:43   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 24.8)
+2023-09-17 19:14:25.791 | 14:43   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.9)
+2023-09-17 19:14:25.849 | 14:43   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.2, 32.9)
+2023-09-17 19:14:25.942 | 14:44   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.7, 33.8)
+2023-09-17 19:14:25.997 | 14:44   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.2, 34.7)
+2023-09-17 19:14:26.085 | 14:45   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.5)
+2023-09-17 19:14:26.138 | 14:45   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.2, 35.5)
+2023-09-17 19:14:26.229 | 14:46   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.3, 35.1)
+2023-09-17 19:14:26.284 | 14:46   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.0)
+2023-09-17 19:14:26.371 | 14:47   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.8)
+2023-09-17 19:14:26.423 | 14:47   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.0)
+2023-09-17 19:14:26.513 | 14:47   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.1, 35.3)
+2023-09-17 19:14:26.566 | 14:48   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.9, 35.4)
+2023-09-17 19:14:26.650 | 14:48   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.7)
+2023-09-17 19:14:26.705 | 14:49   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.5, 34.0)
+2023-09-17 19:14:26.790 | 14:49   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.9)
+2023-09-17 19:14:26.845 | 14:50   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.4, 34.6)
+2023-09-17 19:14:26.924 | 14:50   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.9, 33.7)
+2023-09-17 19:14:26.978 | 14:51   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.8, 32.9)
+2023-09-17 19:14:27.074 | 14:51   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 30.3)
+2023-09-17 19:14:27.128 | 14:51   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.8, 21.2)
+2023-09-17 19:14:27.211 | 14:52   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.4, 35.5)
+2023-09-17 19:14:27.269 | 14:52   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.6, 34.5)
+2023-09-17 19:14:27.360 | 14:53   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 23.4)
+2023-09-17 19:14:27.414 | 14:53   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.8, 35.4)
+2023-09-17 19:14:27.502 | 14:54   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.3, 32.4)
+2023-09-17 19:14:27.558 | 14:54   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.9, 35.1)
+2023-09-17 19:14:27.642 | 14:55   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.2, 34.7)
+2023-09-17 19:14:27.693 | 14:55   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.7, 33.1)
+2023-09-17 19:14:27.781 | 14:55   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.7, 34.5)
+2023-09-17 19:14:27.836 | 14:56   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.4)
+2023-09-17 19:14:27.922 | 14:56   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.7, 32.4)
+2023-09-17 19:14:27.977 | 14:57   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.3, 35.5)
+2023-09-17 19:14:28.075 | 14:57   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.0, 33.6)
+2023-09-17 19:14:28.130 | 14:58   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.2, 33.5)
+2023-09-17 19:14:28.215 | 14:58   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.8, 35.5)
+2023-09-17 19:14:28.272 | 14:59   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.6, 33.9)
+2023-09-17 19:14:28.360 | 14:59   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.7, 35.3)
+2023-09-17 19:14:28.414 | 15:00   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 22.0)
+2023-09-17 19:14:28.503 | 15:00   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.7, 35.3)
+2023-09-17 19:14:28.558 | 15:00   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.0)
+2023-09-17 19:14:28.649 | 15:01   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.0, 34.8)
+2023-09-17 19:14:28.703 | 15:01   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.6, 35.0)
+2023-09-17 19:14:28.789 | 15:02   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.2, 21.8)
+2023-09-17 19:14:28.841 | 15:02   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.9, 34.3)
+2023-09-17 19:14:28.932 | 15:03   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.0, 29.4)
+2023-09-17 19:14:28.988 | 15:03   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.8)
+2023-09-17 19:14:29.075 | 15:04   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.1, 35.1)
+2023-09-17 19:14:29.130 | 15:04   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.8, 35.3)
+2023-09-17 19:14:29.216 | 15:04   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.2, 34.9)
+2023-09-17 19:14:29.269 | 15:05   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.7, 35.5)
+2023-09-17 19:14:29.356 | 15:05   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.4, 35.4)
+2023-09-17 19:14:29.410 | 15:06   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.7, 33.8)
+2023-09-17 19:14:30.222 | 15:06   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.8, 35.5)
+2023-09-17 19:14:30.277 | 15:07   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.8, 33.5)
+2023-09-17 19:14:30.369 | 15:07   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.2, 33.0)
+2023-09-17 19:14:30.423 | 15:08   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.6, 32.3)
+2023-09-17 19:14:30.513 | 15:08   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 21.0)
+2023-09-17 19:14:30.568 | 15:08   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.2, 35.4)
+2023-09-17 19:14:30.655 | 15:09   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.4, 22.2)
+2023-09-17 19:14:30.707 | 15:09   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.0, 32.7)
+2023-09-17 19:14:30.797 | 15:10   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.9, 35.4)
+2023-09-17 19:14:30.854 | 15:10   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.8, 32.5)
+2023-09-17 19:14:30.938 | 15:11   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.1, 29.0)
+2023-09-17 19:14:30.992 | 15:11   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.8, 33.5)
+2023-09-17 19:14:31.081 | 15:12   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.2, 35.4)
+2023-09-17 19:14:31.134 | 15:12   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.7)
+2023-09-17 19:14:31.217 | 15:12   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.8)
+2023-09-17 19:14:31.270 | 15:13   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 21.6)
+2023-09-17 19:14:31.356 | 15:13   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 22.1)
+2023-09-17 19:14:31.410 | 15:14   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.8, 34.7)
+2023-09-17 19:14:31.494 | 15:14   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.6)
+2023-09-17 19:14:31.551 | 15:15   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.0, 34.8)
+2023-09-17 19:14:31.638 | 15:15   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.8, 32.5)
+2023-09-17 19:14:31.691 | 15:16   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 23.3)
+2023-09-17 19:14:31.776 | 15:16   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.0)
+2023-09-17 19:14:31.829 | 15:16   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.3, 35.4)
+2023-09-17 19:14:31.918 | 15:17   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 31.3)
+2023-09-17 19:14:31.971 | 15:17   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.3, 33.0)
+2023-09-17 19:14:32.059 | 15:18   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.0)
+2023-09-17 19:14:32.114 | 15:18   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.1)
+2023-09-17 19:14:32.200 | 15:19   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.6, 34.6)
+2023-09-17 19:14:32.255 | 15:19   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 28.1)
+2023-09-17 19:14:32.343 | 15:20   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.7)
+2023-09-17 19:14:32.397 | 15:20   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.3, 33.4)
+2023-09-17 19:14:32.476 | 15:20   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.3, 34.9)
+2023-09-17 19:14:32.531 | 15:21   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 31.4)
+2023-09-17 19:14:32.620 | 15:21   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.2, 35.5)
+2023-09-17 19:14:32.673 | 15:22   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.6)
+2023-09-17 19:14:32.758 | 15:22   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.5)
+2023-09-17 19:14:32.811 | 15:23   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 21.0)
+2023-09-17 19:14:32.897 | 15:23   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.5, 34.0)
+2023-09-17 19:14:32.951 | 15:24   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 24.2)
+2023-09-17 19:14:33.036 | 15:24   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.3, 33.0)
+2023-09-17 19:14:33.091 | 15:25   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 29.7)
+2023-09-17 19:14:33.176 | 15:25   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.2)
+2023-09-17 19:14:33.230 | 15:25   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 24.1)
+2023-09-17 19:14:33.318 | 15:26   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.2, 33.8)
+2023-09-17 19:14:33.370 | 15:26   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.8, 35.1)
+2023-09-17 19:14:33.455 | 15:27   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.5, 35.0)
+2023-09-17 19:14:33.510 | 15:27   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 32.1)
+2023-09-17 19:14:33.604 | 15:28   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.1, 33.7)
+2023-09-17 19:14:33.657 | 15:28   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.7, 34.9)
+2023-09-17 19:14:33.743 | 15:29   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.8, 35.1)
+2023-09-17 19:14:33.796 | 15:29   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.0, 29.5)
+2023-09-17 19:14:33.887 | 15:29   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.8, 35.5)
+2023-09-17 19:14:33.941 | 15:30   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.3, 34.6)
+2023-09-17 19:14:34.028 | 15:30   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.9, 35.4)
+2023-09-17 19:14:34.083 | 15:31   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 21.5)
+2023-09-17 19:14:34.173 | 15:31   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.1, 35.4)
+2023-09-17 19:14:34.228 | 15:32   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.3)
+2023-09-17 19:14:34.319 | 15:32   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.1, 35.5)
+2023-09-17 19:14:34.370 | 15:33   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.7, 33.0)
+2023-09-17 19:14:34.453 | 15:33   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.4, 35.0)
+2023-09-17 19:14:34.507 | 15:33   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.4)
+2023-09-17 19:14:34.594 | 15:34   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.7, 34.5)
+2023-09-17 19:14:34.646 | 15:34   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.8, 35.4)
+2023-09-17 19:14:34.737 | 15:35   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.0, 35.5)
+2023-09-17 19:14:34.789 | 15:35   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.5, 35.3)
+2023-09-17 19:14:34.872 | 15:36   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.1, 32.7)
+2023-09-17 19:14:34.924 | 15:36   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.8, 32.9)
+2023-09-17 19:14:35.001 | 15:37   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 30.2)
+2023-09-17 19:14:35.051 | 15:37   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.7, 34.9)
+2023-09-17 19:14:35.131 | 15:37   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 21.7)
+2023-09-17 19:14:35.182 | 15:38   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.8)
+2023-09-17 19:14:35.261 | 15:38   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.9, 32.9)
+2023-09-17 19:14:35.311 | 15:39   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 23.0)
+2023-09-17 19:14:35.390 | 15:39   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.4, 20.8)
+2023-09-17 19:14:35.442 | 15:40   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.4, 30.8)
+2023-09-17 19:14:35.521 | 15:40   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.8, 35.1)
+2023-09-17 19:14:35.572 | 15:41   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 21.0)
+2023-09-17 19:14:35.654 | 15:41   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.9, 31.6)
+2023-09-17 19:14:35.706 | 15:41   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.2, 35.3)
+2023-09-17 19:14:35.785 | 15:42   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.5, 34.5)
+2023-09-17 19:14:35.841 | 15:42   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.6)
+2023-09-17 19:14:35.932 | 15:43   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 24.7)
+2023-09-17 19:14:35.987 | 15:43   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.0, 35.4)
+2023-09-17 19:14:36.062 | 15:44   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.6, 35.4)
+2023-09-17 19:14:36.113 | 15:44   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.0, 35.4)
+2023-09-17 19:14:36.193 | 15:45   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.1)
+2023-09-17 19:14:36.244 | 15:45   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.9, 35.1)
+2023-09-17 19:14:36.324 | 15:45   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.7)
+2023-09-17 19:14:36.375 | 15:46   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.3, 31.1)
+2023-09-17 19:14:36.460 | 15:46   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.8)
+2023-09-17 19:14:36.512 | 15:47   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.7)
+2023-09-17 19:14:36.588 | 15:47   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.3, 35.5)
+2023-09-17 19:14:36.640 | 15:48   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 30.6)
+2023-09-17 19:14:36.721 | 15:48   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.3, 35.5)
+2023-09-17 19:14:36.775 | 15:49   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 30.6)
+2023-09-17 19:14:36.852 | 15:49   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.9, 33.6)
+2023-09-17 19:14:36.903 | 15:50   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.3, 35.3)
+2023-09-17 19:14:36.987 | 15:50   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 30.3)
+2023-09-17 19:14:37.037 | 15:50   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.2, 31.2)
+2023-09-17 19:14:37.118 | 15:51   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 30.7)
+2023-09-17 19:14:37.168 | 15:51   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.5)
+2023-09-17 19:14:37.250 | 15:52   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.1)
+2023-09-17 19:14:37.301 | 15:52   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.2, 34.7)
+2023-09-17 19:14:37.383 | 15:53   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 24.9)
+2023-09-17 19:14:37.435 | 15:53   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.7, 31.9)
+2023-09-17 19:14:37.521 | 15:54   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.7)
+2023-09-17 19:14:37.571 | 15:54   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.7, 33.8)
+2023-09-17 19:14:37.651 | 15:54   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.2, 21.8)
+2023-09-17 19:14:37.702 | 15:55   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.2)
+2023-09-17 19:14:37.782 | 15:55   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 31.5)
+2023-09-17 19:14:37.834 | 15:56   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.2)
+2023-09-17 19:14:37.919 | 15:56   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.4, 34.0)
+2023-09-17 19:14:37.969 | 15:57   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.8)
+2023-09-17 19:14:38.057 | 15:57   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.4)
+2023-09-17 19:14:38.107 | 15:58   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.8, 33.4)
+2023-09-17 19:14:38.189 | 15:58   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 21.0)
+2023-09-17 19:14:38.240 | 15:58   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 24.8)
+2023-09-17 19:14:38.321 | 15:59   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.0, 34.8)
+2023-09-17 19:14:38.373 | 15:59   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 29.8)
+2023-09-17 19:14:38.456 | 16:00   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.3)
+2023-09-17 19:14:38.508 | 16:00   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.7, 35.0)
+2023-09-17 19:14:38.590 | 16:01   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.9, 32.8)
+2023-09-17 19:14:38.641 | 16:01   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.1, 35.5)
+2023-09-17 19:14:38.719 | 16:02   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.4, 35.3)
+2023-09-17 19:14:38.770 | 16:02   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.5)
+2023-09-17 19:14:38.852 | 16:02   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.7, 34.9)
+2023-09-17 19:14:38.902 | 16:03   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.7, 35.3)
+2023-09-17 19:14:38.982 | 16:03   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.5, 34.0)
+2023-09-17 19:14:39.035 | 16:04   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.3, 34.9)
+2023-09-17 19:14:39.908 | 16:04   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (36.2, 34.2)
+2023-09-17 19:14:39.959 | 16:05   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.3, 35.0)
+2023-09-17 19:14:40.042 | 16:05   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.5)
+2023-09-17 19:14:40.093 | 16:06   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.8)
+2023-09-17 19:14:40.173 | 16:06   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 20.9)
+2023-09-17 19:14:40.227 | 16:06   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 21.6)
+2023-09-17 19:14:40.304 | 16:07   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.6, 35.4)
+2023-09-17 19:14:40.356 | 16:07   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.5, 34.5)
+2023-09-17 19:14:40.437 | 16:08   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.6, 35.3)
+2023-09-17 19:14:40.488 | 16:08   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.4, 35.3)
+2023-09-17 19:14:40.566 | 16:09   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.5, 33.2)
+2023-09-17 19:14:40.617 | 16:09   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.2, 34.9)
+2023-09-17 19:14:40.699 | 16:10   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.4, 30.8)
+2023-09-17 19:14:40.750 | 16:10   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.1, 35.5)
+2023-09-17 19:14:40.836 | 16:10   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 29.7)
+2023-09-17 19:14:40.890 | 16:11   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 21.5)
+2023-09-17 19:14:40.976 | 16:11   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.9, 35.2)
+2023-09-17 19:14:41.027 | 16:12   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.2, 31.2)
+2023-09-17 19:14:41.114 | 16:12   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.2, 32.5)
+2023-09-17 19:14:41.168 | 16:13   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 25.6)
+2023-09-17 19:14:41.248 | 16:13   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.6, 34.6)
+2023-09-17 19:14:41.299 | 16:14   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.5, 33.2)
+2023-09-17 19:14:41.378 | 16:14   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.8, 35.1)
+2023-09-17 19:14:41.430 | 16:15   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.3)
+2023-09-17 19:14:41.506 | 16:15   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.3, 35.4)
+2023-09-17 19:14:41.560 | 16:15   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.6, 32.1)
+2023-09-17 19:14:41.639 | 16:16   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.9, 35.4)
+2023-09-17 19:14:41.690 | 16:16   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 21.7)
+2023-09-17 19:14:41.772 | 16:17   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.0, 35.4)
+2023-09-17 19:14:41.823 | 16:17   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.8, 32.9)
+2023-09-17 19:14:41.900 | 16:18   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.3, 32.4)
+2023-09-17 19:14:41.950 | 16:18   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.2, 33.5)
+2023-09-17 19:14:42.029 | 16:19   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.7, 33.1)
+2023-09-17 19:14:42.081 | 16:19   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.1)
+2023-09-17 19:14:42.160 | 16:19   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.9, 21.4)
+2023-09-17 19:14:42.210 | 16:20   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 24.0)
+2023-09-17 19:14:42.292 | 16:20   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.0, 29.5)
+2023-09-17 19:14:42.344 | 16:21   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 30.0)
+2023-09-17 19:14:42.423 | 16:21   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.3, 34.5)
+2023-09-17 19:14:42.476 | 16:22   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.0, 21.6)
+2023-09-17 19:14:42.560 | 16:22   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 22.9)
+2023-09-17 19:14:42.616 | 16:23   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.2)
+2023-09-17 19:14:42.693 | 16:23   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.1, 33.7)
+2023-09-17 19:14:42.745 | 16:23   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.8, 21.2)
+2023-09-17 19:14:42.827 | 16:24   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.3, 35.4)
+2023-09-17 19:14:42.880 | 16:24   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.6, 35.0)
+2023-09-17 19:14:42.974 | 16:25   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.1, 33.6)
+2023-09-17 19:14:43.032 | 16:25   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.0)
+2023-09-17 19:14:43.119 | 16:26   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 30.5)
+2023-09-17 19:14:43.171 | 16:26   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.1, 35.4)
+2023-09-17 19:14:43.252 | 16:27   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.4, 35.5)
+2023-09-17 19:14:43.305 | 16:27   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 22.8)
+2023-09-17 19:14:43.393 | 16:27   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.4)
+2023-09-17 19:14:43.444 | 16:28   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 28.0)
+2023-09-17 19:14:43.523 | 16:28   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.6, 35.0)
+2023-09-17 19:14:43.575 | 16:29   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.6, 35.2)
+2023-09-17 19:14:43.656 | 16:29   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.1, 32.8)
+2023-09-17 19:14:43.707 | 16:30   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.7, 34.9)
+2023-09-17 19:14:43.788 | 16:30   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.3, 32.4)
+2023-09-17 19:14:43.837 | 16:31   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.2)
+2023-09-17 19:14:43.919 | 16:31   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.3, 35.5)
+2023-09-17 19:14:43.970 | 16:31   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.5, 35.3)
+2023-09-17 19:14:44.054 | 16:32   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.8)
+2023-09-17 19:14:44.105 | 16:32   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.0, 23.6)
+2023-09-17 19:14:44.186 | 16:33   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.0, 35.2)
+2023-09-17 19:14:44.242 | 16:33   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 22.9)
+2023-09-17 19:14:44.324 | 16:34   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.0)
+2023-09-17 19:14:44.379 | 16:34   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.1, 31.4)
+2023-09-17 19:14:44.457 | 16:35   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 30.6)
+2023-09-17 19:14:44.509 | 16:35   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (37.4, 33.3)
+2023-09-17 19:14:44.595 | 16:35   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.3)
+2023-09-17 19:14:44.654 | 16:36   12ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.1, 35.5)
+2023-09-17 19:14:44.747 | 16:36   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.5, 22.3)
+2023-09-17 19:14:44.803 | 16:37   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.2, 32.9)
+2023-09-17 19:14:44.886 | 16:37   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.8, 21.2)
+2023-09-17 19:14:44.940 | 16:38   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.0, 34.8)
+2023-09-17 19:14:45.021 | 16:38   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.2, 34.7)
+2023-09-17 19:14:45.075 | 16:39   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.6, 22.6)
+2023-09-17 19:14:45.153 | 16:39   16ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.8, 23.1)
+2023-09-17 19:14:45.206 | 16:40   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.8, 32.5)
+2023-09-17 19:14:45.290 | 16:40   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 27.4)
+2023-09-17 19:14:45.342 | 16:40   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 25.5)
+2023-09-17 19:14:45.424 | 16:41   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.7, 30.2)
+2023-09-17 19:14:45.475 | 16:41   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 27.5)
+2023-09-17 19:14:45.560 | 16:42   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.0, 32.7)
+2023-09-17 19:14:45.611 | 16:42   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (38.4, 20.8)
+2023-09-17 19:14:45.692 | 16:43   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.1, 34.8)
+2023-09-17 19:14:45.744 | 16:43   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.2, 35.4)
+2023-09-17 19:14:45.828 | 16:44   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (34.4, 35.0)
+2023-09-17 19:14:45.889 | 16:44   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (32.5, 35.4)
+2023-09-17 19:14:45.973 | 16:44   15ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.5, 35.0)
+2023-09-17 19:14:46.027 | 16:45   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.7, 34.5)
+2023-09-17 19:14:46.106 | 16:45   14ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (30.4, 35.4)
+2023-09-17 19:14:46.158 | 16:46   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.5, 26.4)
+2023-09-17 19:14:46.238 | 16:46   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.1, 35.2)
+2023-09-17 19:14:46.292 | 16:47   10ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (24.7, 32.4)
+2023-09-17 19:14:46.422 | 16:47   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.3, 28.2)
+2023-09-17 19:14:46.477 | 16:48   62ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (39.9, 29.8)
+2023-09-17 19:14:46.562 | 16:48   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (27.2, 34.4)
+2023-09-17 19:14:46.617 | 16:48   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (31.4, 35.5)
+2023-09-17 19:14:46.884 | 16:49   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (35.1, 34.8)
+2023-09-17 19:14:46.939 | 16:49   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.2, 28.8)
+2023-09-17 19:14:47.025 | 16:50   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (40.4, 24.9)
+2023-09-17 19:14:47.078 | 16:50   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (29.1, 35.2)
+2023-09-17 19:14:47.165 | 16:51   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.3, 33.8)
+2023-09-17 19:14:47.221 | 16:51   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (26.8, 34.2)
+2023-09-17 19:14:47.304 | 16:52   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (25.6, 33.3)
+2023-09-17 19:14:47.360 | 16:52   11ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (33.6, 35.3)
+2023-09-17 19:14:47.443 | 16:52   13ms 2735M    0G   0/ 30U [ActBuilding] 1. SPAWNINGPOOL near (28.9, 35.1)
+2023-09-17 19:14:47.877 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-17 19:14:47.881 | Result: Defeat
+2023-09-17 19:14:47.882 | Duration: 16:52
+2023-09-17 19:14:47.882 | Step time min: 6
+2023-09-17 19:14:47.883 | Step time avg: 15
+2023-09-17 19:14:47.883 | Step time max: 93
+2023-09-17 19:14:47.884 | [LostUnitsContents] My lost units minerals and gas: (4850, 0)
+2023-09-17 19:14:47.885 | [LostUnitsContents] My lost units minerals by score: 4850.0
+2023-09-17 19:14:47.885 | [LostUnitsContents] Enemy lost units minerals and gas: (3650, 0)
+2023-09-17 19:14:47.886 | [LostUnitsContents] Enemy lost units minerals by score: 3650.0
+2023-09-17 19:14:47.886 | [GameAnalyzerEnd] Own units:
+2023-09-17 19:14:47.887 | [GameAnalyzerEnd] ZERGLING          total:  74 alive:   0 dead:  74 
+2023-09-17 19:14:47.888 | [GameAnalyzerEnd] DRONE             total:  50 alive:   0 dead:  50 
+2023-09-17 19:14:47.888 | [GameAnalyzerEnd] LARVA             total:   3 alive:   3 dead:   0 
+2023-09-17 19:14:47.889 | [GameAnalyzerEnd] OVERLORD          total:   3 alive:   3 dead:   0 
+2023-09-17 19:14:47.889 | [GameAnalyzerEnd] SPAWNINGPOOL      total:   2 alive:   0 dead:   2 
+2023-09-17 19:14:47.890 | [GameAnalyzerEnd] HATCHERY          total:   1 alive:   1 dead:   0 
+2023-09-17 19:14:47.890 | [GameAnalyzerEnd] Enemy units:
+2023-09-17 19:14:47.891 | [GameAnalyzerEnd] MARINE            total:  44 alive:   5 dead:  39 
+2023-09-17 19:14:47.892 | [GameAnalyzerEnd] SCV               total:  41 alive:   9 dead:  32 
+2023-09-17 19:14:47.892 | [GameAnalyzerEnd] BARRACKS          total:   2 alive:   2 dead:   0 
+2023-09-17 19:14:47.893 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   1 dead:   0 
+2023-09-17 19:14:47.893 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   1 alive:   0 dead:   1 
+2023-09-17 19:14:47.894 | [GameAnalyzerEnd] Minerals max 2995 Average 1766
+2023-09-17 19:14:47.895 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-17 19:14:47.895 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Zerg): Defeat

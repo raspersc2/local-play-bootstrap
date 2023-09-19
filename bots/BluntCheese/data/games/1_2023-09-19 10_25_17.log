@@ -1,0 +1,102 @@
+2023-09-19 10:25:34.148 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-19 10:25:34.149 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Zerg)
+2023-09-19 10:25:34.395 | 00:00    0ms   50M    0G  12/ 14U [Version] 4.10.0.75689
+2023-09-19 10:25:34.396 | 00:00    0ms   50M    0G  12/ 14U [Version] 5.0.6 Balance mod recognized.
+2023-09-19 10:25:34.472 | 00:00    0ms   50M    0G  12/ 14U [ZoneManager] Map set to: MapName.Unknown from name: Royal BloodAIE and hash: 3249828.
+2023-09-19 10:25:35.076 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-19 10:25:35.099 | [Start] My race: Zerg
+2023-09-19 10:25:35.100 | [Start] Opponent race: Terran
+2023-09-19 10:25:35.100 | [Start] OpponentId: 1
+2023-09-19 10:25:37.159 | 00:16    7ms  210M    0G  12/ 14U [ActBuilding] 1. SPAWNINGPOOL near (46.7, 41.4)
+2023-09-19 10:25:37.884 | 00:24    8ms    0M    0G  11/ 14U [ActUnit] OVERLORD from LARVA at (41.8, 30.7)
+2023-09-19 10:25:38.294 | 00:29    7ms    0M    0G  11/ 14U [ActUnit] DRONE from LARVA at (43.5, 31.0)
+2023-09-19 10:25:38.740 | 00:33    6ms    5M    0G  12/ 14U [ActUnit] DRONE from LARVA at (41.5, 30.5)
+2023-09-19 10:25:39.204 | 00:38    8ms    5M    0G  13/ 14U [ActUnit] DRONE from LARVA at (42.5, 30.4)
+2023-09-19 10:25:42.482 | 01:06   49ms  285M    0G  14/ 22U [ActUnit] ZERGLING from LARVA at (42.1, 30.5)
+2023-09-19 10:25:42.539 | 01:06   16ms  235M    0G  15/ 22U [ActUnit] ZERGLING from LARVA at (42.1, 30.4)
+2023-09-19 10:25:42.834 | 01:07   51ms  205M    0G  16/ 22U [ActUnit] ZERGLING from LARVA at (42.7, 30.8)
+2023-09-19 10:25:44.730 | 01:18   12ms  305M    0G  17/ 22U [ActUnit] ZERGLING from LARVA at (42.3, 30.7)
+2023-09-19 10:25:45.632 | 01:23   58ms  375M    0G  18/ 22U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:25:45.633 | 01:23   58ms  375M    0G  18/ 22U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:25:46.037 | 01:25   39ms  400M    0G  18/ 22U [PlanZoneAttack2] Power 3.00 is larger than required attack power 2.00 -> attack!
+2023-09-19 10:25:46.038 | 01:25   39ms  400M    0G  18/ 22U [PlanZoneAttack2] Attack started at 3.00 power.
+2023-09-19 10:25:46.147 | 01:26   12ms  405M    0G  18/ 22U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-19 10:25:46.569 | 01:29   12ms  375M    0G  18/ 22U [ActUnit] ZERGLING from LARVA at (42.4, 30.4)
+2023-09-19 10:25:48.013 | 01:40   12ms  360M    0G  19/ 22U [ActUnit] ZERGLING from LARVA at (42.3, 30.6)
+2023-09-19 10:25:48.862 | 01:46   12ms  385M    0G  20/ 22U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:25:48.863 | 01:46   12ms  385M    0G  20/ 22U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:25:49.480 | 01:50   12ms  350M    0G  20/ 22U [ActUnit] ZERGLING from LARVA at (42.4, 30.4)
+2023-09-19 10:25:52.198 | 02:01   67ms  340M    0G  21/ 22U [ActUnit] ZERGLING from LARVA at (42.4, 30.4)
+2023-09-19 10:25:54.718 | 02:12   66ms  280M    0G  22/ 22U [ActUnit] OVERLORD from LARVA at (42.4, 30.5)
+2023-09-19 10:25:55.679 | 02:15   85ms  290M    0G  21/ 22U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-19 10:25:57.172 | 02:22   22ms  270M    0G  21/ 22U [ActUnit] DRONE from LARVA at (42.4, 30.4)
+2023-09-19 10:25:59.143 | 02:33   17ms  260M    0G  17/ 30U [ActUnit] DRONE from LARVA at (42.4, 30.4)
+2023-09-19 10:26:01.126 | 02:43   56ms  305M    0G  11/ 30U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:26:01.127 | 02:43   56ms  305M    0G  11/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:26:01.327 | 02:44   24ms  255M    0G  11/ 30U [ActUnit] DRONE from LARVA at (42.3, 30.5)
+2023-09-19 10:26:02.497 | 02:46   32ms  260M    0G  12/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-19 10:26:04.699 | 02:55   66ms  265M    0G  12/ 30U [ActUnit] DRONE from LARVA at (42.6, 30.4)
+2023-09-19 10:26:05.157 | 02:56   61ms  270M    0G  12/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-19 10:26:06.319 | 03:01   75ms  295M    0G  12/ 30U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-19 10:26:06.439 | 03:02   60ms  305M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:26:06.902 | 03:03   62ms  320M    0G  12/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-19 10:26:07.306 | 03:05   14ms  280M    0G  12/ 30U [ActUnit] DRONE from LARVA at (42.3, 30.5)
+2023-09-19 10:26:07.693 | 03:07   54ms  295M    0G  13/ 30U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -415
+2023-09-19 10:26:07.699 | 03:07   54ms  295M    0G  13/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:26:08.823 | 03:12   27ms  325M    0G  13/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:26:09.053 | 03:14   18ms  340M    0G  12/ 30U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-19 10:26:09.180 | 03:14   25ms  355M    0G  12/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-19 10:26:09.557 | 03:16   22ms  305M    0G  12/ 30U [ActUnit] DRONE from LARVA at (42.3, 30.5)
+2023-09-19 10:26:09.671 | 03:17   18ms  315M    0G  13/ 30U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-19 10:26:09.837 | 03:18   15ms  320M    0G  13/ 30U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-19 10:26:11.047 | 03:23   60ms  365M    0G  12/ 30U [GameAnalyzer] Income advantage is now Even
+2023-09-19 10:26:11.049 | 03:23   60ms  365M    0G  12/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:26:11.149 | 03:24   65ms  365M    0G  12/ 30U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-19 10:26:11.727 | 03:27   22ms  350M    0G  12/ 30U [ActUnit] DRONE from LARVA at (42.5, 30.4)
+2023-09-19 10:26:13.950 | 03:37   60ms  390M    0G  13/ 30U [ActUnit] DRONE from LARVA at (42.6, 30.8)
+2023-09-19 10:26:16.273 | 03:48   60ms  450M    0G  14/ 30U [ActUnit] DRONE from LARVA at (42.6, 30.8)
+2023-09-19 10:26:17.494 | 03:53   78ms  500M    0G  15/ 30U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-19 10:26:18.843 | 03:59   58ms  520M    0G  15/ 30U [ActUnit] DRONE from LARVA at (42.4, 30.8)
+2023-09-19 10:26:22.060 | 04:10   59ms  600M    0G  16/ 30U [ActUnit] ZERGLING from LARVA at (42.6, 30.9)
+2023-09-19 10:26:24.566 | 04:20   59ms  680M    0G  17/ 30U [ActUnit] ZERGLING from LARVA at (42.7, 30.5)
+2023-09-19 10:26:26.062 | 04:27   71ms  765M    0G  18/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:26:27.023 | 04:31   61ms  765M    0G  18/ 30U [ActUnit] ZERGLING from LARVA at (42.6, 30.4)
+2023-09-19 10:26:29.259 | 04:42   63ms  870M    0G  19/ 30U [ActUnit] ZERGLING from LARVA at (42.5, 30.9)
+2023-09-19 10:26:30.918 | 04:49   40ms  965M    0G  20/ 30U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:26:31.704 | 04:52   16ms  955M    0G  19/ 30U [ActUnit] ZERGLING from LARVA at (42.3, 30.5)
+2023-09-19 10:26:32.096 | 04:54   27ms  985M    0G  20/ 30U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:26:34.617 | 05:03   63ms 1060M    0G  20/ 30U [ActUnit] ZERGLING from LARVA at (42.5, 30.9)
+2023-09-19 10:26:35.981 | 05:10   63ms 1145M    0G  21/ 30U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:26:35.987 | 05:10   63ms 1145M    0G  21/ 30U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:26:36.786 | 05:14   57ms 1155M    0G  21/ 30U [ActUnit] ZERGLING from LARVA at (42.5, 30.4)
+2023-09-19 10:26:38.694 | 05:24   43ms 1295M    0G  22/ 30U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-19 10:26:38.894 | 05:25   64ms 1245M    0G  22/ 30U [ActUnit] ZERGLING from LARVA at (42.3, 30.7)
+2023-09-19 10:26:40.605 | 05:35   23ms 1345M    0G  23/ 30U [ActUnit] ZERGLING from LARVA at (42.7, 30.6)
+2023-09-19 10:26:42.504 | 05:46   64ms 1440M    0G  24/ 30U [ActUnit] ZERGLING from LARVA at (42.4, 30.9)
+2023-09-19 10:26:43.655 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-19 10:26:43.659 | Result: Victory
+2023-09-19 10:26:43.659 | Duration: 05:50
+2023-09-19 10:26:43.660 | Step time min: 6
+2023-09-19 10:26:43.661 | Step time avg: 41
+2023-09-19 10:26:43.661 | Step time max: 128
+2023-09-19 10:26:43.662 | [LostUnitsContents] My lost units minerals and gas: (875, 0)
+2023-09-19 10:26:43.662 | [LostUnitsContents] My lost units minerals by score: 875.0
+2023-09-19 10:26:43.663 | [LostUnitsContents] Enemy lost units minerals and gas: (2625, 0)
+2023-09-19 10:26:43.663 | [LostUnitsContents] Enemy lost units minerals by score: 3025.0
+2023-09-19 10:26:43.664 | [GameAnalyzerEnd] Own units:
+2023-09-19 10:26:43.665 | [GameAnalyzerEnd] ZERGLING          total:  32 alive:  17 dead:  15 
+2023-09-19 10:26:43.666 | [GameAnalyzerEnd] DRONE             total:  24 alive:  14 dead:  10 
+2023-09-19 10:26:43.667 | [GameAnalyzerEnd] OVERLORD          total:   3 alive:   3 dead:   0 
+2023-09-19 10:26:43.667 | [GameAnalyzerEnd] EGG               total:   2 alive:   2 dead:   0 
+2023-09-19 10:26:43.668 | [GameAnalyzerEnd] HATCHERY          total:   1 alive:   1 dead:   0 
+2023-09-19 10:26:43.668 | [GameAnalyzerEnd] SPAWNINGPOOL      total:   1 alive:   1 dead:   0 
+2023-09-19 10:26:43.669 | [GameAnalyzerEnd] Enemy units:
+2023-09-19 10:26:43.669 | [GameAnalyzerEnd] SCV               total:  28 alive:   0 dead:  28 
+2023-09-19 10:26:43.670 | [GameAnalyzerEnd] MARINE            total:  13 alive:   0 dead:  13 
+2023-09-19 10:26:43.670 | [GameAnalyzerEnd] BARRACKS          total:   2 alive:   1 dead:   1 
+2023-09-19 10:26:43.671 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   2 alive:   0 dead:   2 
+2023-09-19 10:26:43.672 | [GameAnalyzerEnd] REFINERY          total:   1 alive:   0 dead:   1 
+2023-09-19 10:26:43.672 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   0 dead:   1 
+2023-09-19 10:26:43.673 | [GameAnalyzerEnd] Minerals max 1495 Average 514
+2023-09-19 10:26:43.673 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-19 10:26:43.674 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Zerg): Victory

@@ -1,0 +1,67 @@
+ERROR StatusLogger No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+Starting ladder game
+Start game took 2025.9063 ms
+ZERG_LARVA 420
+ZERG_HATCHERY 10
+ZERG_SPAWNING_POOL 1
+ZERG_HYDRALISK_DEN 2
+ZERG_DRONE 4140
+ZERG_OVERSEER 1293
+ZERG_HYDRALISK 1066
+ZERG_OVERLORD_COCOON 132
+ZERG_ZERGLING 2550
+ZERG_QUEEN 807
+ZERG_LAIR 2
+ZERG_OVERLORD 8929
+ZERG_CREEP_TUMOR_BURROWED 21
+Total 19373
+17:52:41.815 [vert.x-eventloop-thread-0] ERROR com.github.ocraft.s2client.api.vertx.OnResponse - OnResponse.onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(Unknown Source) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:?]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1128) ~[netty-buffer-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) [netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:644) [netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:579) [netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:496) [netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:458) [netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897) [netty-common-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.30.Final.jar:4.1.30.Final]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+17:52:41.829 [main] ERROR com.github.ocraft.s2client.bot.gateway.impl.ControlInterfaceImpl - waitForResponse error
+java.lang.RuntimeException: java.net.SocketException: Connection reset
+	at io.reactivex.internal.util.ExceptionHelper.wrapOrThrow(ExceptionHelper.java:46) ~[rxjava-2.2.4.jar:?]
+	at io.reactivex.internal.observers.BlockingMultiObserver.blockingGet(BlockingMultiObserver.java:93) ~[rxjava-2.2.4.jar:?]
+	at io.reactivex.Maybe.blockingGet(Maybe.java:2275) ~[rxjava-2.2.4.jar:?]
+	at com.github.ocraft.s2client.bot.gateway.impl.ProtoInterfaceImpl.waitForResponse(ProtoInterfaceImpl.java:149) ~[ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.github.ocraft.s2client.bot.gateway.impl.ControlInterfaceImpl.waitForResponse(ControlInterfaceImpl.java:452) [ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.github.ocraft.s2client.bot.gateway.impl.ControlInterfaceImpl.pollLeaveGame(ControlInterfaceImpl.java:389) [ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.github.ocraft.s2client.bot.S2Coordinator.lambda$stepAgent$14(S2Coordinator.java:735) [ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.github.ocraft.s2client.bot.S2Coordinator.stepAgents(S2Coordinator.java:718) [ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.github.ocraft.s2client.bot.S2Coordinator.update(S2Coordinator.java:637) [ocraft-s2client-bot-0.3.11.jar:0.3.11]
+	at com.hjax.kagamine.LadderMain.main(LadderMain.java:19) [Kagamine.jar:?]
+Caused by: java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(Unknown Source) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:?]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-buffer-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1128) ~[netty-buffer-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:644) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:579) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:496) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:458) ~[netty-transport-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:897) ~[netty-common-4.1.30.Final.jar:4.1.30.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.30.Final.jar:4.1.30.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+Exception in thread "main" java.lang.IllegalStateException: Client is already stopped.
+	at com.github.ocraft.s2client.api.S2Client.request(S2Client.java:205)
+	at com.github.ocraft.s2client.bot.gateway.impl.ProtoInterfaceImpl.sendRequest(ProtoInterfaceImpl.java:135)
+	at com.github.ocraft.s2client.bot.gateway.impl.ProtoInterfaceImpl.quit(ProtoInterfaceImpl.java:160)
+	at com.github.ocraft.s2client.bot.gateway.impl.ControlInterfaceImpl.quit(ControlInterfaceImpl.java:441)
+	at com.github.ocraft.s2client.bot.S2Coordinator.lambda$quit$29(S2Coordinator.java:1023)
+	at java.base/java.util.ArrayList.forEach(Unknown Source)
+	at com.github.ocraft.s2client.bot.S2Coordinator.quit(S2Coordinator.java:1023)
+	at com.hjax.kagamine.LadderMain.main(LadderMain.java:21)

@@ -1,0 +1,399 @@
+2023-09-19 10:27:26.900 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-19 10:27:26.901 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Zerg)
+2023-09-19 10:27:27.193 | 00:00    0ms    0M    0G  12/ 14U [Version] 4.10.0.75689
+2023-09-19 10:27:27.194 | 00:00    0ms    0M    0G  12/ 14U [Version] 5.0.6 Balance mod recognized.
+2023-09-19 10:27:27.272 | 00:00    0ms    0M    0G  12/ 14U [ZoneManager] Map set to: MapName.Unknown from name: Dragon ScalesAIE and hash: 3095225.
+2023-09-19 10:27:28.257 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-19 10:27:28.281 | [Start] My race: Zerg
+2023-09-19 10:27:28.282 | [Start] Opponent race: Terran
+2023-09-19 10:27:28.282 | [Start] OpponentId: 1
+2023-09-19 10:27:28.399 | 00:00    0ms    0M    0G  12/ 14U [ActUnit] DRONE from LARVA at (172.4, 54.8)
+2023-09-19 10:27:29.486 | 00:07    8ms    5M    0G  13/ 14U [ActUnit] DRONE from LARVA at (172.0, 54.3)
+2023-09-19 10:27:30.333 | 00:16    8ms   10M    0G  14/ 14U [ActUnit] OVERLORD from LARVA at (171.6, 54.9)
+2023-09-19 10:27:32.082 | 00:34    7ms  195M    0G  14/ 22U [ActUnit] DRONE from LARVA at (171.4, 54.5)
+2023-09-19 10:27:32.127 | 00:35    9ms  145M    0G  15/ 22U [ActUnit] DRONE from LARVA at (172.4, 54.7)
+2023-09-19 10:27:33.232 | 00:46    8ms  300M    0G  16/ 22U [Expand] Expanding to (142.5, 52.5)
+2023-09-19 10:27:33.648 | 00:50    9ms    5M    0G  16/ 22U [ActUnit] DRONE from LARVA at (171.3, 54.7)
+2023-09-19 10:27:34.032 | 00:54   10ms    5M    0G  17/ 22U [ActUnit] DRONE from LARVA at (171.8, 54.8)
+2023-09-19 10:27:34.169 | 00:55    8ms   15M    0G  17/ 22U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-19 10:27:34.216 | 00:55   11ms    0M    0G  17/ 22U [BuildGas] Building EXTRACTOR to (178.5, 60.5)
+2023-09-19 10:27:36.675 | 01:10   18ms  200M    0G  16/ 22U [ActBuilding] 1. SPAWNINGPOOL near (164.9, 63.6)
+2023-09-19 10:27:37.414 | 01:14    9ms    0M    0G  15/ 22U [ActUnit] DRONE from LARVA at (171.5, 54.7)
+2023-09-19 10:27:37.772 | 01:17    8ms    0M    0G  16/ 22U [ActUnit] DRONE from LARVA at (171.4, 54.7)
+2023-09-19 10:27:38.139 | 01:20   10ms    0M    0G  17/ 22U [ActUnit] DRONE from LARVA at (172.3, 54.9)
+2023-09-19 10:27:39.088 | 01:28    9ms   30M   16G  18/ 22U [ActUnit] DRONE from LARVA at (171.5, 54.9)
+2023-09-19 10:27:40.357 | 01:39    9ms   65M   48G  19/ 22U [ActUnit] OVERLORD from LARVA at (171.4, 54.8)
+2023-09-19 10:27:41.689 | 01:50   10ms  175M   76G  19/ 22U [ActUnit] DRONE from LARVA at (171.3, 54.7)
+2023-09-19 10:27:43.220 | 02:00    8ms  180M  104G  20/ 30U [ActUnit] QUEEN from HATCHERY at (171.5, 57.5)
+2023-09-19 10:27:43.221 | 02:00    8ms  180M  104G  20/ 30U [Tech] Started ZERGLINGMOVEMENTSPEED
+2023-09-19 10:27:43.301 | 02:00   15ms   30M    4G  22/ 30U [ActUnit] ZERGLING from LARVA at (171.5, 54.4)
+2023-09-19 10:27:44.168 | 02:06   10ms   65M   20G  23/ 36U [ActUnit] ZERGLING from LARVA at (142.4, 49.5)
+2023-09-19 10:27:44.905 | 02:11   11ms   95M   32G  24/ 36U [ActUnit] DRONE from LARVA at (171.3, 54.6)
+2023-09-19 10:27:45.653 | 02:16    9ms   10M   48G  25/ 36U [ActUnit] QUEEN from HATCHERY at (142.5, 52.5)
+2023-09-19 10:27:45.935 | 02:18    9ms   40M   52G  27/ 36U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:27:45.937 | 02:18    9ms   40M   52G  27/ 36U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:27:46.739 | 02:23   15ms  115M   64G  27/ 36U [DefensiveBuilding] Building SPINECRAWLER to (138.96446609406726, 56.03553390593274)
+2023-09-19 10:27:48.665 | 02:35   10ms    0M    0G  26/ 36U [ActUnit] DRONE from LARVA at (143.0, 49.6)
+2023-09-19 10:27:48.913 | 02:36   13ms   20M    0G  27/ 36U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:27:49.215 | 02:38   12ms    0M    8G  27/ 36U [ActUnit] DRONE from LARVA at (171.9, 54.5)
+2023-09-19 10:27:49.655 | 02:41   12ms    0M   12G  28/ 36U [ActUnit] DRONE from LARVA at (171.3, 54.4)
+2023-09-19 10:27:51.044 | 02:44   11ms    0M   24G  29/ 36U [ActUnit] DRONE from LARVA at (143.4, 49.7)
+2023-09-19 10:27:51.549 | 02:47   11ms    0M   32G  30/ 36U [ActUnit] DRONE from LARVA at (142.6, 49.9)
+2023-09-19 10:27:52.089 | 02:50   12ms    5M   40G  31/ 36U [ActUnit] ZERGLING from LARVA at (142.1, 49.3)
+2023-09-19 10:27:52.393 | 02:52   14ms   35M   44G  32/ 36U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:27:52.394 | 02:52   14ms   35M   44G  32/ 36U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:27:52.459 | 02:53   12ms    0M   48G  32/ 36U [ActUnit] ZERGLING from LARVA at (171.8, 54.5)
+2023-09-19 10:27:53.049 | 02:56   11ms    0M   56G  33/ 36U [ActUnit] ZERGLING from LARVA at (170.9, 54.6)
+2023-09-19 10:27:53.206 | 02:57   11ms   15M   60G  34/ 36U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-19 10:27:53.649 | 03:00   10ms   15M   64G  34/ 36U [ActUnit] ZERGLING from LARVA at (142.6, 49.8)
+2023-09-19 10:27:54.498 | 03:05   15ms   15M   80G  35/ 36U [ActUnit] OVERLORD from LARVA at (171.7, 54.5)
+2023-09-19 10:27:55.017 | 03:08   11ms   70M   88G  35/ 36U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:27:55.488 | 03:11   13ms   70M   96G  35/ 36U [ActUnit] DRONE from LARVA at (142.7, 49.7)
+2023-09-19 10:27:56.111 | 03:14   13ms  150M  104G  36/ 36U [ActBuilding] 1. ROACHWARREN near (169.7, 66.3)
+2023-09-19 10:27:56.537 | 03:16   16ms   35M  112G  36/ 36U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:27:56.697 | 03:17   14ms   70M  112G  35/ 36U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:27:56.698 | 03:17   14ms   70M  112G  35/ 36U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:27:56.701 | 03:17   14ms   20M  112G  35/ 36U [ActUnit] DRONE from LARVA at (171.5, 54.8)
+2023-09-19 10:27:57.726 | 03:23   11ms   75M  128G  36/ 44U [ActUnit] DRONE from LARVA at (143.6, 49.4)
+2023-09-19 10:27:57.827 | 03:24   17ms   40M  132G  37/ 44U [ActUnit] DRONE from LARVA at (143.6, 49.7)
+2023-09-19 10:27:57.894 | 03:24   12ms    5M  132G  38/ 44U [ActUnit] DRONE from LARVA at (141.6, 49.9)
+2023-09-19 10:27:58.367 | 03:27   11ms    5M  140G  39/ 44U [ActUnit] DRONE from LARVA at (172.0, 54.9)
+2023-09-19 10:27:58.769 | 03:29   15ms    0M  144G  40/ 44U [ActUnit] ZERGLING from LARVA at (142.8, 49.7)
+2023-09-19 10:28:00.526 | 03:37   86ms   60M  168G  41/ 44U [ActUnit] OVERLORD from LARVA at (171.3, 54.4)
+2023-09-19 10:28:00.807 | 03:38   85ms   80M  168G  41/ 44U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:28:00.809 | 03:38   85ms   80M  168G  41/ 44U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:28:01.081 | 03:39   78ms   45M  172G  40/ 44U [ActUnit] ZERGLING from LARVA at (142.7, 49.5)
+2023-09-19 10:28:01.221 | 03:39   62ms   55M  172G  41/ 44U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:28:01.222 | 03:39   62ms   55M  172G  41/ 44U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:28:02.656 | 03:41   85ms  110M  180G  41/ 44U [GameAnalyzer] Known army advantage is now Even
+2023-09-19 10:28:02.662 | 03:41   85ms  110M  180G  41/ 44U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:28:04.310 | 03:46   69ms  235M  192G  40/ 44U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:28:04.446 | 03:47   92ms  140M  192G  40/ 44U [ActUnit] OVERLORD from LARVA at (142.6, 49.9)
+2023-09-19 10:28:04.451 | 03:47   92ms   90M  192G  40/ 44U [ActUnit] ZERGLING from LARVA at (143.3, 49.8)
+2023-09-19 10:28:04.610 | 03:47   70ms   55M  196G  41/ 44U [ActUnit] ZERGLING from LARVA at (141.8, 49.9)
+2023-09-19 10:28:05.222 | 03:49   69ms  105M  200G  42/ 44U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:05.469 | 03:50   36ms  130M  200G  42/ 44U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:28:05.471 | 03:50   36ms  130M  200G  42/ 44U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:28:05.719 | 03:51   29ms   95M  204G  42/ 44U [ActUnit] ZERGLING from LARVA at (170.5, 54.6)
+2023-09-19 10:28:07.169 | 03:57   18ms  170M  195G  42/ 52U [ActUnit] ROACH from LARVA at (171.5, 54.9)
+2023-09-19 10:28:07.251 | 03:57   17ms  110M  170G  44/ 52U [ActUnit] ROACH from LARVA at (142.8, 49.2)
+2023-09-19 10:28:07.367 | 03:57   18ms   45M  149G  46/ 52U [ActUnit] ROACH from LARVA at (172.3, 54.5)
+2023-09-19 10:28:07.828 | 04:00   14ms   80M  153G  48/ 52U [BuildGas] Building EXTRACTOR to (138.5, 45.5)
+2023-09-19 10:28:08.124 | 04:01   17ms   10M  157G  48/ 52U [ActUnit] OVERLORD from LARVA at (142.5, 49.6)
+2023-09-19 10:28:08.204 | 04:01   15ms    0M  157G  47/ 52U [BuildGas] Building EXTRACTOR to (167.5, 50.5)
+2023-09-19 10:28:08.730 | 04:04   12ms   10M  165G  47/ 52U [ActUnit] DRONE from LARVA at (171.1, 54.7)
+2023-09-19 10:28:08.837 | 04:05   18ms   20M  165G  48/ 52U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:28:08.838 | 04:05   18ms   20M  165G  48/ 52U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:28:10.299 | 04:12   17ms  130M  185G  47/ 60U [ActUnit] DRONE from LARVA at (142.5, 49.6)
+2023-09-19 10:28:10.480 | 04:13   15ms   95M  164G  48/ 60U [ActUnit] ROACH from LARVA at (171.3, 54.8)
+2023-09-19 10:28:10.999 | 04:15   18ms  150M  172G  50/ 60U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:28:11.181 | 04:16   16ms  115M  172G  50/ 60U [ActUnit] DRONE from LARVA at (171.5, 54.6)
+2023-09-19 10:28:11.266 | 04:17   16ms   85M  176G  51/ 60U [ActUnit] DRONE from LARVA at (170.6, 54.8)
+2023-09-19 10:28:11.373 | 04:17   20ms   35M  176G  52/ 60U [ActUnit] DRONE from LARVA at (170.2, 54.8)
+2023-09-19 10:28:12.456 | 04:22   19ms  115M  192G  53/ 68U [ActUnit] DRONE from LARVA at (142.5, 49.6)
+2023-09-19 10:28:12.540 | 04:23   16ms  130M  192G  54/ 68U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:12.730 | 04:24   16ms  100M  192G  54/ 68U [ActUnit] DRONE from LARVA at (171.5, 54.6)
+2023-09-19 10:28:12.842 | 04:24   20ms   55M  196G  55/ 68U [ActUnit] DRONE from LARVA at (142.3, 49.6)
+2023-09-19 10:28:12.925 | 04:25   17ms   30M  196G  56/ 68U [ActUnit] DRONE from LARVA at (141.3, 49.8)
+2023-09-19 10:28:13.300 | 04:26   16ms    0M  200G  57/ 68U [ActUnit] DRONE from LARVA at (141.4, 49.7)
+2023-09-19 10:28:14.451 | 04:32   21ms  135M  216G  58/ 68U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-19 10:28:14.452 | 04:32   21ms  135M  216G  58/ 68U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:28:16.591 | 04:39   25ms  300M  248G  58/ 68U [Expand] Expanding to (113.5, 51.5)
+2023-09-19 10:28:17.069 | 04:42   18ms    0M  268G  58/ 68U [ActUnit] DRONE from LARVA at (142.9, 49.5)
+2023-09-19 10:28:17.482 | 04:43   17ms    5M  284G  59/ 68U [ActUnit] DRONE from LARVA at (171.0, 54.9)
+2023-09-19 10:28:17.764 | 04:44   70ms   25M  288G  60/ 68U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:28:18.047 | 04:45   68ms    0M  296G  60/ 68U [ActUnit] DRONE from LARVA at (142.6, 49.9)
+2023-09-19 10:28:18.743 | 04:47   91ms   15M  316G  61/ 68U [ActUnit] DRONE from LARVA at (172.2, 54.9)
+2023-09-19 10:28:19.197 | 04:49   70ms    0M  324G  62/ 68U [ActUnit] DRONE from LARVA at (171.8, 54.4)
+2023-09-19 10:28:19.335 | 04:49   87ms   10M  328G  62/ 68U [GameAnalyzer] Income advantage is now OverwhelmingAdvantage
+2023-09-19 10:28:19.922 | 04:51   82ms   10M  344G  62/ 68U [ActUnit] DRONE from LARVA at (170.8, 54.7)
+2023-09-19 10:28:20.219 | 04:52   86ms   15M  352G  63/ 68U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:20.510 | 04:53   87ms   15M  356G  63/ 68U [ActUnit] DRONE from LARVA at (142.5, 49.6)
+2023-09-19 10:28:21.029 | 04:55   86ms    0M  372G  64/ 68U [ActUnit] DRONE from LARVA at (142.3, 49.6)
+2023-09-19 10:28:21.190 | 04:55   33ms   15M  376G  65/ 68U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:28:21.191 | 04:55   33ms   15M  376G  65/ 68U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:28:22.044 | 04:58   71ms    0M  396G  65/ 68U [ActUnit] OVERLORD from LARVA at (142.6, 49.9)
+2023-09-19 10:28:23.021 | 05:01   81ms    0M  399G  63/ 68U [ActUnit] ROACH from LARVA at (171.7, 54.7)
+2023-09-19 10:28:23.805 | 05:04   81ms   10M  394G  65/ 68U [ActUnit] ROACH from LARVA at (142.7, 49.9)
+2023-09-19 10:28:24.827 | 05:07   70ms    0M  422G  67/ 68U [ActUnit] OVERLORD from LARVA at (170.8, 54.9)
+2023-09-19 10:28:26.041 | 05:10   72ms    5M  450G  67/ 68U [ActUnit] OVERLORD from LARVA at (142.5, 49.8)
+2023-09-19 10:28:27.945 | 05:16   90ms   30M  498G  67/ 76U [ActUnit] QUEEN from HATCHERY at (142.5, 52.5)
+2023-09-19 10:28:30.016 | 05:22   27ms  205M  542G  69/ 76U [ActBuilding] 1. SPIRE near (171.3, 66.5)
+2023-09-19 10:28:30.358 | 05:23   75ms   30M  350G  67/ 76U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:30.505 | 05:23   98ms   50M  354G  67/ 76U [MorphOverseer] Morphing OVERLORD at (172.0, 55.6)
+2023-09-19 10:28:31.438 | 05:26   90ms    5M  303G  64/ 84U [ActUnit] ROACH from LARVA at (172.4, 54.9)
+2023-09-19 10:28:32.226 | 05:28   70ms   10M  319G  66/ 84U [ActUnit] DRONE from LARVA at (142.0, 49.5)
+2023-09-19 10:28:33.179 | 05:31   75ms   25M  318G  67/ 92U [ActUnit] ROACH from LARVA at (171.1, 54.9)
+2023-09-19 10:28:33.777 | 05:33   71ms    0M  305G  69/ 92U [ActUnit] ROACH from LARVA at (171.0, 54.9)
+2023-09-19 10:28:35.483 | 05:35   31ms    5M  304G  71/ 92U [ActUnit] ROACH from LARVA at (143.6, 49.9)
+2023-09-19 10:28:36.266 | 05:37   89ms    0M  295G  73/ 92U [ActUnit] ROACH from LARVA at (143.7, 50.1)
+2023-09-19 10:28:37.170 | 05:40   84ms    5M  290G  75/ 92U [ActUnit] ROACH from LARVA at (170.6, 54.9)
+2023-09-19 10:28:37.868 | 05:42   31ms   80M  310G  77/ 92U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:28:37.873 | 05:42   31ms   80M  310G  77/ 92U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:28:37.880 | 05:42   31ms    5M  285G  77/ 92U [ActUnit] ROACH from LARVA at (170.4, 54.9)
+2023-09-19 10:28:38.316 | 05:44   91ms    5M  297G  79/ 92U [ActUnit] DRONE from LARVA at (143.2, 49.9)
+2023-09-19 10:28:38.973 | 05:45   91ms    0M  313G  80/ 92U [ActUnit] DRONE from LARVA at (143.5, 49.9)
+2023-09-19 10:28:39.292 | 05:46   96ms   30M  321G  79/ 92U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:28:40.420 | 05:50   75ms   65M  320G  79/ 92U [ActUnit] ROACH from LARVA at (171.6, 54.5)
+2023-09-19 10:28:41.344 | 05:52   36ms  150M  340G  81/ 92U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:28:41.349 | 05:52   36ms  150M  340G  81/ 92U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:28:41.353 | 05:52   36ms    0M  340G  81/ 92U [ActUnit] QUEEN from HATCHERY at (142.5, 52.5)
+2023-09-19 10:28:41.892 | 05:54   34ms   10M  356G  83/ 92U [ActUnit] DRONE from LARVA at (142.2, 49.7)
+2023-09-19 10:28:43.103 | 05:58   70ms  115M  384G  82/ 92U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:43.474 | 05:59   78ms   55M  371G  82/ 92U [ActUnit] ROACH from LARVA at (142.5, 49.7)
+2023-09-19 10:28:43.637 | 05:59   28ms   35M  375G  84/ 92U [ActUnit] DRONE from LARVA at (143.5, 49.8)
+2023-09-19 10:28:43.809 | 06:00   96ms    5M  379G  85/ 92U [ActUnit] DRONE from LARVA at (141.9, 49.9)
+2023-09-19 10:28:44.150 | 06:01  100ms   25M  383G  84/ 98U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:28:44.776 | 06:02   94ms    0M  374G  84/ 98U [ActUnit] ROACH from LARVA at (113.5, 48.6)
+2023-09-19 10:28:45.413 | 06:04  106ms    0M  390G  86/ 98U [ActUnit] DRONE from LARVA at (171.5, 54.9)
+2023-09-19 10:28:45.984 | 06:06   95ms    5M  402G  87/ 98U [ActUnit] DRONE from LARVA at (143.0, 49.3)
+2023-09-19 10:28:47.119 | 06:11   23ms    5M  442G  88/ 98U [ActUnit] QUEEN from HATCHERY at (113.5, 51.5)
+2023-09-19 10:28:49.254 | 06:20   26ms  320M  514G  90/ 98U [Expand] Expanding to (109.5, 79.5)
+2023-09-19 10:28:49.370 | 06:20   30ms    5M  522G  90/ 98U [BuildGas] Building EXTRACTOR to (135.5, 49.5)
+2023-09-19 10:28:49.684 | 06:22   23ms   20M  530G  89/ 98U [BuildGas] Building EXTRACTOR to (120.5, 50.5)
+2023-09-19 10:28:49.804 | 06:22   28ms    0M  534G  89/ 98U [ActUnit] DRONE from LARVA at (171.7, 54.3)
+2023-09-19 10:28:50.130 | 06:23   24ms   20M  546G  89/ 98U [BuildGas] Building EXTRACTOR to (120.5, 54.5)
+2023-09-19 10:28:50.345 | 06:24   24ms    0M  550G  89/ 98U [ActUnit] DRONE from LARVA at (171.4, 54.9)
+2023-09-19 10:28:50.774 | 06:26   24ms   15M  566G  89/ 98U [ActUnit] DRONE from LARVA at (113.6, 48.8)
+2023-09-19 10:28:50.778 | 06:26   24ms   15M  566G  89/ 98U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:28:50.901 | 06:27   29ms   30M  570G  89/ 98U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:51.006 | 06:27   24ms    0M  574G  89/ 98U [ActUnit] DRONE from LARVA at (113.8, 48.6)
+2023-09-19 10:28:51.384 | 06:28   92ms   45M  586G  90/ 98U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-19 10:28:51.385 | 06:28   92ms   45M  586G  90/ 98U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:28:51.495 | 06:29   30ms   25M  590G  90/ 98U [ActUnit] DRONE from LARVA at (142.1, 49.6)
+2023-09-19 10:28:51.838 | 06:30   32ms    0M  598G  91/ 98U [ActUnit] DRONE from LARVA at (142.5, 49.7)
+2023-09-19 10:28:52.162 | 06:31   25ms   10M  610G  92/ 98U [ActUnit] DRONE from LARVA at (141.6, 49.9)
+2023-09-19 10:28:53.279 | 06:33   34ms    5M  622G  93/ 98U [ActUnit] DRONE from LARVA at (170.6, 54.6)
+2023-09-19 10:28:53.595 | 06:34   25ms   10M  634G  94/ 98U [ActUnit] DRONE from LARVA at (113.3, 48.5)
+2023-09-19 10:28:54.064 | 06:36   27ms    5M  646G  95/ 98U [ActUnit] DRONE from LARVA at (141.1, 50.2)
+2023-09-19 10:28:54.701 | 06:39   25ms    0M  670G  96/ 98U [ActUnit] OVERLORD from LARVA at (140.7, 50.0)
+2023-09-19 10:28:55.475 | 06:42   27ms    0M  694G  96/ 98U [ActUnit] OVERLORD from LARVA at (172.3, 54.3)
+2023-09-19 10:28:55.810 | 06:43   24ms   35M  706G  96/ 98U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:28:56.238 | 06:45   25ms    5M  718G  96/ 98U [ActUnit] OVERLORD from LARVA at (143.1, 49.8)
+2023-09-19 10:28:57.017 | 06:48   27ms  105M  746G  96/ 98U [Tech] Started ZERGFLYERWEAPONSLEVEL1
+2023-09-19 10:28:57.022 | 06:48   27ms    5M  646G  96/ 98U [ActUnit] MUTALISK from LARVA at (170.6, 54.5)
+2023-09-19 10:28:57.694 | 06:51   25ms    5M  570G  96/ 98U [ActUnit] MUTALISK from LARVA at (114.4, 48.5)
+2023-09-19 10:28:58.901 | 06:56   26ms  175M  618G  98/ 98U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:28:59.266 | 06:57   35ms  110M  542G  98/106U [ActUnit] MUTALISK from LARVA at (172.5, 54.9)
+2023-09-19 10:28:59.371 | 06:57   26ms   30M  446G 100/106U [ActUnit] MUTALISK from LARVA at (114.3, 48.9)
+2023-09-19 10:28:59.923 | 07:00   35ms    5M  378G 102/106U [ActUnit] MUTALISK from LARVA at (114.6, 48.8)
+2023-09-19 10:29:00.150 | 07:00   33ms    5M  390G 104/114U [ActUnit] DRONE from LARVA at (171.1, 54.7)
+2023-09-19 10:29:00.612 | 07:02   32ms    5M  422G 105/114U [ActUnit] DRONE from LARVA at (142.6, 49.9)
+2023-09-19 10:29:00.949 | 07:04   24ms   10M  446G 106/122U [ActUnit] DRONE from LARVA at (143.6, 50.0)
+2023-09-19 10:29:01.291 | 07:05   33ms    5M  466G 107/122U [ActUnit] DRONE from LARVA at (114.4, 48.3)
+2023-09-19 10:29:01.636 | 07:06  100ms    5M  478G 108/122U [ActUnit] DRONE from LARVA at (143.6, 49.8)
+2023-09-19 10:29:02.187 | 07:08   38ms   10M  506G 109/122U [ActUnit] DRONE from LARVA at (172.6, 54.5)
+2023-09-19 10:29:02.548 | 07:09   29ms   10M  530G 110/122U [ActUnit] DRONE from LARVA at (170.6, 54.5)
+2023-09-19 10:29:03.177 | 07:11   41ms    5M  466G 111/122U [ActUnit] MUTALISK from LARVA at (141.2, 49.2)
+2023-09-19 10:29:04.042 | 07:14  102ms    0M  410G 113/122U [ActUnit] MUTALISK from LARVA at (172.2, 54.5)
+2023-09-19 10:29:04.459 | 07:15   35ms    5M  430G 115/122U [ActUnit] ZERGLING from LARVA at (142.2, 49.5)
+2023-09-19 10:29:05.275 | 07:18   39ms    0M  374G 116/122U [ActUnit] MUTALISK from LARVA at (172.7, 54.7)
+2023-09-19 10:29:05.553 | 07:19   38ms   45M  386G 116/122U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:29:05.554 | 07:19   38ms   45M  386G 116/122U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:29:06.010 | 07:20   42ms    5M  310G 114/122U [ActUnit] MUTALISK from LARVA at (114.3, 48.2)
+2023-09-19 10:29:06.735 | 07:22   38ms    0M  246G 116/122U [ActUnit] MUTALISK from LARVA at (114.0, 48.4)
+2023-09-19 10:29:07.470 | 07:25   44ms   20M  282G 113/122U [ActUnit] ZERGLING from LARVA at (113.0, 48.5)
+2023-09-19 10:29:07.618 | 07:25   38ms    0M  290G 112/122U [ActUnit] ZERGLING from LARVA at (142.9, 49.9)
+2023-09-19 10:29:08.534 | 07:27   43ms   35M  326G 112/122U [ActUnit] ZERGLING from LARVA at (142.0, 49.8)
+2023-09-19 10:29:08.667 | 07:28   37ms    5M  334G 113/122U [ActUnit] ZERGLING from LARVA at (113.3, 48.9)
+2023-09-19 10:29:09.869 | 07:29   53ms   10M  354G 113/122U [ActUnit] ZERGLING from LARVA at (171.4, 54.8)
+2023-09-19 10:29:09.991 | 07:30   36ms   30M  366G 114/122U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:29:09.992 | 07:30   36ms   30M  366G 114/122U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:29:10.553 | 07:31   33ms   10M  290G 112/122U [ActUnit] MUTALISK from LARVA at (142.7, 49.6)
+2023-09-19 10:29:10.820 | 07:32   34ms   45M  306G 112/122U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:29:10.821 | 07:32   34ms   45M  306G 112/122U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:29:10.969 | 07:33   41ms   55M  314G 112/122U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:29:10.970 | 07:33   41ms   55M  314G 112/122U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:29:11.264 | 07:34   42ms    5M  226G 112/122U [ActUnit] MUTALISK from LARVA at (171.7, 54.2)
+2023-09-19 10:29:11.680 | 07:35   35ms   60M  250G 114/122U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:29:11.681 | 07:35   35ms   60M  250G 114/122U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:29:12.138 | 07:36   39ms   15M  174G 114/122U [ActUnit] MUTALISK from LARVA at (141.8, 49.9)
+2023-09-19 10:29:12.264 | 07:37   36ms   45M  182G 114/122U [GameAnalyzer] Known army advantage is now Even
+2023-09-19 10:29:12.265 | 07:37   36ms   45M  182G 114/122U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-19 10:29:12.704 | 07:38   40ms   70M  198G 111/128U [BuildGas] Building EXTRACTOR to (110.5, 72.5)
+2023-09-19 10:29:12.715 | 07:38   40ms   70M  198G 111/128U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:29:13.028 | 07:39   44ms   55M  218G 111/128U [ActUnit] ZERGLING from LARVA at (109.7, 76.5)
+2023-09-19 10:29:13.421 | 07:40   36ms  115M  238G 111/128U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-19 10:29:13.422 | 07:40   36ms  115M  238G 111/128U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-19 10:29:13.433 | 07:40   36ms   15M  138G 111/128U [ActUnit] MUTALISK from LARVA at (141.4, 49.6)
+2023-09-19 10:29:13.846 | 07:42   38ms   25M  158G 113/128U [ActUnit] ZERGLING from LARVA at (114.6, 48.9)
+2023-09-19 10:29:13.976 | 07:42   33ms   45M  166G 114/128U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-19 10:29:13.977 | 07:42   33ms   45M  166G 114/128U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-19 10:29:14.418 | 07:43   37ms   70M  190G 113/128U [BuildGas] Building EXTRACTOR to (102.5, 80.5)
+2023-09-19 10:29:14.420 | 07:43   37ms   20M  190G 113/128U [ActUnit] DRONE from LARVA at (171.6, 53.9)
+2023-09-19 10:29:14.978 | 07:45   41ms   10M  118G 112/128U [ActUnit] MUTALISK from LARVA at (113.9, 48.9)
+2023-09-19 10:29:15.891 | 07:47   92ms   10M   54G 114/128U [ActUnit] MUTALISK from LARVA at (142.7, 49.8)
+2023-09-19 10:29:16.882 | 07:50  120ms   95M   90G 116/128U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:29:17.268 | 07:50  110ms   35M    2G 116/128U [ActUnit] MUTALISK from LARVA at (113.2, 48.7)
+2023-09-19 10:29:18.792 | 07:54  105ms  195M   62G 117/128U [BuildGas] Building EXTRACTOR to (102.5, 80.5)
+2023-09-19 10:29:18.796 | 07:54  105ms  145M   62G 117/128U [ActUnit] DRONE from LARVA at (171.4, 54.8)
+2023-09-19 10:29:19.181 | 07:55  119ms  170M   78G 118/128U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:29:19.186 | 07:55  119ms  170M   78G 118/128U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:29:19.901 | 07:57  103ms  255M  106G 118/128U [ActBuilding] 1. INFESTATIONPIT near (162.6, 58.7)
+2023-09-19 10:29:21.055 | 07:59  109ms  225M   50G 117/128U [ActUnit] DRONE from LARVA at (109.8, 76.6)
+2023-09-19 10:29:22.024 | 08:02   62ms  320M   86G 118/128U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:22.025 | 08:02   62ms  320M   86G 118/128U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:22.039 | 08:02   62ms  270M   86G 118/128U [ActUnit] ZERGLING from LARVA at (113.3, 48.9)
+2023-09-19 10:29:22.465 | 08:03  107ms  200M    2G 119/128U [ActUnit] MUTALISK from LARVA at (142.7, 49.2)
+2023-09-19 10:29:22.665 | 08:03  114ms  215M    6G 121/128U [PlanZoneAttack] Power 31.60 is larger than required attack power 20.00 -> attack!
+2023-09-19 10:29:22.666 | 08:03  114ms  215M    6G 121/128U [PlanZoneAttack] Attack started at 31.60 power.
+2023-09-19 10:29:22.848 | 08:03   83ms  230M   18G 119/128U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:29:23.396 | 08:05  110ms  235M   38G 118/128U [ActUnit] DRONE from LARVA at (109.4, 76.9)
+2023-09-19 10:29:24.052 | 08:06   91ms  290M   62G 119/128U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:29:24.230 | 08:07  129ms  260M   66G 119/128U [ActUnit] ZERGLING from LARVA at (172.1, 54.3)
+2023-09-19 10:29:24.811 | 08:08   51ms  270M   90G 120/128U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:25.841 | 08:10  110ms  280M  101G 119/128U [ActUnit] ROACH from LARVA at (113.5, 48.8)
+2023-09-19 10:29:26.065 | 08:11   87ms  255M  109G 121/128U [ActUnit] ZERGLING from LARVA at (109.4, 76.9)
+2023-09-19 10:29:27.478 | 08:14  106ms  340M  161G 120/128U [ActUnit] ZERGLING from LARVA at (171.6, 54.4)
+2023-09-19 10:29:29.665 | 08:19   90ms  470M  237G 120/128U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:30.699 | 08:21  105ms  495M  277G 120/128U [ActUnit] ZERGLING from LARVA at (113.6, 48.7)
+2023-09-19 10:29:30.914 | 08:21   45ms  460M  281G 121/128U [ActUnit] ZERGLING from LARVA at (109.6, 76.4)
+2023-09-19 10:29:31.922 | 08:24  105ms  560M  317G 122/128U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:29:32.341 | 08:24  110ms  525M  333G 122/128U [ActUnit] ZERGLING from LARVA at (171.3, 54.5)
+2023-09-19 10:29:35.312 | 08:29   96ms  650M  417G 122/128U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:35.891 | 08:31  115ms  700M  445G 123/128U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:29:36.297 | 08:32  114ms  690M  461G 123/128U [ActUnit] ZERGLING from LARVA at (113.5, 48.5)
+2023-09-19 10:29:36.505 | 08:32   97ms  600M  469G 124/128U [ActUnit] OVERLORD from LARVA at (110.0, 76.5)
+2023-09-19 10:29:37.510 | 08:35   45ms  605M  513G 124/128U [ActUnit] OVERLORD from LARVA at (108.6, 76.8)
+2023-09-19 10:29:37.525 | 08:35   45ms  555M  513G 124/128U [ActUnit] ZERGLING from LARVA at (109.7, 76.8)
+2023-09-19 10:29:37.688 | 08:35   57ms  170M  129G 125/128U [ActUnit] MUTALISK from LARVA at (171.4, 54.8)
+2023-09-19 10:29:37.856 | 08:36   49ms  195M  137G 127/128U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:29:38.683 | 08:38   65ms  210M  152G 125/128U [ActUnit] ROACH from LARVA at (108.6, 76.3)
+2023-09-19 10:29:39.577 | 08:40   53ms  200M   96G 124/128U [ActUnit] MUTALISK from LARVA at (142.5, 49.6)
+2023-09-19 10:29:40.088 | 08:41   51ms  340M  270G 126/128U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:29:40.089 | 08:41   51ms  340M  270G 126/128U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:29:40.467 | 08:42   60ms  350M  278G 125/128U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:40.468 | 08:42   60ms  350M  278G 125/128U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:40.622 | 08:42   59ms  380M  286G 124/128U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-19 10:29:40.623 | 08:42   59ms  380M  286G 124/128U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:29:40.635 | 08:42   59ms  180M   36G 124/128U [ActUnit] MUTALISK from LARVA at (113.4, 48.5)
+2023-09-19 10:29:41.450 | 08:45   97ms  365M  238G 124/128U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:41.451 | 08:45   97ms  365M  238G 124/128U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:41.614 | 08:45   60ms  255M   92G 124/128U [ActUnit] ZERGLING from LARVA at (108.9, 76.6)
+2023-09-19 10:29:42.349 | 08:47   43ms  280M  136G 125/128U [ActUnit] ZERGLING from LARVA at (171.4, 54.5)
+2023-09-19 10:29:43.563 | 08:51   43ms  370M  216G 124/136U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:44.348 | 08:53   52ms  400M  264G 125/144U [ActUnit] ZERGLING from LARVA at (113.4, 48.7)
+2023-09-19 10:29:44.837 | 08:54   44ms  420M  296G 126/144U [ActUnit] ZERGLING from LARVA at (109.6, 76.9)
+2023-09-19 10:29:45.641 | 08:57   52ms  455M  344G 126/144U [ActUnit] ZERGLING from LARVA at (172.4, 54.8)
+2023-09-19 10:29:45.807 | 08:57   46ms  425M  352G 126/144U [ActUnit] ZERGLING from LARVA at (171.2, 54.8)
+2023-09-19 10:29:45.954 | 08:57   58ms  390M  360G 127/144U [ActUnit] ZERGLING from LARVA at (171.2, 54.8)
+2023-09-19 10:29:47.421 | 09:01   44ms  505M  452G 128/144U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:47.733 | 09:02   44ms  540M  472G 126/144U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:29:48.182 | 09:04   56ms  515M  475G 125/144U [ActUnit] ROACH from LARVA at (113.4, 48.7)
+2023-09-19 10:29:48.630 | 09:05   44ms  510M  507G 126/144U [ActUnit] ZERGLING from LARVA at (109.3, 76.4)
+2023-09-19 10:29:49.267 | 09:07   45ms  590M  543G 127/144U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:29:49.579 | 09:08   44ms  565M  559G 126/144U [ActUnit] ZERGLING from LARVA at (171.7, 54.8)
+2023-09-19 10:29:49.730 | 09:08   59ms  530M  571G 127/144U [ActUnit] ZERGLING from LARVA at (143.6, 49.7)
+2023-09-19 10:29:49.894 | 09:09   48ms  510M  579G 127/144U [ActUnit] ZERGLING from LARVA at (113.3, 48.8)
+2023-09-19 10:29:50.041 | 09:09   60ms  485M  591G 128/144U [ActUnit] ZERGLING from LARVA at (143.7, 49.6)
+2023-09-19 10:29:50.195 | 09:10   49ms  445M  603G 129/144U [ActUnit] ZERGLING from LARVA at (113.0, 48.9)
+2023-09-19 10:29:50.343 | 09:10   56ms  400M  607G 130/144U [ActUnit] ZERGLING from LARVA at (109.5, 76.7)
+2023-09-19 10:29:50.502 | 09:10   49ms  370M  619G 131/144U [ActUnit] ZERGLING from LARVA at (141.3, 49.6)
+2023-09-19 10:29:50.656 | 09:11   68ms  345M  627G 132/144U [ActUnit] ZERGLING from LARVA at (109.9, 76.9)
+2023-09-19 10:29:50.809 | 09:11   54ms  315M  639G 132/144U [ActUnit] ZERGLING from LARVA at (114.7, 49.1)
+2023-09-19 10:29:50.959 | 09:12   55ms  235M  547G 133/144U [ActUnit] MUTALISK from LARVA at (109.8, 76.9)
+2023-09-19 10:29:51.555 | 09:14   59ms  260M  587G 134/144U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:29:52.316 | 09:16   48ms  245M  535G 135/144U [ActUnit] MUTALISK from LARVA at (113.5, 48.6)
+2023-09-19 10:29:52.610 | 09:17   48ms  180M  451G 137/144U [ActUnit] MUTALISK from LARVA at (109.4, 76.8)
+2023-09-19 10:29:53.345 | 09:19   55ms  180M  399G 139/144U [ActUnit] MUTALISK from LARVA at (171.2, 54.4)
+2023-09-19 10:29:54.446 | 09:22   56ms  385M  621G 141/144U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:29:56.001 | 09:24   57ms  280M  423G 139/144U [ActUnit] MUTALISK from LARVA at (142.5, 49.6)
+2023-09-19 10:29:56.300 | 09:25   62ms  405M  589G 141/144U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:29:56.789 | 09:26   60ms  370M  617G 141/144U [ActUnit] OVERLORD from LARVA at (113.5, 48.6)
+2023-09-19 10:29:56.960 | 09:27   70ms  285M  625G 141/144U [ActUnit] OVERLORD from LARVA at (109.5, 76.6)
+2023-09-19 10:29:57.137 | 09:27   62ms  310M  641G 141/144U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1340
+2023-09-19 10:29:57.732 | 09:29   73ms  265M  519G 141/144U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:29:57.912 | 09:29   70ms  180M  423G 141/144U [ActUnit] MUTALISK from LARVA at (171.7, 54.5)
+2023-09-19 10:29:59.311 | 09:33   61ms  425M  653G 143/144U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:29:59.834 | 09:34   74ms  380M  535G 143/144U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:30:00.344 | 09:35   64ms  520M  713G 143/144U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:30:00.906 | 09:37   78ms  480M  591G 143/144U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:30:01.276 | 09:38   69ms  460M  611G 143/144U [ActUnit] ZERGLING from LARVA at (109.5, 76.6)
+2023-09-19 10:30:01.450 | 09:38   65ms  585M  769G 144/144U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-19 10:30:04.189 | 09:45   77ms  700M  767G 144/152U [ActUnit] ZERGLING from LARVA at (142.7, 49.1)
+2023-09-19 10:30:04.382 | 09:45   67ms  665M  775G 145/160U [ActUnit] ZERGLING from LARVA at (172.3, 54.9)
+2023-09-19 10:30:04.566 | 09:46   84ms  640M  787G 146/160U [ActUnit] ZERGLING from LARVA at (114.0, 48.9)
+2023-09-19 10:30:04.765 | 09:46   69ms  610M  791G 147/160U [ActUnit] ZERGLING from LARVA at (142.4, 49.3)
+2023-09-19 10:30:04.953 | 09:47   83ms  565M  807G 148/160U [ActUnit] ZERGLING from LARVA at (170.8, 54.3)
+2023-09-19 10:30:05.153 | 09:47   71ms  535M  811G 149/160U [ActUnit] ZERGLING from LARVA at (171.1, 54.9)
+2023-09-19 10:30:05.400 | 09:47   89ms  505M  823G 150/160U [ActUnit] ZERGLING from LARVA at (114.3, 48.4)
+2023-09-19 10:30:05.595 | 09:48   71ms  480M  835G 151/160U [ActUnit] ZERGLING from LARVA at (114.3, 48.4)
+2023-09-19 10:30:05.782 | 09:48   86ms  400M  739G 152/160U [ActUnit] MUTALISK from LARVA at (109.5, 76.6)
+2023-09-19 10:30:05.984 | 09:49   72ms  310M  655G 154/160U [ActUnit] MUTALISK from LARVA at (170.7, 54.9)
+2023-09-19 10:30:08.255 | 09:54   68ms  520M  767G 155/160U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-19 10:30:09.230 | 09:56   86ms  555M  815G 154/160U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:30:09.435 | 09:57   72ms  535M  831G 155/160U [ActUnit] ZERGLING from LARVA at (113.6, 48.8)
+2023-09-19 10:30:09.801 | 09:58   70ms  465M  847G 156/160U [ActUnit] OVERLORD from LARVA at (171.5, 54.4)
+2023-09-19 10:30:10.429 | 09:59   93ms  425M  879G 156/160U [ActUnit] OVERLORD from LARVA at (108.6, 76.8)
+2023-09-19 10:30:10.845 | 10:00   80ms  365M  795G 156/160U [ActUnit] MUTALISK from LARVA at (109.5, 76.7)
+2023-09-19 10:30:11.052 | 10:00   72ms  275M  703G 158/160U [ActUnit] MUTALISK from LARVA at (110.4, 76.9)
+2023-09-19 10:30:11.055 | 10:00   72ms  275M  703G 158/160U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:30:13.594 | 10:06   80ms  480M  823G 159/160U [Inject] injecting hatch (171.5, 57.5)
+2023-09-19 10:30:13.806 | 10:06   94ms  460M  831G 159/160U [ActUnit] ZERGLING from LARVA at (109.9, 76.9)
+2023-09-19 10:30:16.176 | 10:11   68ms  595M  935G 159/160U [ActUnit] ZERGLING from LARVA at (142.8, 49.9)
+2023-09-19 10:30:18.371 | 10:16   81ms  755M 1047G 160/168U [ActUnit] ZERGLING from LARVA at (114.6, 49.0)
+2023-09-19 10:30:18.571 | 10:16   65ms  715M 1051G 161/168U [ActUnit] ZERGLING from LARVA at (171.8, 54.4)
+2023-09-19 10:30:18.573 | 10:16   65ms  715M 1051G 161/168U [Inject] injecting hatch (113.5, 51.5)
+2023-09-19 10:30:18.768 | 10:17   84ms  675M 1063G 162/168U [ActUnit] ZERGLING from LARVA at (141.1, 50.3)
+2023-09-19 10:30:18.969 | 10:17   65ms  645M 1075G 163/176U [ActUnit] ZERGLING from LARVA at (113.5, 48.6)
+2023-09-19 10:30:19.171 | 10:18   74ms  605M 1079G 164/176U [ActUnit] ZERGLING from LARVA at (113.3, 48.7)
+2023-09-19 10:30:19.359 | 10:18   63ms  580M 1095G 165/176U [ActUnit] ZERGLING from LARVA at (110.0, 76.3)
+2023-09-19 10:30:19.545 | 10:19   68ms  565M 1107G 166/176U [ActUnit] ZERGLING from LARVA at (143.1, 49.9)
+2023-09-19 10:30:19.736 | 10:19   62ms  530M 1111G 167/176U [ActUnit] ZERGLING from LARVA at (142.5, 49.7)
+2023-09-19 10:30:19.923 | 10:20   78ms  495M 1123G 168/176U [ActUnit] ZERGLING from LARVA at (113.1, 48.5)
+2023-09-19 10:30:20.104 | 10:20   61ms  460M 1127G 169/176U [ActUnit] ZERGLING from LARVA at (171.8, 54.5)
+2023-09-19 10:30:21.544 | 10:22   58ms  470M 1171G 170/176U [ActUnit] ZERGLING from LARVA at (109.4, 76.4)
+2023-09-19 10:30:22.630 | 10:25   61ms  535M 1231G 170/176U [ActUnit] ZERGLING from LARVA at (142.5, 49.6)
+2023-09-19 10:30:24.638 | 10:29  115ms  650M 1319G 171/176U [ActUnit] ZERGLING from LARVA at (113.3, 48.5)
+2023-09-19 10:30:25.294 | 10:30  116ms  600M 1347G 172/176U [ActUnit] OVERLORD from LARVA at (171.7, 54.5)
+2023-09-19 10:30:25.524 | 10:30  123ms  540M 1351G 172/176U [ActUnit] OVERLORD from LARVA at (109.5, 76.6)
+2023-09-19 10:30:25.746 | 10:31  112ms  445M 1367G 172/176U [ActUnit] OVERLORD from LARVA at (108.6, 76.8)
+2023-09-19 10:30:25.766 | 10:31  112ms  345M 1267G 172/176U [ActUnit] MUTALISK from LARVA at (110.3, 76.7)
+2023-09-19 10:30:26.413 | 10:32  120ms  385M 1295G 174/176U [Inject] injecting hatch (109.5, 79.5)
+2023-09-19 10:30:26.809 | 10:33   66ms  330M 1215G 174/176U [ActUnit] MUTALISK from LARVA at (109.5, 76.6)
+2023-09-19 10:30:29.131 | 10:38  129ms  530M 1323G 176/176U [Inject] injecting hatch (142.5, 52.5)
+2023-09-19 10:30:30.059 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-19 10:30:30.068 | Result: Victory
+2023-09-19 10:30:30.069 | Duration: 10:40
+2023-09-19 10:30:30.069 | Step time min: 6
+2023-09-19 10:30:30.070 | Step time avg: 43
+2023-09-19 10:30:30.070 | Step time max: 176
+2023-09-19 10:30:30.071 | [LostUnitsContents] My lost units minerals and gas: (3575, 975)
+2023-09-19 10:30:30.071 | [LostUnitsContents] My lost units minerals by score: 3575.0
+2023-09-19 10:30:30.072 | [LostUnitsContents] Enemy lost units minerals and gas: (15975, 1900)
+2023-09-19 10:30:30.073 | [LostUnitsContents] Enemy lost units minerals by score: 15675.0
+2023-09-19 10:30:30.074 | [GameAnalyzerEnd] Own units:
+2023-09-19 10:30:30.074 | [GameAnalyzerEnd] ZERGLING          total: 150 alive:  78 dead:  72 
+2023-09-19 10:30:30.075 | [GameAnalyzerEnd] CREEPTUMOR        total:  73 alive:  73 dead:   0 
+2023-09-19 10:30:30.076 | [GameAnalyzerEnd] DRONE             total:  58 alive:  57 dead:   1 
+2023-09-19 10:30:30.076 | [GameAnalyzerEnd] MUTALISK          total:  30 alive:  24 dead:   6 
+2023-09-19 10:30:30.077 | [GameAnalyzerEnd] ROACH             total:  19 alive:   4 dead:  15 
+2023-09-19 10:30:30.077 | [GameAnalyzerEnd] OVERLORD          total:  18 alive:  18 dead:   0 
+2023-09-19 10:30:30.078 | [GameAnalyzerEnd] EXTRACTOR         total:   8 alive:   8 dead:   0 
+2023-09-19 10:30:30.078 | [GameAnalyzerEnd] EGG               total:   7 alive:   7 dead:   0 
+2023-09-19 10:30:30.079 | [GameAnalyzerEnd] QUEEN             total:   5 alive:   5 dead:   0 
+2023-09-19 10:30:30.080 | [GameAnalyzerEnd] HATCHERY          total:   3 alive:   3 dead:   0 
+2023-09-19 10:30:30.081 | [GameAnalyzerEnd] LARVA             total:   2 alive:   2 dead:   0 
+2023-09-19 10:30:30.081 | [GameAnalyzerEnd] SPINECRAWLER      total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.082 | [GameAnalyzerEnd] OVERSEER          total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.083 | [GameAnalyzerEnd] HIVE              total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.084 | [GameAnalyzerEnd] SPAWNINGPOOL      total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.084 | [GameAnalyzerEnd] ROACHWARREN       total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.085 | [GameAnalyzerEnd] INFESTATIONPIT    total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.086 | [GameAnalyzerEnd] SPIRE             total:   1 alive:   1 dead:   0 
+2023-09-19 10:30:30.086 | [GameAnalyzerEnd] Enemy units:
+2023-09-19 10:30:30.087 | [GameAnalyzerEnd] MARINE            total: 133 alive:   0 dead: 133 
+2023-09-19 10:30:30.088 | [GameAnalyzerEnd] SCV               total:  51 alive:   0 dead:  51 
+2023-09-19 10:30:30.088 | [GameAnalyzerEnd] SUPPLYDEPOT       total:  15 alive:   1 dead:  14 
+2023-09-19 10:30:30.089 | [GameAnalyzerEnd] BARRACKS          total:  13 alive:   0 dead:  13 
+2023-09-19 10:30:30.090 | [GameAnalyzerEnd] TECHLAB           total:  10 alive:   0 dead:  10 
+2023-09-19 10:30:30.091 | [GameAnalyzerEnd] MARAUDER          total:   8 alive:   0 dead:   8 
+2023-09-19 10:30:30.092 | [GameAnalyzerEnd] MEDIVAC           total:   5 alive:   0 dead:   5 
+2023-09-19 10:30:30.092 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   2 alive:   0 dead:   2 
+2023-09-19 10:30:30.093 | [GameAnalyzerEnd] REFINERY          total:   2 alive:   0 dead:   2 
+2023-09-19 10:30:30.093 | [GameAnalyzerEnd] ENGINEERINGBAY    total:   1 alive:   0 dead:   1 
+2023-09-19 10:30:30.094 | [GameAnalyzerEnd] STARPORT          total:   1 alive:   0 dead:   1 
+2023-09-19 10:30:30.095 | [GameAnalyzerEnd] FACTORY           total:   1 alive:   0 dead:   1 
+2023-09-19 10:30:30.095 | [GameAnalyzerEnd] Minerals max 850 Average 189
+2023-09-19 10:30:30.096 | [GameAnalyzerEnd] Vespene max 1359 Average 321
+2023-09-19 10:30:30.096 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Zerg): Victory

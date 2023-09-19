@@ -1,0 +1,199 @@
+2023-09-17 19:58:45.946 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-17 19:58:45.948 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Terran)
+2023-09-17 19:58:46.179 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-17 19:58:46.180 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-17 19:58:46.249 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: InfestationStationAIE and hash: 3102896.
+2023-09-17 19:58:46.817 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-17 19:58:46.819 | 00:00    0ms    0M    0G  12/ 15U [Build] Proxy 2 rax bunker rush
+2023-09-17 19:58:46.841 | [Start] My race: Terran
+2023-09-17 19:58:46.841 | [Start] Opponent race: Terran
+2023-09-17 19:58:46.842 | [Start] OpponentId: 1
+2023-09-17 19:58:48.685 | 00:16    7ms    0M    0G  13/ 15U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:49.751 | 00:29    8ms   75M    0G  14/ 15U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:50.837 | 00:41    7ms  165M    0G  15/ 23U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:51.298 | 00:46    7ms  225M    0G  16/ 23U [BuildPosition] Building BARRACKS to (76.5, 138.5)
+2023-09-17 19:58:52.537 | 00:54   52ms  100M    0G  16/ 23U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:54.752 | 01:06   59ms   90M    0G  17/ 23U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:56.173 | 01:13   59ms  175M    0G  18/ 23U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-17 19:58:56.287 | 01:14   19ms  190M    0G  18/ 23U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:58:56.819 | 01:19   12ms  200M    0G  18/ 23U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:56.978 | 01:20   11ms  205M    0G  19/ 23U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -115
+2023-09-17 19:58:57.135 | 01:21   11ms  220M    0G  19/ 31U [BuildPosition] Building BARRACKS to (79.39946302556702, 137.50237178212436)
+2023-09-17 19:58:58.329 | 01:31   12ms  140M    0G  19/ 31U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:58:59.537 | 01:41   10ms  275M    0G  20/ 31U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:59:00.190 | 01:47   10ms  150M    0G  20/ 31U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:01.480 | 01:56   10ms  280M    0G  21/ 31U [BuildPosition] Building BARRACKS to (77.5698715988439, 133.61580357049522)
+2023-09-17 19:59:02.842 | 02:05   14ms  275M    0G  21/ 31U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:59:02.844 | 02:05   14ms  225M    0G  21/ 31U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:03.290 | 02:08   13ms  265M    0G  22/ 31U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:59:03.367 | 02:09   20ms  275M    0G  22/ 31U [Building continue] UnitTypeId.ORBITALCOMMAND (43.5, 40.5)
+2023-09-17 19:59:03.426 | 02:09   15ms  230M    0G  22/ 31U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:03.791 | 02:11   21ms  265M    0G  23/ 31U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:59:05.058 | 02:19   16ms  365M    0G  21/ 31U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:59:05.637 | 02:23   11ms  370M    0G  22/ 31U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:06.298 | 02:27   16ms  450M    0G  23/ 31U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:59:06.299 | 02:27   16ms  400M    0G  23/ 31U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:06.513 | 02:29   14ms  420M    0G  24/ 31U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:59:07.835 | 02:36   15ms  550M    0G  22/ 31U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:59:08.041 | 02:38   13ms  520M    0G  21/ 31U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:59:08.695 | 02:42   13ms  560M    0G  22/ 31U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:09.751 | 02:43   18ms  535M    0G  23/ 31U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:10.125 | 02:46   14ms  515M    0G  24/ 31U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:12.577 | 03:00   11ms  635M    0G  23/ 31U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:12.885 | 03:02   14ms  630M    0G  24/ 31U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:13.272 | 03:04   19ms  615M    0G  24/ 31U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:15.757 | 03:18   15ms  840M    0G  23/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:16.090 | 03:20   16ms  815M    0G  24/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:16.502 | 03:22   14ms  825M    0G  24/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:18.912 | 03:36   11ms 1050M    0G  23/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:19.241 | 03:38   14ms 1075M    0G  24/ 39U [GameAnalyzer] Known army advantage is now Even
+2023-09-17 19:59:19.243 | 03:38   14ms 1025M    0G  24/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:19.625 | 03:40   18ms 1065M    0G  25/ 39U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:59:19.626 | 03:40   18ms 1015M    0G  25/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:20.543 | 03:41   18ms 1050M    0G  26/ 39U [BuildPosition] Building BUNKER to (101.14771085776955, 137.735519414872)
+2023-09-17 19:59:21.024 | 03:44   17ms  640M    0G  25/ 39U [ActUnit] SCV from COMMANDCENTER at (43.5, 40.5)
+2023-09-17 19:59:21.026 | 03:44   17ms  640M    0G  25/ 39U [PlanCancelBuilding] Cancelled BUNKER at (101.5, 137.5) with 35.465576171875 health
+2023-09-17 19:59:21.093 | 03:45   16ms  720M    0G  26/ 39U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-17 19:59:21.094 | 03:45   16ms  720M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-17 19:59:22.060 | 03:50   15ms  670M    0G  26/ 39U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-17 19:59:22.061 | 03:50   15ms  670M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:59:22.326 | 03:51   17ms  690M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-17 19:59:22.972 | 03:55   17ms  765M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:59:22.974 | 03:55   17ms  715M    0G  26/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:23.042 | 03:55   15ms  715M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-17 19:59:23.302 | 03:57   16ms  730M    0G  26/ 39U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:59:23.304 | 03:57   16ms  680M    0G  26/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:23.680 | 03:59   14ms  665M    0G  27/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:23.685 | 03:59   14ms  665M    0G  27/ 39U [DodgeRampAttack] Power 4.33 is larger than required attack power 3.00 -> attack!
+2023-09-17 19:59:23.687 | 03:59   14ms  665M    0G  27/ 39U [DodgeRampAttack] Attack started at 4.33 power.
+2023-09-17 19:59:26.228 | 04:13   14ms  885M    0G  27/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:26.565 | 04:15   16ms  930M    0G  28/ 39U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-17 19:59:26.566 | 04:15   16ms  930M    0G  28/ 39U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:26.567 | 04:15   16ms  880M    0G  28/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:26.731 | 04:16   15ms  895M    0G  29/ 39U [GameAnalyzer] Income advantage is now ClearDisadvantage
+2023-09-17 19:59:26.988 | 04:17   18ms  860M    0G  29/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:29.615 | 04:31   17ms 1055M    0G  29/ 39U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:29.696 | 04:32   20ms 1015M    0G  30/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:29.973 | 04:33   20ms 1005M    0G  31/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:30.237 | 04:35   19ms 1030M    0G  32/ 39U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:59:30.409 | 04:35   17ms  985M    0G  32/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:30.750 | 04:37   16ms  875M    0G  33/ 39U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:31.043 | 04:39   19ms  835M    0G  34/ 39U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:31.116 | 04:39   18ms  840M    0G  35/ 39U [GameAnalyzer] Income advantage is now ClearDisadvantage
+2023-09-17 19:59:32.050 | 04:40   18ms  885M    0G  34/ 39U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-17 19:59:33.692 | 04:48   19ms 1045M    0G  32/ 39U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:59:33.768 | 04:49   16ms 1045M    0G  32/ 39U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:59:33.955 | 04:50   15ms 1060M    0G  31/ 39U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:33.956 | 04:50   15ms 1010M    0G  31/ 39U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:34.069 | 04:50   20ms  975M    0G  32/ 39U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:34.338 | 04:51   16ms  945M    0G  33/ 39U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:34.855 | 04:54   19ms  930M    0G  34/ 39U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:35.235 | 04:55   19ms  940M    0G  35/ 39U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:35.511 | 04:57   18ms  960M    0G  36/ 39U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-17 19:59:35.512 | 04:57   18ms  960M    0G  36/ 39U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-17 19:59:35.514 | 04:57   18ms  910M    0G  36/ 39U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:36.940 | 05:04   20ms 1040M    0G  37/ 47U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-17 19:59:36.941 | 05:04   20ms 1040M    0G  37/ 47U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:37.846 | 05:08   19ms 1120M    0G  36/ 47U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-17 19:59:37.846 | 05:08   19ms 1120M    0G  36/ 47U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-17 19:59:37.848 | 05:08   19ms 1070M    0G  36/ 47U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:37.928 | 05:08   23ms 1020M    0G  37/ 47U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:38.214 | 05:10   22ms 1030M    0G  38/ 47U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:38.300 | 05:10   23ms 1030M    0G  39/ 47U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-17 19:59:38.649 | 05:12   20ms 1015M    0G  39/ 47U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:38.992 | 05:14   21ms  990M    0G  40/ 47U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:39.248 | 05:15   26ms  810M    0G  41/ 47U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:39.250 | 05:15   26ms  760M    0G  41/ 47U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:40.118 | 05:20   72ms  860M    0G  42/ 47U [GameAnalyzer] Income advantage is now SlightDisadvantage
+2023-09-17 19:59:41.461 | 05:26   21ms  930M    0G  42/ 47U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:41.554 | 05:27   35ms  885M    0G  43/ 47U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:41.822 | 05:28   23ms  860M    0G  44/ 47U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:42.262 | 05:30   26ms  890M    0G  45/ 47U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-17 19:59:42.264 | 05:30   26ms  840M    0G  45/ 47U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:42.527 | 05:32   23ms  850M    0G  46/ 47U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:42.626 | 05:32   30ms  815M    0G  46/ 47U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:42.882 | 05:33   23ms  835M    0G  47/ 47U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-17 19:59:42.883 | 05:33   23ms  835M    0G  47/ 47U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-17 19:59:43.450 | 05:36   23ms  870M    0G  46/ 47U [GameAnalyzer] Known army advantage is now ClearAdvantage
+2023-09-17 19:59:43.452 | 05:36   23ms  870M    0G  46/ 47U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-17 19:59:43.454 | 05:36   23ms  820M    0G  46/ 47U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:45.286 | 05:41   22ms  905M    0G  44/ 55U [GameAnalyzer] Income advantage is now Even
+2023-09-17 19:59:45.963 | 05:45   32ms  900M    0G  44/ 63U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:46.047 | 05:45   25ms  855M    0G  45/ 63U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:46.328 | 05:46   28ms  825M    0G  46/ 63U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:46.602 | 05:48   23ms  840M    0G  47/ 63U [GameAnalyzer] Predicted army advantage is now ClearAdvantage
+2023-09-17 19:59:46.784 | 05:49   23ms  870M    0G  47/ 63U [GameAnalyzer] Known army advantage is now OverwhelmingAdvantage
+2023-09-17 19:59:46.786 | 05:49   23ms  820M    0G  47/ 63U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:47.161 | 05:50   23ms  840M    0G  48/ 63U [GameAnalyzer] Predicted army advantage is now OverwhelmingAdvantage
+2023-09-17 19:59:47.164 | 05:50   23ms  790M    0G  48/ 63U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:48.013 | 05:54   30ms  805M    0G  49/ 63U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:49.855 | 06:03   25ms  900M    0G  50/ 63U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:49.967 | 06:03   31ms  860M    0G  51/ 63U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:50.258 | 06:05   25ms  830M    0G  52/ 63U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:50.700 | 06:07   27ms  810M    0G  53/ 63U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:51.056 | 06:09   27ms  790M    0G  54/ 63U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:51.143 | 06:09   27ms  800M    0G  55/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6
+2023-09-17 19:59:51.835 | 06:13   25ms  810M    0G  55/ 63U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:52.222 | 06:15   26ms  840M    0G  56/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -141
+2023-09-17 19:59:53.433 | 06:20   26ms  920M    0G  55/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -177
+2023-09-17 19:59:53.732 | 06:21   28ms  885M    0G  55/ 63U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:53.820 | 06:22   29ms  850M    0G  56/ 63U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:54.126 | 06:23   39ms  615M    0G  57/ 63U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:54.646 | 06:25   27ms  545M    0G  58/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -40
+2023-09-17 19:59:54.650 | 06:25   27ms  495M    0G  58/ 63U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:55.082 | 06:27   31ms  465M    0G  59/ 63U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:55.835 | 06:31   26ms  610M    0G  60/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -30
+2023-09-17 19:59:55.932 | 06:31   30ms  570M    0G  60/ 63U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 19:59:57.779 | 06:40   26ms  625M    0G  61/ 63U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 19:59:57.884 | 06:40   38ms  580M    0G  62/ 63U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 19:59:58.173 | 06:41   29ms  600M    0G  63/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1
+2023-09-17 19:59:59.142 | 06:46   80ms  615M    0G  63/ 71U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 19:59:59.231 | 06:46   31ms  570M    0G  64/ 71U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 19:59:59.323 | 06:47   29ms  425M    0G  65/ 71U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 19:59:59.897 | 06:49   29ms  205M    0G  66/ 71U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 20:00:01.732 | 06:57   29ms  520M    0G  67/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -430
+2023-09-17 20:00:01.733 | 06:57   29ms  520M    0G  67/ 79U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-17 20:00:01.833 | 06:58   37ms  475M    0G  67/ 79U [ActUnit] MARINE from BARRACKS at (44.5, 45.5)
+2023-09-17 20:00:01.931 | 06:58   33ms  425M    0G  68/ 79U [ActUnit] MARINE from BARRACKS at (76.5, 138.5)
+2023-09-17 20:00:02.840 | 07:03   30ms  490M    0G  69/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -480
+2023-09-17 20:00:03.253 | 07:04   80ms  455M    0G  69/ 79U [ActUnit] MARINE from BARRACKS at (77.5, 133.5)
+2023-09-17 20:00:03.375 | 07:05   90ms  470M    0G  70/ 79U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-17 20:00:03.380 | 07:05   90ms  420M    0G  70/ 79U [ActUnit] MARINE from BARRACKS at (79.5, 137.5)
+2023-09-17 20:00:03.477 | 07:05   59ms  370M    0G  71/ 79U [ActUnit] MARINE from BARRACKS at (50.5, 40.5)
+2023-09-17 20:00:04.101 | 07:08   37ms  360M    0G  72/ 79U [ActUnit] MARINE from BARRACKS at (52.5, 37.5)
+2023-09-17 20:00:04.235 | 07:08   36ms  360M    0G  73/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -530
+2023-09-17 20:00:05.629 | 07:13   28ms  330M    0G  73/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -530
+2023-09-17 20:00:06.121 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-17 20:00:06.126 | Result: Victory
+2023-09-17 20:00:06.126 | Duration: 07:15
+2023-09-17 20:00:06.127 | Step time min: 6
+2023-09-17 20:00:06.127 | Step time avg: 21
+2023-09-17 20:00:06.128 | Step time max: 90
+2023-09-17 20:00:06.128 | [LostUnitsContents] My lost units minerals and gas: (1375.0, 0.0)
+2023-09-17 20:00:06.129 | [LostUnitsContents] My lost units minerals by score: 1275.0
+2023-09-17 20:00:06.130 | [LostUnitsContents] Enemy lost units minerals and gas: (7500, 550)
+2023-09-17 20:00:06.130 | [LostUnitsContents] Enemy lost units minerals by score: 7625.0
+2023-09-17 20:00:06.131 | [GameAnalyzerEnd] Own units:
+2023-09-17 20:00:06.131 | [GameAnalyzerEnd] MARINE            total:  71 alive:  47 dead:  24 
+2023-09-17 20:00:06.132 | [GameAnalyzerEnd] SCV               total:  23 alive:  20 dead:   3 
+2023-09-17 20:00:06.132 | [GameAnalyzerEnd] SUPPLYDEPOT       total:  10 alive:  10 dead:   0 
+2023-09-17 20:00:06.133 | [GameAnalyzerEnd] BARRACKS          total:   6 alive:   6 dead:   0 
+2023-09-17 20:00:06.133 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   1 dead:   0 
+2023-09-17 20:00:06.134 | [GameAnalyzerEnd] BUNKER            total:   1 alive:   0 dead:   1 
+2023-09-17 20:00:06.134 | [GameAnalyzerEnd] Enemy units:
+2023-09-17 20:00:06.135 | [GameAnalyzerEnd] SCV               total:  45 alive:   0 dead:  45 
+2023-09-17 20:00:06.135 | [GameAnalyzerEnd] MARINE            total:  39 alive:   0 dead:  39 
+2023-09-17 20:00:06.136 | [GameAnalyzerEnd] SUPPLYDEPOT       total:  14 alive:   1 dead:  13 
+2023-09-17 20:00:06.137 | [GameAnalyzerEnd] BARRACKS          total:   4 alive:   0 dead:   4 
+2023-09-17 20:00:06.137 | [GameAnalyzerEnd] COMMANDCENTER     total:   2 alive:   2 dead:   0 
+2023-09-17 20:00:06.138 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   2 alive:   0 dead:   2 
+2023-09-17 20:00:06.138 | [GameAnalyzerEnd] MARAUDER          total:   2 alive:   0 dead:   2 
+2023-09-17 20:00:06.139 | [GameAnalyzerEnd] MEDIVAC           total:   2 alive:   0 dead:   2 
+2023-09-17 20:00:06.139 | [GameAnalyzerEnd] REFINERY          total:   2 alive:   0 dead:   2 
+2023-09-17 20:00:06.140 | [GameAnalyzerEnd] FACTORY           total:   1 alive:   0 dead:   1 
+2023-09-17 20:00:06.140 | [GameAnalyzerEnd] ENGINEERINGBAY    total:   1 alive:   0 dead:   1 
+2023-09-17 20:00:06.141 | [GameAnalyzerEnd] TECHLAB           total:   1 alive:   0 dead:   1 
+2023-09-17 20:00:06.141 | [GameAnalyzerEnd] STARPORT          total:   1 alive:   0 dead:   1 
+2023-09-17 20:00:06.142 | [GameAnalyzerEnd] Minerals max 1110 Average 565
+2023-09-17 20:00:06.142 | [GameAnalyzerEnd] Vespene max 0 Average 0
+2023-09-17 20:00:06.143 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Terran): Victory

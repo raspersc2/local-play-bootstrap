@@ -1,0 +1,448 @@
+Terran VS Terran on GresvanAIE
+0: OnGameStart | MicroMachine v1.18.2
+0: onStart | PROXY_CYCLONES (0-0), EARLY_EXPAND (13-1), STANDARD (3-0), WORKER_RUSH (0-0), PROXY_MARAUDERS (0-0), FAST_PF (0-0)
+0: onStart | Chosen strategy: STANDARD
+0: [ERROR] : No position found of Missile Turret | 0x00000015
+224: monitorUnitActions | Actions (total, APM, last frame): 122, 122, 0
+448: monitorUnitActions | Actions (total, APM, last frame): 225, 225, 0
+672: drawProductionInformation | Production Information
+
+Barracks                     [-50] (B)
+SCV                          [-60] (B)
+Refinery                     [-70] (B)
+
+
+
+672: drawProductionInformation | Free Mineral:     140
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   811
+Gas income:       0
+
+672: drawProductionInformation | Being built:      
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (38.625, 107), Building: TERRAN_SUPPLYDEPOT (38, 107)
+
+672: monitorUnitActions | Actions (total, APM, last frame): 335, 335, 0
+892: fixBuildOrderDeadlock | TERRAN_STARPORT needs a requirement: TERRAN_FACTORY
+892: fixBuildOrderDeadlock | SiegeTank needs a requirement: TERRAN_FACTORYTECHLAB
+896: monitorUnitActions | Actions (total, APM, last frame): 457, 457, 0
+1120: monitorUnitActions | Actions (total, APM, last frame): 571, 571, 0
+1344: drawProductionInformation | Production Information
+
+OrbitalCommand               [10]
+TERRAN_SCV                   [1]
+CommandCenter                [0]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-20]
+
+
+
+1344: drawProductionInformation | Free Mineral:     40
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   839
+Gas income:       0
+
+1344: drawProductionInformation | Being built:      
+TERRAN_BARRACKS UnderConstruction, Builder: TERRAN_SCV (35.5, 105.375), Building: TERRAN_BARRACKS (35.5, 106.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (46.625, 123.375), Building: TERRAN_REFINERY (45.5, 124.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (42.9487, 129.176), Building: TERRAN_REFINERY (42.5, 128.5)
+TERRAN_BUNKER Assigned, Builder: TERRAN_SCV (38.7612, 124.62)
+
+1344: monitorUnitActions | Actions (total, APM, last frame): 759, 759, 0
+1568: monitorUnitActions | Actions (total, APM, last frame): 971, 849, 0
+1792: monitorUnitActions | Actions (total, APM, last frame): 1165, 940, 0
+2016: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+Reaper                       [0]
+CommandCenter                [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-20]
+
+
+
+2016: drawProductionInformation | Free Mineral:     100
+Free Gas:         54
+Gas Worker Target:3
+Mineral income:   615
+Gas income:       246
+
+2016: drawProductionInformation | Being built:      
+TERRAN_BUNKER UnderConstruction, Builder: TERRAN_SCV (42.5, 125.625), Building: TERRAN_BUNKER (42.5, 124.5)
+
+2016: monitorUnitActions | Actions (total, APM, last frame): 1281, 946, 0
+2240: monitorUnitActions | Actions (total, APM, last frame): 1408, 951, 0
+2464: monitorUnitActions | Actions (total, APM, last frame): 1509, 938, 0
+2688: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORYTECHLAB        [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+CommandCenter                [-30]
+
+
+
+2688: drawProductionInformation | Free Mineral:     45
+Free Gas:         64
+Gas Worker Target:3
+Mineral income:   727
+Gas income:       335
+
+2688: drawProductionInformation | Being built:      
+TERRAN_FACTORY UnderConstruction, Builder: TERRAN_SCV (39.625, 116.625), Building: TERRAN_FACTORY (38.5, 115.5)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (35, 104.625), Building: TERRAN_SUPPLYDEPOT (35, 104)
+
+2688: monitorUnitActions | Actions (total, APM, last frame): 1749, 990, 6
+2912: monitorUnitActions | Actions (total, APM, last frame): 1991, 1020, 0
+3136: monitorUnitActions | Actions (total, APM, last frame): 2270, 1105, 2
+3180: constructAssignedBuildings | TERRAN_FACTORY at (38.5, 115.5) was given the command BUILD_TECHLAB_FACTORY
+3360: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+CommandCenter                [-30]
+
+
+
+3360: drawProductionInformation | Free Mineral:     150
+Free Gas:         103
+Gas Worker Target:3
+Mineral income:   1147
+Gas income:       335
+
+3360: drawProductionInformation | Being built:      
+TERRAN_STARPORT UnderConstruction, Builder: TERRAN_SCV (47.5, 130.625), Building: TERRAN_STARPORT (47.5, 129.5)
+TERRAN_FACTORYTECHLAB UnderConstruction, Builder: TERRAN_FACTORY (38.5, 115.5), Building: TERRAN_FACTORYTECHLAB (41, 115)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (37.375, 118), Building: TERRAN_SUPPLYDEPOT (38, 118)
+
+3360: monitorUnitActions | Actions (total, APM, last frame): 2592, 1311, 4
+3584: monitorUnitActions | Actions (total, APM, last frame): 2915, 1507, 0
+3681: updateAttackSquads | MainAttackSquad new order = Retreat (41.9966, 119.557) Keep retreating
+3808: monitorUnitActions | Actions (total, APM, last frame): 3281, 1772, 10
+4032: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+Cyclone                      [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+TERRAN_STARPORTTECHLAB       [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+
+
+
+4032: drawProductionInformation | Free Mineral:     -350
+Free Gas:         142
+Gas Worker Target:3
+Mineral income:   1119
+Gas income:       313
+
+4032: drawProductionInformation | Being built:      
+TERRAN_STARPORT UnderConstruction, Builder: TERRAN_SCV (48.625, 130.566), Building: TERRAN_STARPORT (47.5, 129.5)
+TERRAN_COMMANDCENTER Assigned, Builder: TERRAN_SCV (37.5945, 97.4326)
+
+4032: monitorUnitActions | Actions (total, APM, last frame): 3640, 1897, 0
+4216: constructAssignedBuildings | TERRAN_STARPORT at (47.5, 129.5) was given the command BUILD_TECHLAB_STARPORT
+4256: monitorUnitActions | Actions (total, APM, last frame): 4008, 2017, 1
+4303: ExecuteTankMorphLogic | Tank 4368105474 at (38.5, 113.125) with 175hp is sieging because it is close to its retreat location
+4480: monitorUnitActions | Actions (total, APM, last frame): 4393, 2125, 0
+4618: create | starting upgrade BansheeCloak
+4704: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+Banshee                      [0]
+Cyclone                      [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+CommandCenter                [-40]
+
+
+
+4704: drawProductionInformation | Free Mineral:     -45
+Free Gas:         73
+Gas Worker Target:2
+Mineral income:   1287
+Gas income:       291
+
+4704: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (34.5, 117.625), Building: TERRAN_COMMANDCENTER (34.5, 115.5)
+TERRAN_SUPPLYDEPOT Assigned, Builder: TERRAN_SCV (35.197, 123.291)
+BansheeCloak
+
+4704: monitorUnitActions | Actions (total, APM, last frame): 4796, 2208, 0
+4928: monitorUnitActions | Actions (total, APM, last frame): 5257, 2342, 0
+5025: [ERROR] : Could not find an escape path | 
+5152: monitorUnitActions | Actions (total, APM, last frame): 5704, 2433, 1
+5376: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+SiegeTank                    [0]
+Banshee                      [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+CommandCenter                [-40]
+
+
+
+5376: drawProductionInformation | Free Mineral:     205
+Free Gas:         105
+Gas Worker Target:3
+Mineral income:   1119
+Gas income:       358
+
+5376: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (34.5, 113.375), Building: TERRAN_COMMANDCENTER (34.5, 115.5)
+BansheeCloak
+
+5376: monitorUnitActions | Actions (total, APM, last frame): 6111, 2471, 1
+5600: monitorUnitActions | Actions (total, APM, last frame): 6510, 2503, 0
+5824: monitorUnitActions | Actions (total, APM, last frame): 7001, 2608, 4
+6048: drawProductionInformation | Production Information
+
+OrbitalCommand               [11]
+SiegeTank                    [0]
+Banshee                      [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-20]
+CommandCenter                [-40]
+
+
+
+6048: drawProductionInformation | Free Mineral:     265
+Free Gas:         40
+Gas Worker Target:3
+Mineral income:   1315
+Gas income:       313
+
+6048: drawProductionInformation | Being built:      
+TERRAN_SUPPLYDEPOT Assigned, Builder: TERRAN_SCV (37.9575, 111.86)
+BansheeCloak
+
+6048: monitorUnitActions | Actions (total, APM, last frame): 7432, 2636, 0
+6192: updateAttackSquads | MainAttackSquad new order = Retreat (40.1415, 87.8448) Keep retreating
+6228: ExecuteTankMorphLogic | Tank 4368105474 at (38.4858, 112.844) with 175hp is unsieging because it has no target
+6264: CancelBuilding | Cancel building TERRAN_COMMANDCENTER : invalid or blocked location
+6264: updateAttackSquads | MainAttackSquad new order = Retreat (40.4882, 64.1932) Keep retreating
+6272: monitorUnitActions | Actions (total, APM, last frame): 8070, 2813, 1
+6362: validateUpgradesProgress | upgrade finished BansheeCloak
+6444: ExecuteTankMorphLogic | Tank 4368105474 at (47.998, 102.154) with 175hp is sieging because it is close to its retreat location
+6496: monitorUnitActions | Actions (total, APM, last frame): 8446, 2743, 7
+6720: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+StarportTechLab              [1]
+TerranShipWeaponsLevel1      [0]
+BansheeSpeed                 [0]
+BansheeCloak                 [0]
+SiegeTank                    [0]
+Banshee                      [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-70]
+
+
+
+6720: drawProductionInformation | Free Mineral:     160
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   1595
+Gas income:       313
+
+6720: drawProductionInformation | Being built:      
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (38.625, 113), Building: TERRAN_SUPPLYDEPOT (38, 113)
+TERRAN_COMMANDCENTER Assigned, Builder: TERRAN_SCV (36.1431, 64.1431)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (30.6208, 87.6165), Building: TERRAN_REFINERY (29.5, 86.5)
+TERRAN_STARPORT UnderConstruction, Builder: TERRAN_SCV (51.625, 120.375), Building: TERRAN_STARPORT (50.5, 121.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (32.375, 82.5), Building: TERRAN_REFINERY (33.5, 82.5)
+TERRAN_BUNKER UnderConstruction, Builder: TERRAN_SCV (32.375, 85.5), Building: TERRAN_BUNKER (33.5, 85.5)
+
+6720: updateAttackSquads | MainAttackSquad new order = Attack (160.018, 73.6687) 
+6720: ExecuteTankMorphLogic | Tank 4368105474 at (47.998, 102.154) with 175hp is unsieging because it has no target
+6720: monitorUnitActions | Actions (total, APM, last frame): 8822, 2712, 4
+6735: ExecuteTankMorphLogic | Tank 4369154049 at (43.0046, 94.7305) with 175hp is sieging because it is in siege range of a TERRAN_MARINE at (54.7046, 91.2295)
+6777: ExecuteTankMorphLogic | Tank 4368105474 at (47.998, 102.154) with 175hp is sieging because it is in siege range of a TERRAN_MARINE at (48.8315, 91.6943)
+6941: ExecuteTankMorphLogic | Tank 4368105474 at (47.998, 102.154) with 175hp is unsieging because it has no target
+6944: monitorUnitActions | Actions (total, APM, last frame): 9320, 2810, 0
+7019: ExecuteTankMorphLogic | Tank 4369154049 at (43.1096, 94.4697) with 175hp is unsieging because it has no target
+7114: [CRITICAL ERROR] : Producer of type TERRAN_STARPORTTECHLAB cannot activate its ability to produce BansheeCloak | 0x10000000
+7162: constructAssignedBuildings | TERRAN_STARPORT at (50.5, 121.5) was given the command BUILD_TECHLAB_STARPORT
+7168: monitorUnitActions | Actions (total, APM, last frame): 9849, 2852, 1
+7174: constructAssignedBuildings | TERRAN_STARPORT at (50.5, 121.5) was given the command BUILD_TECHLAB_STARPORT
+7186: constructAssignedBuildings | TERRAN_STARPORT at (50.5, 121.5) was given the command BUILD_TECHLAB_STARPORT
+7198: constructAssignedBuildings | TERRAN_STARPORT at (50.5, 121.5) was given the command BUILD_TECHLAB_STARPORT
+7200: [CRITICAL ERROR] : Producer of type TERRAN_STARPORTTECHLAB cannot activate its ability to produce BansheeCloak | 0x10000000
+7322: [CRITICAL ERROR] : Producer of type TERRAN_STARPORTTECHLAB cannot activate its ability to produce BansheeCloak | 0x10000000
+7392: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+Stimpack                     [0]
+TerranShipWeaponsLevel1      [0]
+BansheeSpeed                 [0]
+BansheeCloak                 [0]
+SiegeTank                    [0]
+Banshee                      [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-70]
+
+
+
+7392: drawProductionInformation | Free Mineral:     504
+Free Gas:         210
+Gas Worker Target:2
+Mineral income:   1847
+Gas income:       627
+
+7392: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (38.625, 64.5), Building: TERRAN_COMMANDCENTER (36.5, 64.5)
+TERRAN_STARPORTTECHLAB UnderConstruction, Builder: TERRAN_STARPORT (50.5, 121.5), Building: TERRAN_STARPORTTECHLAB (53, 121)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (36, 117.375), Building: TERRAN_SUPPLYDEPOT (36, 118)
+
+7392: monitorUnitActions | Actions (total, APM, last frame): 10667, 3235, 5
+7440: [CRITICAL ERROR] : Producer of type TERRAN_STARPORTTECHLAB cannot activate its ability to produce BansheeCloak | 0x10000000
+7480: [ERROR] : Unit can't create upgrade, but should be able. Upgrade: BansheeCloak UnitType: TERRAN_STARPORTTECHLAB | 0x00000005
+7480: create | starting upgrade BansheeCloak
+7482: validateUpgradesProgress | upgrade failed to start BansheeCloak. Unit has no order
+7616: monitorUnitActions | Actions (total, APM, last frame): 12046, 3977, 2
+7758: manageBuildOrderQueue | Supply blocked | 0x00000007
+7760: manageBuildOrderQueue | Supply blocked | 0x00000007
+7762: manageBuildOrderQueue | Supply blocked | 0x00000007
+7764: manageBuildOrderQueue | Supply blocked | 0x00000007
+7766: manageBuildOrderQueue | Supply blocked | 0x00000007
+7768: manageBuildOrderQueue | Supply blocked | 0x00000007
+7770: manageBuildOrderQueue | Supply blocked | 0x00000007
+7772: manageBuildOrderQueue | Supply blocked | 0x00000007
+7774: manageBuildOrderQueue | Supply blocked | 0x00000007
+7776: manageBuildOrderQueue | Supply blocked | 0x00000007
+7778: manageBuildOrderQueue | Supply blocked | 0x00000007
+7780: manageBuildOrderQueue | Supply blocked | 0x00000007
+7782: manageBuildOrderQueue | Supply blocked | 0x00000007
+7784: manageBuildOrderQueue | Supply blocked | 0x00000007
+7786: manageBuildOrderQueue | Supply blocked | 0x00000007
+7788: manageBuildOrderQueue | Supply blocked | 0x00000007
+7790: manageBuildOrderQueue | Supply blocked | 0x00000007
+7792: manageBuildOrderQueue | Supply blocked | 0x00000007
+7794: manageBuildOrderQueue | Supply blocked | 0x00000007
+7796: manageBuildOrderQueue | Supply blocked | 0x00000007
+7798: manageBuildOrderQueue | Supply blocked | 0x00000007
+7800: manageBuildOrderQueue | Supply blocked | 0x00000007
+7802: manageBuildOrderQueue | Supply blocked | 0x00000007
+7804: manageBuildOrderQueue | Supply blocked | 0x00000007
+7806: manageBuildOrderQueue | Supply blocked | 0x00000007
+7808: manageBuildOrderQueue | Supply blocked | 0x00000007
+7810: manageBuildOrderQueue | Supply blocked | 0x00000007
+7812: manageBuildOrderQueue | Supply blocked | 0x00000007
+7814: manageBuildOrderQueue | Supply blocked | 0x00000007
+7816: manageBuildOrderQueue | Supply blocked | 0x00000007
+7818: manageBuildOrderQueue | Supply blocked | 0x00000007
+7820: manageBuildOrderQueue | Supply blocked | 0x00000007
+7822: manageBuildOrderQueue | Supply blocked | 0x00000007
+7824: manageBuildOrderQueue | Supply blocked | 0x00000007
+7826: manageBuildOrderQueue | Supply blocked | 0x00000007
+7828: manageBuildOrderQueue | Supply blocked | 0x00000007
+7830: manageBuildOrderQueue | Supply blocked | 0x00000007
+7832: manageBuildOrderQueue | Supply blocked | 0x00000007
+7834: manageBuildOrderQueue | Supply blocked | 0x00000007
+7840: monitorUnitActions | Actions (total, APM, last frame): 13424, 4985, 3
+7871: ExecuteTankMorphLogic | Tank 4369154049 at (147.335, 73.4937) with 175hp is sieging because it is in siege range of a TERRAN_COMMANDCENTER at (163.5, 74.5)
+7913: updateAttackSquads | MainAttackSquad new order = Attack (160.272, 44.9104) 
+7992: ExecuteTankMorphLogic | Tank 4369154049 at (147.616, 73.4937) with 175hp is unsieging because it has no target
+8064: drawProductionInformation | Production Information
+
+TERRAN_SUPPLYDEPOT           [10]
+TERRAN_SCV                   [1]
+TERRAN_BARRACKSTECHLAB       [0]
+Banshee                      [0]
+ShieldWall                   [0]
+TerranInfantryWeaponsLevel1  [0]
+SiegeTank                    [0]
+Stimpack                     [0]
+TerranShipWeaponsLevel1      [0]
+BansheeSpeed                 [0]
+Marine                       [-1]
+
+
+
+8064: drawProductionInformation | Free Mineral:     249
+Free Gas:         41
+Gas Worker Target:3
+Mineral income:   1987
+Gas income:       515
+
+8064: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (36.5, 62.375), Building: TERRAN_COMMANDCENTER (36.5, 64.5)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (34.625, 118), Building: TERRAN_SUPPLYDEPOT (34, 118)
+TERRAN_ARMORY Assigned, Builder: TERRAN_SCV (33.5303, 113.53)
+TERRAN_ENGINEERINGBAY UnderConstruction, Builder: TERRAN_SCV (46.5, 116.625), Building: TERRAN_ENGINEERINGBAY (46.5, 115.5)
+TERRAN_REFINERY Assigned, Builder: TERRAN_SCV (48.7783, 74.9941)
+
+8064: monitorUnitActions | Actions (total, APM, last frame): 14775, 5957, 7
+8068: ExecuteTankMorphLogic | Tank 4368105474 at (157.019, 66.7517) with 175hp is sieging because it is in siege range of a TERRAN_BARRACKS at (156.5, 51.5)
+8154: ExecuteTankMorphLogic | Tank 4369154049 at (159.364, 66.5208) with 175hp is sieging because it is in siege range of a TERRAN_BARRACKS at (156.5, 51.5)
+8182: constructAssignedBuildings | TERRAN_BARRACKS at (33.5, 106.5) was given the command BUILD_TECHLAB
+8288: monitorUnitActions | Actions (total, APM, last frame): 16277, 6957, 2
+8435: ExecuteTankMorphLogic | Tank 4368105474 at (157.098, 66.4832) with 175hp is unsieging because it has no target
+8435: ExecuteTankMorphLogic | Tank 4369154049 at (159.521, 66.2881) with 175hp is unsieging because it has no target
+8512: monitorUnitActions | Actions (total, APM, last frame): 17804, 7956, 6
+8515: ExecuteTankMorphLogic | Tank 4368105474 at (157.55, 63.7507) with 175hp is sieging because it is in siege range of a TERRAN_BARRACKS at (156.5, 48.5)
+8518: ExecuteTankMorphLogic | Tank 4369154049 at (159.278, 63.564) with 175hp is sieging because it is in siege range of a TERRAN_BARRACKS at (161.5, 48.5)
+8552: [ERROR] : Unit can't create upgrade, but should be able. Upgrade: TerranInfantryWeaponsLevel1 UnitType: TERRAN_ENGINEERINGBAY | 0x00000005
+8552: create | starting upgrade TerranInfantryWeaponsLevel1
+8554: validateUpgradesProgress | upgrade failed to start TerranInfantryWeaponsLevel1. Unit has no order
+8666: fixBuildOrderDeadlock | Battlecruiser needs a requirement: TERRAN_FUSIONCORE
+8736: drawProductionInformation | Production Information
+
+OrbitalCommand               [11]
+FactoryTechLab               [1]
+Battlecruiser                [1]
+TERRAN_SCV                   [1]
+TERRAN_FUSIONCORE            [0]
+Banshee                      [0]
+TerranInfantryWeaponsLevel1  [0]
+SiegeTank                    [0]
+ShieldWall                   [0]
+Stimpack                     [0]
+TerranShipWeaponsLevel1      [0]
+BansheeSpeed                 [0]
+Marine                       [-1]
+Starport                     [-100]
+
+
+
+8736: drawProductionInformation | Free Mineral:     419
+Free Gas:         19
+Gas Worker Target:3
+Mineral income:   2295
+Gas income:       671
+
+8736: drawProductionInformation | Being built:      
+TERRAN_ARMORY UnderConstruction, Builder: TERRAN_SCV (32.375, 112.375), Building: TERRAN_ARMORY (33.5, 113.5)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (47.625, 121), Building: TERRAN_SUPPLYDEPOT (47, 121)
+TERRAN_FACTORY UnderConstruction, Builder: TERRAN_SCV (42.894, 110.547), Building: TERRAN_FACTORY (42.5, 110.5)
+
+8736: monitorUnitActions | Actions (total, APM, last frame): 19388, 8726, 8
+8870: CheckGameResult | Opponent (1) got a result 1
+8870: CheckGameResult | We (2) got a result 0

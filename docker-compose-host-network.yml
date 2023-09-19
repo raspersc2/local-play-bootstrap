@@ -10,8 +10,8 @@ services:
       - "./logs:/logs" # a sc2_controller folder will be created in the logs folder
       # SC2 Maps Path
       # Set this as "- PATH_TO_YOUR_MAPS_FOLDER:/root/StarCraftII/maps"
-      - C:\Program Files (x86)\StarCraft II\Maps:/root/StarCraftII/maps # Standard windows SC2 maps path
-#      - ./maps:/root/StarCraftII/maps                                   # Local maps folder
+      # - C:\Program Files (x86)\StarCraft II\Maps:/root/StarCraftII/maps # Standard windows SC2 maps path
+      - ./maps:/root/StarCraftII/maps                                   # Local maps folder
 #      - ~/StarCraftII/maps:/root/StarCraftII/maps                       # Relatively standard linux SC2 maps path
 
   bot_controller1:

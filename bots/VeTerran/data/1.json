@@ -1,0 +1,11 @@
+{
+	"Version": "2.0",
+	"History": {
+		"3": {
+			"Victories": 37,
+			"Defeats": 0
+		}
+	},
+	"LastResult": "Victory",
+	"LastStrategy": 3
+}

@@ -1,0 +1,33 @@
+2023-09-17 18:51:02.933 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-17 18:51:02.935 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Protoss)
+2023-09-17 18:51:03.199 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-17 18:51:03.200 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-17 18:51:03.278 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: GoldenauraAIE and hash: 3690400.
+2023-09-17 18:51:04.063 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-17 18:51:04.085 | [Start] My race: Protoss
+2023-09-17 18:51:04.086 | [Start] Opponent race: Terran
+2023-09-17 18:51:04.087 | [Start] OpponentId: 1
+2023-09-17 18:51:05.782 | 00:12    5ms   65M    0G  13/ 15U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:06.883 | 00:25    6ms   60M    0G  14/ 15U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:08.195 | 00:39    7ms  200M    0G  15/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:08.243 | 00:40    7ms  135M    0G  16/ 23U [BuildGas] Building ASSIMILATOR to (62.5, 165.5)
+2023-09-17 18:51:08.367 | 00:41    8ms  150M    0G  16/ 23U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-17 18:51:09.038 | 00:48    8ms   35M    0G  16/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:09.840 | 00:57    6ms  105M    0G  17/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:10.837 | 01:03   59ms  205M    0G  18/ 23U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-17 18:51:11.293 | 01:06   58ms  185M    0G  18/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:12.812 | 01:14    8ms  300M   24G  19/ 23U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-17 18:51:12.814 | 01:14    8ms  250M   24G  19/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:14.052 | 01:24    7ms  400M   52G  20/ 23U [Expand] Expanding to (61.5, 146.5)
+2023-09-17 18:51:15.036 | 01:32    8ms  120M   72G  20/ 23U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-17 18:51:15.807 | 01:39    7ms    0M   88G  20/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:16.524 | 01:44    9ms    5M  104G  21/ 23U [BuildGas] Building ASSIMILATOR to (72.5, 175.5)
+2023-09-17 18:51:17.534 | 01:51    8ms   55M  124G  21/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:19.879 | 02:06    9ms  135M  164G  22/ 23U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:19.964 | 02:07   12ms  135M  164G  23/ 23U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-17 18:51:21.951 | 02:19   10ms   45M  174G  23/ 31U [ProtossUnit] STALKER from GATEWAY at (84.5, 161.5)
+2023-09-17 18:51:22.009 | 02:20   10ms   60M  174G  25/ 31U [Tech] Started WARPGATERESEARCH
+2023-09-17 18:51:23.899 | 02:31   10ms  125M  188G  25/ 31U [ActUnit] PROBE from NEXUS at (69.5, 168.5)
+2023-09-17 18:51:27.123 | 02:44   11ms  125M  160G  26/ 46U [ActUnit] PROBE from NEXUS at (61.5, 146.5)
+2023-09-17 18:51:27.190 | 02:45   11ms  130M  160G  27/ 46U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-17 18:51:27.475 | ERROR    | sc2.protocol:__request:50 - Cannot receive: Connection already closed.

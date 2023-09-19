@@ -1,0 +1,89 @@
+Terran VS Terran on Ancient CisternAIE
+0: OnGameStart | MicroMachine v1.18.2
+0: onStart | PROXY_CYCLONES (0-0), EARLY_EXPAND (8-0), STANDARD (0-0), WORKER_RUSH (0-0), PROXY_MARAUDERS (0-0), FAST_PF (0-0)
+0: onStart | Chosen strategy: EARLY_EXPAND
+224: monitorUnitActions | Actions (total, APM, last frame): 121, 121, 0
+448: monitorUnitActions | Actions (total, APM, last frame): 224, 224, 0
+672: drawProductionInformation | Production Information
+
+Barracks                     [-50] (B)
+SCV                          [-60] (B)
+Refinery                     [-70] (B)
+
+
+
+672: drawProductionInformation | Free Mineral:     145
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   839
+Gas income:       0
+
+672: drawProductionInformation | Being built:      
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (39.625, 41.375), Building: TERRAN_SUPPLYDEPOT (39, 42)
+
+672: monitorUnitActions | Actions (total, APM, last frame): 334, 334, 0
+888: CancelBuilding | Cancel building TERRAN_REFINERY : invalid or blocked location
+888: fixBuildOrderDeadlock | TERRAN_STARPORT needs a requirement: TERRAN_FACTORY
+888: fixBuildOrderDeadlock | SiegeTank needs a requirement: TERRAN_FACTORYTECHLAB
+896: monitorUnitActions | Actions (total, APM, last frame): 459, 459, 0
+1120: monitorUnitActions | Actions (total, APM, last frame): 569, 569, 0
+1344: drawProductionInformation | Production Information
+
+OrbitalCommand               [10]
+TERRAN_SCV                   [1]
+CommandCenter                [0]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-10]
+
+
+
+1344: drawProductionInformation | Free Mineral:     310
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   895
+Gas income:       0
+
+1344: drawProductionInformation | Being built:      
+TERRAN_BARRACKS UnderConstruction, Builder: TERRAN_SCV (37.375, 39.0195), Building: TERRAN_BARRACKS (38.5, 39.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (25.625, 30.625), Building: TERRAN_REFINERY (24.5, 29.5)
+
+1344: monitorUnitActions | Actions (total, APM, last frame): 691, 691, 0
+1568: monitorUnitActions | Actions (total, APM, last frame): 807, 686, 0
+1792: monitorUnitActions | Actions (total, APM, last frame): 922, 698, 0
+2016: drawProductionInformation | Production Information
+
+OrbitalCommand               [10]
+TERRAN_SCV                   [1]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-10]
+Barracks                     [-20]
+
+
+
+2016: drawProductionInformation | Free Mineral:     155
+Free Gas:         18
+Gas Worker Target:3
+Mineral income:   839
+Gas income:       156
+
+2016: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (33.625, 34.625), Building: TERRAN_COMMANDCENTER (31.5, 32.5)
+
+2016: monitorUnitActions | Actions (total, APM, last frame): 1049, 715, 0
+2240: monitorUnitActions | Actions (total, APM, last frame): 1174, 715, 0
+2401: CheckGameResult | Opponent (1) got a result 1
+2401: CheckGameResult | We (2) got a result 0

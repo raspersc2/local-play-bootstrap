@@ -1,0 +1,42 @@
+DataDirectory: "./data"
+Debug: False
+GameStep: 4
+# Visualize processed spatial information
+# This shows exactly what will be passed through the conv layers
+VisualizeSpatialFeatures: False
+SquadAgent:
+  # DQNAgent, OfflineAgent, PPOAgent, RandomAgent, DQNRainbowAgent
+  AgentClass: "OfflineAgent"
+  CheckPointName: "checkpoint.pt"
+  InferenceMode: False
+  NumRolloutSteps: 64
+  # Offline agent stores states, actions, rewards etc. here
+  StateDirectory: "states"
+
+  # setting specific to ppo agent
+  # (most of these used in `ppo_trainer.py` or `ppo_agent.py`)
+  PPO:
+    BatchSize: 64
+    ClipCoefficient: 0.01
+    EntropyCoefficient: 0.01
+    GaeLambda: 0.95
+    Gamma: 0.99
+    MaxGradNorm: 0.5
+    NumRolloutSteps: 64
+    UpdatePolicyEpochs: 4
+    VFCoefficient: 0.5
+
+  # setting specific to DQN (used in `dqn_rainbow_agent.py`)
+  DQN:
+    Alpha: 0.6
+    AtomSize: 71
+    BatchSize: 32
+    Beta: 0.4
+    Gamma: 0.99
+    LearningRate: 0.000001
+    MemorySize: 1000
+    PriorEps: 0.000001
+    TargetUpdate: 1000
+    VMin: 0.0
+    VMax: 200.0
+

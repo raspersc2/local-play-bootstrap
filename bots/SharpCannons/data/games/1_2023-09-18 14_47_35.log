@@ -1,0 +1,403 @@
+2023-09-18 14:47:50.122 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.in_game (was None)
+2023-09-18 14:47:50.123 | INFO     | sc2.main:_play_game:221 - Player 2 - Bot LadderBot(Protoss)
+2023-09-18 14:47:50.347 | 00:00    0ms    0M    0G  12/ 15U [Version] 4.10.0.75689
+2023-09-18 14:47:50.348 | 00:00    0ms    0M    0G  12/ 15U [Version] 5.0.6 Balance mod recognized.
+2023-09-18 14:47:50.410 | 00:00    0ms    0M    0G  12/ 15U [ZoneManager] Map set to: MapName.Unknown from name: Berlingrad AIE and hash: 3586864.
+2023-09-18 14:47:50.873 | [DataManager] No BuildDetector found, enemy build data cannot be saved
+2023-09-18 14:47:50.875 | 00:00    0ms    0M    0G  12/ 15U [Build] Cannon rush
+2023-09-18 14:47:50.898 | [Start] My race: Protoss
+2023-09-18 14:47:50.899 | [Start] Opponent race: Terran
+2023-09-18 14:47:50.900 | [Start] OpponentId: 1
+2023-09-18 14:47:52.593 | 00:11    6ms    5M    0G  13/ 15U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:47:53.033 | 00:16    7ms    5M    0G  13/ 15U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:47:53.794 | 00:25    6ms   45M    0G  14/ 15U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:47:55.210 | 00:38    8ms    5M    0G  15/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:47:56.346 | 00:51    7ms   20M    0G  16/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:47:58.409 | 01:03   20ms   40M    0G  17/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:47:58.518 | 01:04   58ms   40M    0G  18/ 23U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:48:01.020 | 01:16   58ms  220M    0G  18/ 31U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:03.825 | 01:30   57ms  240M    0G  17/ 39U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:08.594 | 01:52   58ms  580M    0G  18/ 39U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:48:08.599 | 01:52   58ms  580M    0G  18/ 39U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:48:10.633 | 02:00   76ms  705M    0G  18/ 39U [Expand] Expanding to (28.5, 107.5)
+2023-09-18 14:48:11.205 | 02:03   58ms  345M    0G  18/ 39U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:48:11.206 | 02:03   58ms  345M    0G  18/ 39U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:48:12.793 | 02:09   60ms  450M    0G  18/ 39U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:13.909 | 02:13   52ms  505M    0G  18/ 39U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:48:13.917 | 02:13   52ms  505M    0G  18/ 39U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:48:15.645 | 02:21   12ms  425M    0G  17/ 39U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:15.738 | 02:21   14ms  430M    0G  18/ 39U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:15.739 | 02:21   14ms  430M    0G  18/ 39U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:48:16.544 | 02:25   12ms  495M    0G  18/ 31U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:21.595 | 02:51   12ms  900M    0G  18/ 23U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:48:21.596 | 02:51   12ms  900M    0G  18/ 23U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:48:21.985 | 02:53   11ms  890M    0G  17/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:21.988 | 02:53   11ms  665M    0G  17/ 23U [BuildGas] Building ASSIMILATOR to (35.5, 138.5)
+2023-09-18 14:48:21.989 | 02:53   11ms  590M    0G  17/ 23U [BuildGas] Building ASSIMILATOR to (35.5, 138.5)
+2023-09-18 14:48:22.048 | 02:54   15ms  590M    0G  18/ 23U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:22.438 | 02:56   12ms  695M    0G  18/ 23U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:22.440 | 02:56   12ms  620M    0G  18/ 23U [BuildGas] Building ASSIMILATOR to (24.5, 128.5)
+2023-09-18 14:48:22.441 | 02:56   12ms  545M    0G  18/ 23U [BuildGas] Building ASSIMILATOR to (24.5, 128.5)
+2023-09-18 14:48:22.498 | 02:56   14ms  545M    0G  18/ 23U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:23.087 | 03:00   12ms  595M    0G  18/ 23U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:24.039 | 03:06   12ms  700M    0G  18/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:26.143 | 03:18   14ms  845M    0G  19/ 23U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:26.530 | 03:20   12ms  725M    0G  20/ 38U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:26.533 | 03:20   12ms  650M    0G  20/ 38U [BuildGas] Building ASSIMILATOR to (21.5, 104.5)
+2023-09-18 14:48:28.310 | 03:31   14ms  725M   36G  21/ 38U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:28.686 | 03:33   12ms  695M   44G  22/ 38U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:28.928 | 03:34   16ms  590M    2G  23/ 38U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:48:31.278 | 03:43   13ms  650M   42G  25/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:31.598 | 03:45   15ms  550M    0G  26/ 46U [ProtossUnit] STALKER from GATEWAY at (43.5, 120.5)
+2023-09-18 14:48:31.661 | 03:45   14ms  500M    0G  28/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:33.410 | 03:56   15ms  625M   56G  29/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:33.794 | 03:58   15ms  595M   72G  30/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:35.289 | 04:04   95ms  680M  100G  31/ 46U [Tech] Started WARPGATERESEARCH
+2023-09-18 14:48:35.427 | 04:04   31ms  630M   50G  31/ 46U [ChronoAnyTech] Chrono RESEARCH_WARPGATE
+2023-09-18 14:48:35.533 | 04:05   84ms  515M    0G  31/ 46U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:48:36.224 | 04:08   18ms  525M   24G  33/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:36.658 | 04:10   15ms  495M   36G  31/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:37.112 | 04:13   18ms  520M   44G  30/ 46U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:37.688 | 04:15   21ms  435M    2G  28/ 46U [ProtossUnit] STALKER from GATEWAY at (43.5, 120.5)
+2023-09-18 14:48:37.764 | 04:16   18ms  445M    2G  30/ 46U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:38.358 | 04:19   17ms  470M   10G  29/ 46U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:38.526 | 04:20   16ms  485M   10G  29/ 46U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:38.696 | 04:21   16ms  450M   10G  28/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:38.865 | 04:22   17ms  460M   14G  28/ 46U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:48:39.031 | 04:22   16ms  470M   18G  28/ 46U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:48:39.104 | 04:23   15ms  425M   18G  28/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:39.377 | 04:24   15ms  435M   22G  28/ 46U [ChronoAnyTech] Chrono RESEARCH_WARPGATE
+2023-09-18 14:48:40.690 | 04:31   15ms  535M   38G  27/ 46U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:48:40.757 | 04:32   14ms  535M   38G  25/ 46U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:48:40.920 | 04:33   13ms  500M   38G  25/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:41.175 | 04:34   16ms  460M   46G  26/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:41.346 | 04:35   17ms  345M    0G  27/ 46U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:48:43.362 | 04:41   15ms  370M   20G  27/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:43.727 | 04:43   64ms  350M   28G  28/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:43.985 | 04:43   64ms  355M   32G  29/ 46U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:48:43.990 | 04:43   64ms  355M   32G  29/ 46U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:48:44.671 | 04:46   79ms  380M   40G  28/ 46U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-18 14:48:44.677 | 04:46   79ms  380M   40G  28/ 46U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-18 14:48:45.790 | 04:50   63ms  390M   56G  28/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:46.188 | 04:51   76ms  350M   60G  29/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:49.210 | 05:01   59ms  445M   96G  30/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:49.570 | 05:03   77ms  450M  100G  31/ 46U [Tech] Started PROTOSSGROUNDWEAPONSLEVEL1
+2023-09-18 14:48:49.576 | 05:03   77ms  325M   50G  31/ 46U [ProtossUnit] STALKER from GATEWAY at (43.5, 120.5)
+2023-09-18 14:48:49.708 | 05:03   55ms  310M    0G  31/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:50.274 | 05:05   79ms  345M   12G  32/ 46U [GameAnalyzer] Known army advantage is now SmallAdvantage
+2023-09-18 14:48:50.280 | 05:05   79ms  345M   12G  32/ 46U [GameAnalyzer] Predicted army advantage is now SmallAdvantage
+2023-09-18 14:48:52.175 | 05:12   61ms  295M    2G  32/ 46U [ProtossUnit] STALKER from GATEWAY at (43.5, 120.5)
+2023-09-18 14:48:52.677 | 05:14   61ms  275M   10G  34/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:52.789 | 05:14  106ms  275M   14G  35/ 46U [PlanZoneAttack] Power 7.22 is larger than required attack power 6.00 -> attack!
+2023-09-18 14:48:52.791 | 05:14  106ms  275M   14G  35/ 46U [PlanZoneAttack] Attack started at 7.22 power.
+2023-09-18 14:48:53.190 | 05:16   70ms  255M   22G  35/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:53.611 | 05:17   26ms  285M   30G  36/ 46U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:48:54.383 | 05:20   65ms  205M    4G  36/ 46U [ProtossUnit] STALKER from GATEWAY at (51.5, 127.5)
+2023-09-18 14:48:56.171 | 05:26   66ms  245M   40G  38/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:48:56.733 | 05:28   65ms  125M   52G  39/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:48:58.490 | 05:34   18ms  220M   80G  40/ 46U [PlanZoneAttack] Retreat started at 7.46 own local power against 12.00 enemy local power.
+2023-09-18 14:48:59.115 | 05:37   16ms  265M  100G  40/ 46U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:48:59.117 | 05:37   16ms  265M  100G  40/ 46U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:00.035 | 05:37   23ms  130M    0G  40/ 46U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:49:00.296 | 05:39   15ms  100M   12G  40/ 46U [ProtossUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:00.672 | 05:41   13ms   60M   24G  41/ 46U [ProtossUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:01.048 | 05:42   16ms  100M   40G  42/ 46U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:01.049 | 05:42   16ms  100M   40G  42/ 46U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:02.787 | 05:50   17ms   95M   84G  42/ 54U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:49:02.788 | 05:50   17ms   95M   84G  42/ 54U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:49:02.987 | 05:51   18ms   50M   96G  42/ 54U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:03.575 | 05:53   18ms   30M  108G  43/ 54U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:03.781 | 05:54   16ms   60M  112G  44/ 54U [PlanZoneAttack] Retreat stopped.
+2023-09-18 14:49:06.013 | 06:04   17ms   65M  138G  46/ 54U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:06.992 | 06:08   19ms   55M  170G  43/ 54U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:06.993 | 06:08   19ms   55M  170G  43/ 54U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:06.995 | 06:08   19ms    5M  170G  43/ 54U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:08.415 | 06:14   19ms  125M  222G  42/ 54U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:08.416 | 06:14   19ms  125M  222G  42/ 54U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:08.893 | 06:16   16ms   10M  192G  44/ 54U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:09.300 | 06:18   16ms   40M  204G  45/ 54U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:09.301 | 06:18   16ms   40M  204G  45/ 54U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:09.827 | 06:20   20ms   40M  224G  45/ 54U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:09.913 | 06:21   17ms   50M  228G  46/ 54U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:49:10.319 | 06:23   16ms  100M  240G  44/ 54U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:10.320 | 06:23   16ms  100M  240G  44/ 54U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:10.903 | 06:25   16ms   25M  214G  44/ 54U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:49:10.904 | 06:25   16ms   25M  214G  44/ 54U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:49:11.689 | 06:29   15ms  120M  242G  44/ 62U [GameAnalyzer] Income advantage is now OverwhelmingAdvantage
+2023-09-18 14:49:11.693 | 06:29   15ms   70M  242G  44/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:12.481 | 06:32   16ms  150M  274G  45/ 62U [Tech] Started BLINKTECH
+2023-09-18 14:49:12.591 | 06:33   22ms   15M  124G  45/ 62U [ChronoAnyTech] Chrono RESEARCH_BLINK
+2023-09-18 14:49:12.998 | 06:35   17ms   15M  136G  45/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:14.098 | 06:36   16ms   45M  148G  46/ 62U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:14.107 | 06:36   16ms   45M  148G  46/ 62U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:15.273 | 06:41   16ms    5M  146G  48/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:15.774 | 06:44   18ms   55M  162G  49/ 62U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:15.775 | 06:44   18ms   55M  162G  49/ 62U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:16.597 | 06:47   19ms  100M  194G  49/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:17.005 | 06:49   17ms  150M  206G  50/ 62U [Tech] Started PROTOSSGROUNDWEAPONSLEVEL2
+2023-09-18 14:49:18.465 | 06:56   16ms   15M   62G  52/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:18.852 | 06:57   16ms   70M   78G  53/ 62U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:49:18.853 | 06:57   16ms   70M   78G  53/ 62U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:49:19.614 | 07:01   16ms   10M  102G  53/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:21.177 | 07:08   19ms   40M  112G  56/ 62U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:49:22.377 | 07:13   17ms    5M  106G  59/ 62U [ActUnit] PROBE from NEXUS at (28.5, 107.5)
+2023-09-18 14:49:24.876 | 07:24   17ms  105M  144G  62/ 70U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:49:28.085 | 07:34   18ms  120M  174G  64/ 70U [ChronoAnyTech] Chrono RESEARCH_BLINK
+2023-09-18 14:49:28.407 | 07:35   23ms   30M  132G  66/ 70U [GameAnalyzer] Known army advantage is now SlightAdvantage
+2023-09-18 14:49:28.408 | 07:35   23ms   30M  132G  66/ 70U [GameAnalyzer] Predicted army advantage is now SlightAdvantage
+2023-09-18 14:49:30.904 | 07:46   21ms   90M  166G  68/ 78U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:49:30.905 | 07:46   21ms   90M  166G  68/ 78U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:49:31.572 | 07:48   20ms   50M  186G  68/ 78U [PlanZoneAttack] Power 23.99 is larger than required attack power 19.20 -> attack!
+2023-09-18 14:49:31.574 | 07:48   20ms   50M  186G  68/ 78U [PlanZoneAttack] Attack started at 23.99 power.
+2023-09-18 14:49:32.276 | 07:50   29ms   90M  198G  68/ 78U [PlanZoneAttack] Retreat started at 23.78 own local power against 41.75 enemy local power.
+2023-09-18 14:49:32.635 | 07:51   18ms  140M  210G  68/ 78U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:32.636 | 07:51   18ms  140M  210G  68/ 78U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:38.027 | 08:10   22ms   50M  216G  70/ 86U [PlanZoneAttack] Retreat stopped.
+2023-09-18 14:49:41.693 | 08:22   24ms  315M  266G  64/ 86U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:49:41.694 | 08:22   24ms  315M  266G  64/ 86U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:49:41.841 | 08:23   27ms  320M  270G  64/ 86U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:41.842 | 08:23   27ms  320M  270G  64/ 86U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:42.617 | 08:25   26ms  275M  240G  66/ 86U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:49:42.618 | 08:25   26ms  275M  240G  66/ 86U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:49:43.285 | 08:28   23ms  345M  260G  62/ 86U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:49:45.453 | 08:32   71ms  155M  196G  66/ 86U [BuildGas] Building ASSIMILATOR to (25.5, 100.5)
+2023-09-18 14:49:49.228 | 08:45   68ms  295M  196G  64/ 86U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:49:49.233 | 08:45   68ms  295M  196G  64/ 86U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:49:50.281 | 08:48   88ms  260M  174G  66/ 86U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:49:51.848 | 08:52   81ms  285M  160G  68/ 86U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:51.850 | 08:52   81ms  285M  160G  68/ 86U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:56.258 | 09:06   24ms  330M  176G  72/ 86U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:49:56.259 | 09:06   24ms  330M  176G  72/ 86U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:49:56.413 | 09:06   29ms  350M  184G  70/ 86U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:49:56.414 | 09:06   29ms  350M  184G  70/ 86U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:49:56.990 | 09:08   28ms  390M  204G  70/ 86U [Tech] Started PROTOSSGROUNDWEAPONSLEVEL3
+2023-09-18 14:49:59.835 | 09:17   23ms  325M   46G  72/ 86U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:49:59.836 | 09:17   23ms  325M   46G  72/ 86U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:50:00.102 | 09:18   30ms  225M    4G  72/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:00.103 | 09:18   30ms  225M    4G  72/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:01.794 | 09:24   23ms  255M   18G  72/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:01.795 | 09:24   23ms  255M   18G  72/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:02.465 | 09:26   23ms  320M   46G  70/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:02.467 | 09:26   23ms  320M   46G  70/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:02.853 | 09:27   22ms  235M    8G  70/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:02.855 | 09:27   22ms  235M    8G  70/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:04.572 | 09:30   22ms  330M   44G  66/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:04.573 | 09:30   22ms  330M   44G  66/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:04.831 | 09:31   22ms  345M   48G  66/ 94U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:50:08.822 | 09:45   21ms  355M   54G  70/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:08.823 | 09:45   21ms  355M   54G  70/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:09.572 | 09:48   21ms  310M   28G  72/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:09.574 | 09:48   21ms  310M   28G  72/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:09.968 | 09:49   23ms  355M   44G  70/ 94U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:50:09.969 | 09:49   23ms  355M   44G  70/ 94U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:50:10.079 | 09:50   24ms  360M   52G  68/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:10.080 | 09:50   24ms  360M   52G  68/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:10.579 | 09:51   21ms  295M   22G  68/ 94U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:50:11.201 | 09:54   21ms  355M   42G  66/ 94U [GameAnalyzer] Known army advantage is now Even
+2023-09-18 14:50:11.202 | 09:54   21ms  355M   42G  66/ 94U [GameAnalyzer] Predicted army advantage is now Even
+2023-09-18 14:50:11.308 | 09:54   22ms  375M   54G  66/ 94U [GameAnalyzer] Known army advantage is now SlightDisadvantage
+2023-09-18 14:50:11.309 | 09:54   22ms  375M   54G  66/ 94U [GameAnalyzer] Predicted army advantage is now SlightDisadvantage
+2023-09-18 14:50:14.606 | 10:05   21ms  290M   16G  66/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -86
+2023-09-18 14:50:14.607 | 10:05   21ms  290M   16G  66/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:14.608 | 10:05   21ms  290M   16G  66/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:16.167 | 10:10   21ms  315M   26G  66/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -71
+2023-09-18 14:50:17.483 | 10:15   21ms  330M   24G  68/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:17.485 | 10:15   21ms  330M   24G  68/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:17.754 | 10:16   24ms  355M   28G  68/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -257
+2023-09-18 14:50:17.908 | 10:16   26ms  365M   36G  66/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:17.909 | 10:16   26ms  365M   36G  66/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:19.115 | 10:20   26ms  350M   30G  68/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:19.116 | 10:20   26ms  350M   30G  68/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:19.372 | 10:21   26ms  375M   42G  68/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -593
+2023-09-18 14:50:19.374 | 10:21   26ms  375M   42G  68/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:19.375 | 10:21   26ms  375M   42G  68/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:20.443 | 10:25   25ms  340M   28G  70/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:20.444 | 10:25   25ms  340M   28G  70/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:20.991 | 10:26   25ms  400M   48G  70/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -779
+2023-09-18 14:50:20.993 | 10:26   25ms  400M   48G  70/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:20.994 | 10:26   25ms  400M   48G  70/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:23.473 | 10:32   27ms  295M    4G  74/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -914
+2023-09-18 14:50:24.456 | 10:35   30ms  385M   40G  74/ 94U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:50:25.163 | 10:37   26ms  225M   18G  76/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1000
+2023-09-18 14:50:26.952 | 10:42   26ms  350M   20G  74/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1036
+2023-09-18 14:50:28.856 | 10:48   25ms  375M   30G  72/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1071
+2023-09-18 14:50:30.122 | 10:52   27ms  365M   28G  74/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:30.123 | 10:52   27ms  365M   28G  74/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:30.538 | 10:53   24ms  390M   44G  74/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1307
+2023-09-18 14:50:31.094 | 10:55   26ms  330M   10G  74/ 94U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDWEAPONS
+2023-09-18 14:50:31.379 | 10:56   23ms  335M   18G  72/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:31.381 | 10:56   23ms  335M   18G  72/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:32.223 | 10:58   23ms  420M   46G  70/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1243
+2023-09-18 14:50:32.225 | 10:58   23ms  420M   46G  70/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:32.226 | 10:58   23ms  420M   46G  70/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:33.882 | 11:04   28ms  460M   56G  72/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1529
+2023-09-18 14:50:34.464 | 11:06   25ms  375M   22G  72/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:34.466 | 11:06   25ms  375M   22G  72/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:34.621 | 11:06   36ms  400M   30G  72/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:34.622 | 11:06   36ms  400M   30G  72/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:35.580 | 11:09   25ms  365M   16G  74/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1764
+2023-09-18 14:50:37.272 | 11:15   22ms  290M   18G  76/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -1800
+2023-09-18 14:50:39.041 | 11:20   25ms  315M   32G  78/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2186
+2023-09-18 14:50:39.043 | 11:20   25ms  315M   32G  78/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:39.044 | 11:20   25ms  315M   32G  78/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:39.354 | 11:21   27ms  345M   40G  78/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:39.356 | 11:21   27ms  345M   40G  78/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:40.814 | 11:25   25ms  330M   38G  78/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2271
+2023-09-18 14:50:42.490 | 11:28   25ms  280M   16G  74/ 94U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:42.491 | 11:28   25ms  280M   16G  74/ 94U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:43.531 | 11:31   24ms  350M   44G  74/ 94U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2357
+2023-09-18 14:50:43.533 | 11:31   24ms  350M   44G  74/ 94U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:43.534 | 11:31   24ms  350M   44G  74/ 94U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:44.380 | 11:33   23ms  430M   76G  70/102U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:44.381 | 11:33   23ms  430M   76G  70/102U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:45.097 | 11:35   25ms  480M  100G  70/102U [Tech] Started PROTOSSGROUNDARMORSLEVEL1
+2023-09-18 14:50:45.221 | 11:36   28ms  385M    8G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2443
+2023-09-18 14:50:45.926 | 11:38   26ms  450M   28G  70/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:50:46.938 | 11:41   22ms  425M   10G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2479
+2023-09-18 14:50:48.540 | 11:47   22ms  430M   20G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2414
+2023-09-18 14:50:50.118 | 11:52   19ms  460M   34G  64/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2400
+2023-09-18 14:50:51.567 | 11:57   23ms  485M   36G  66/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2386
+2023-09-18 14:50:51.802 | 11:58   20ms  515M   48G  66/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:50:52.972 | 12:03   19ms  515M   46G  68/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2321
+2023-09-18 14:50:54.225 | 12:07   21ms  505M   44G  68/102U [GameAnalyzer] Known army advantage is now SmallDisadvantage
+2023-09-18 14:50:54.227 | 12:07   21ms  505M   44G  68/102U [GameAnalyzer] Predicted army advantage is now SmallDisadvantage
+2023-09-18 14:50:54.478 | 12:08   21ms  530M   56G  68/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2557
+2023-09-18 14:50:54.480 | 12:08   21ms  530M   56G  68/102U [GameAnalyzer] Known army advantage is now ClearDisadvantage
+2023-09-18 14:50:54.481 | 12:08   21ms  530M   56G  68/102U [GameAnalyzer] Predicted army advantage is now ClearDisadvantage
+2023-09-18 14:50:56.199 | 12:13   20ms  420M    8G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2643
+2023-09-18 14:50:57.774 | 12:19   23ms  460M   22G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2629
+2023-09-18 14:50:58.774 | 12:22   20ms  425M    8G  72/102U [Expand] Expanding to (25.5, 77.5)
+2023-09-18 14:51:00.086 | 12:24   22ms   70M   28G  72/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2764
+2023-09-18 14:51:01.671 | 12:30   26ms   85M   34G  74/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3000
+2023-09-18 14:51:03.413 | 12:35   27ms   90M   48G  70/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3136
+2023-09-18 14:51:04.579 | 12:38   25ms   45M   30G  72/102U [GameAnalyzer] Known army advantage is now OverwhelmingDisadvantage
+2023-09-18 14:51:04.580 | 12:38   25ms   45M   30G  72/102U [GameAnalyzer] Predicted army advantage is now OverwhelmingDisadvantage
+2023-09-18 14:51:05.214 | 12:40   77ms   90M   50G  68/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3121
+2023-09-18 14:51:05.671 | 12:42   27ms  115M   66G  66/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:06.954 | 12:46   23ms   90M   60G  58/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3057
+2023-09-18 14:51:08.757 | 12:51   22ms  100M   74G  58/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -2993
+2023-09-18 14:51:10.363 | 12:56   21ms   95M   76G  56/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3079
+2023-09-18 14:51:11.973 | 13:02   25ms  105M   86G  56/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3214
+2023-09-18 14:51:11.975 | 13:02   25ms  105M   86G  56/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:13.671 | 13:07   21ms  110M   96G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3250
+2023-09-18 14:51:15.227 | 13:12   22ms  115M   98G  54/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3386
+2023-09-18 14:51:16.606 | 13:17   25ms  220M  150G  52/102U [Tech] Started PROTOSSGROUNDARMORSLEVEL2
+2023-09-18 14:51:16.865 | 13:18   23ms   85M   12G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3571
+2023-09-18 14:51:19.285 | 13:23   20ms   90M   18G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3507
+2023-09-18 14:51:20.963 | 13:28   22ms  100M   24G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3443
+2023-09-18 14:51:22.867 | 13:34   21ms   95M   38G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3429
+2023-09-18 14:51:24.548 | 13:39   23ms  100M   40G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3614
+2023-09-18 14:51:26.265 | 13:45   22ms  110M   50G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3600
+2023-09-18 14:51:26.413 | 13:45   28ms  120M   54G  52/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:27.942 | 13:50   25ms   90M   64G  54/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3686
+2023-09-18 14:51:29.664 | 13:55   26ms   95M   66G  56/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3621
+2023-09-18 14:51:31.395 | 14:01   25ms   75M   76G  56/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3607
+2023-09-18 14:51:33.026 | 14:05   24ms   55M   74G  58/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:33.337 | 14:06   24ms   70M   86G  58/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3543
+2023-09-18 14:51:35.024 | 14:11   21ms  190M  138G  58/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3479
+2023-09-18 14:51:36.839 | 14:17   24ms  290M  202G  54/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3564
+2023-09-18 14:51:39.369 | 14:22   24ms  405M  258G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3500
+2023-09-18 14:51:39.374 | 14:22   24ms  405M  258G  52/102U [Expand] Expanding to (25.5, 77.5)
+2023-09-18 14:51:40.066 | 14:24   25ms   45M  282G  50/102U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:51:41.071 | 14:27   22ms   95M  314G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3936
+2023-09-18 14:51:42.722 | 14:32   25ms   65M  320G  50/102U [GameAnalyzer] Income advantage is now OverwhelmingAdvantage
+2023-09-18 14:51:42.837 | 14:33   25ms   65M  328G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3971
+2023-09-18 14:51:44.688 | 14:38   20ms   45M  330G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3907
+2023-09-18 14:51:46.277 | 14:43   20ms  120M  390G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3843
+2023-09-18 14:51:47.970 | 14:49   22ms   85M  404G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3829
+2023-09-18 14:51:47.972 | 14:49   22ms   85M  404G  50/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:49.584 | 14:54   22ms   30M  406G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3764
+2023-09-18 14:51:51.198 | 15:00   23ms  110M  466G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -3850
+2023-09-18 14:51:53.060 | 15:05   25ms   75M  476G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4400
+2023-09-18 14:51:54.520 | 15:09   32ms  135M  516G  50/102U [ChronoAnyTech] Chrono RESEARCH_PROTOSSGROUNDARMOR
+2023-09-18 14:51:54.951 | 15:10   25ms   15M  478G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4450
+2023-09-18 14:51:55.841 | 15:13   26ms   60M  510G  52/102U [GameAnalyzer] Income advantage is now ClearAdvantage
+2023-09-18 14:51:56.763 | 15:16   22ms  100M  542G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:51:59.274 | 15:21   25ms   45M  548G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:52:00.894 | 15:26   26ms  105M  604G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:52:02.651 | 15:32   22ms   55M  618G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:52:04.268 | 15:37   24ms  110M  670G  48/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:52:06.134 | 15:42   22ms   50M  680G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4500
+2023-09-18 14:52:07.869 | 15:48   21ms  105M  744G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4550
+2023-09-18 14:52:09.524 | 15:53   20ms   30M  746G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4550
+2023-09-18 14:52:11.105 | 15:58   22ms   85M  806G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4550
+2023-09-18 14:52:12.852 | 16:04   21ms  130M  866G  46/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:14.389 | 16:09   17ms  185M  918G  46/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:16.155 | 16:15   19ms  240M  982G  46/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:18.679 | 16:20   17ms  290M 1038G  44/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:20.262 | 16:25   17ms  345M 1094G  44/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:21.816 | 16:31   17ms  390M 1158G  44/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:21.958 | 16:31   21ms  405M 1158G  44/102U [Expand] Expanding to (25.5, 77.5)
+2023-09-18 14:52:23.352 | 16:36   17ms   45M 1210G  44/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:23.615 | 16:37   18ms  460M 1222G 57.0/102U [Tech] Started PROTOSSGROUNDARMORSLEVEL3
+2023-09-18 14:52:23.617 | 16:37   18ms  410M 1222G 57.0/102U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:52:25.076 | 16:41   21ms   80M 1120G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4600
+2023-09-18 14:52:26.647 | 16:47   23ms  125M 1184G  50/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -4650
+2023-09-18 14:52:28.418 | 16:52   26ms   55M 1186G  52/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5150
+2023-09-18 14:52:28.618 | 16:52   57ms   55M 1190G  50/102U [GameAnalyzer] Income advantage is now SmallAdvantage
+2023-09-18 14:52:30.348 | 16:56   39ms    5M 1206G  19/102U [ActUnit] PROBE from NEXUS at (31.5, 131.5)
+2023-09-18 14:52:30.526 | 16:57   31ms    5M 1206G  16/102U [ChronoUnit] Chrono NEXUSTRAIN_PROBE
+2023-09-18 14:52:30.650 | 16:57   26ms    5M 1206G  16/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5250
+2023-09-18 14:52:30.980 | 16:58   27ms    5M 1206G  16/102U [GameAnalyzer] Income advantage is now SlightAdvantage
+2023-09-18 14:52:32.492 | 17:03   23ms    5M 1206G   9/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5350
+2023-09-18 14:52:34.355 | 17:08   20ms    5M 1206G   7/102U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5350
+2023-09-18 14:52:35.638 | 17:12   22ms    5M 1206G   7/ 87U [GameAnalyzer] Income advantage is now Even
+2023-09-18 14:52:36.038 | 17:13   19ms    5M 1210G   7/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5400
+2023-09-18 14:52:38.449 | 17:19   18ms    5M 1210G   7/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5500
+2023-09-18 14:52:40.134 | 17:24   16ms    5M 1210G   3/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:41.819 | 17:30   15ms    5M 1210G   1/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:43.680 | 17:35   15ms    5M 1210G   1/ 87U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:45.203 | 17:40   12ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:46.810 | 17:46   14ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:48.498 | 17:51   15ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:50.032 | 17:56   15ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:51.839 | 18:02   15ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:53.453 | 18:07   15ms    5M 1210G   1/ 79U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5550
+2023-09-18 14:52:55.871 | 18:12   14ms    5M 1210G   1/ 63U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5600
+2023-09-18 14:52:57.562 | 18:18   15ms    5M 1210G   1/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5950
+2023-09-18 14:52:59.224 | 18:23   14ms    5M 1210G   1/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5950
+2023-09-18 14:53:01.032 | 18:28   14ms    5M 1210G   1/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5950
+2023-09-18 14:53:02.553 | 18:34   14ms    5M 1210G   1/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -5950
+2023-09-18 14:53:04.267 | 18:39   16ms    5M 1210G   1/ 55U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6050
+2023-09-18 14:53:05.880 | 18:45   15ms    5M 1210G   1/ 47U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6200
+2023-09-18 14:53:07.518 | 18:50   16ms    5M 1210G   1/ 31U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6250
+2023-09-18 14:53:09.364 | 18:55   15ms    5M 1210G   1/ 31U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6300
+2023-09-18 14:53:11.005 | 19:01   15ms    5M 1210G   1/ 31U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6350
+2023-09-18 14:53:12.587 | 19:06   15ms    5M 1210G   1/ 31U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6400
+2023-09-18 14:53:13.575 | 19:09   16ms    5M 1210G   1/ 16U [GameAnalyzer] Income advantage is now SmallDisadvantage
+2023-09-18 14:53:15.014 | 19:11   16ms    5M 1210G   1/ 16U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6400
+2023-09-18 14:53:16.840 | 19:17   16ms    5M 1210G   1/  8U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6400
+2023-09-18 14:53:18.281 | 19:22   15ms    5M 1210G   1/  8U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6400
+2023-09-18 14:53:19.885 | 19:27   16ms    5M 1210G   1/  8U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6400
+2023-09-18 14:53:21.598 | 19:33   15ms    5M 1210G   1/  8U [EnemyArmyPredicter] Predicting negative free minerals for enemy: -6600
+2023-09-18 14:53:22.320 | INFO     | sc2.protocol:_execute:72 - Client status changed to Status.ended (was Status.in_game)
+2023-09-18 14:53:22.324 | Result: Defeat
+2023-09-18 14:53:22.325 | Duration: 19:34
+2023-09-18 14:53:22.326 | Step time min: 5
+2023-09-18 14:53:22.326 | Step time avg: 26
+2023-09-18 14:53:22.327 | Step time max: 112
+2023-09-18 14:53:22.328 | [LostUnitsContents] My lost units minerals and gas: (20425, 5250)
+2023-09-18 14:53:22.329 | [LostUnitsContents] My lost units minerals by score: 20425.0
+2023-09-18 14:53:22.330 | [LostUnitsContents] Enemy lost units minerals and gas: (11300, 850)
+2023-09-18 14:53:22.330 | [LostUnitsContents] Enemy lost units minerals by score: 11500.0
+2023-09-18 14:53:22.331 | [GameAnalyzerEnd] Own units:
+2023-09-18 14:53:22.332 | [GameAnalyzerEnd] STALKER           total: 103 alive:   0 dead: 103 
+2023-09-18 14:53:22.332 | [GameAnalyzerEnd] PROBE             total:  64 alive:   1 dead:  63 
+2023-09-18 14:53:22.333 | [GameAnalyzerEnd] PYLON             total:  11 alive:   1 dead:  10 
+2023-09-18 14:53:22.334 | [GameAnalyzerEnd] WARPGATE          total:   7 alive:   0 dead:   7 
+2023-09-18 14:53:22.334 | [GameAnalyzerEnd] NEXUS             total:   4 alive:   0 dead:   4 
+2023-09-18 14:53:22.335 | [GameAnalyzerEnd] ASSIMILATOR       total:   4 alive:   0 dead:   4 
+2023-09-18 14:53:22.335 | [GameAnalyzerEnd] FORGE             total:   1 alive:   0 dead:   1 
+2023-09-18 14:53:22.336 | [GameAnalyzerEnd] CYBERNETICSCORE   total:   1 alive:   0 dead:   1 
+2023-09-18 14:53:22.337 | [GameAnalyzerEnd] TWILIGHTCOUNCIL   total:   1 alive:   0 dead:   1 
+2023-09-18 14:53:22.337 | [GameAnalyzerEnd] Enemy units:
+2023-09-18 14:53:22.338 | [GameAnalyzerEnd] MARINE            total: 303 alive: 110 dead: 193 
+2023-09-18 14:53:22.339 | [GameAnalyzerEnd] MARAUDER          total:  14 alive:   4 dead:  10 
+2023-09-18 14:53:22.339 | [GameAnalyzerEnd] MEDIVAC           total:  10 alive:   4 dead:   6 
+2023-09-18 14:53:22.340 | [GameAnalyzerEnd] SCV               total:   5 alive:   4 dead:   1 
+2023-09-18 14:53:22.341 | [GameAnalyzerEnd] SUPPLYDEPOT       total:   1 alive:   1 dead:   0 
+2023-09-18 14:53:22.341 | [GameAnalyzerEnd] COMMANDCENTER     total:   1 alive:   1 dead:   0 
+2023-09-18 14:53:22.342 | [GameAnalyzerEnd] ORBITALCOMMAND    total:   1 alive:   1 dead:   0 
+2023-09-18 14:53:22.343 | [GameAnalyzerEnd] Minerals max 920 Average 225
+2023-09-18 14:53:22.343 | [GameAnalyzerEnd] Vespene max 1210 Average 303
+2023-09-18 14:53:22.344 | INFO     | sc2.main:_play_game:228 - Result for player 2 - Bot LadderBot(Protoss): Defeat

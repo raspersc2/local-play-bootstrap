@@ -1,0 +1,155 @@
+Terran VS Terran on Royal BloodAIE
+0: OnGameStart | MicroMachine v1.18.2
+0: onStart | PROXY_CYCLONES (0-0), EARLY_EXPAND (13-0), STANDARD (0-0), WORKER_RUSH (0-0), PROXY_MARAUDERS (0-0), FAST_PF (0-0)
+0: onStart | Chosen strategy: EARLY_EXPAND
+224: monitorUnitActions | Actions (total, APM, last frame): 122, 122, 0
+448: monitorUnitActions | Actions (total, APM, last frame): 229, 229, 0
+672: drawProductionInformation | Production Information
+
+Barracks                     [-50] (B)
+SCV                          [-60] (B)
+Refinery                     [-70] (B)
+
+
+
+672: drawProductionInformation | Free Mineral:     145
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   839
+Gas income:       0
+
+672: drawProductionInformation | Being built:      
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (123.375, 118.375), Building: TERRAN_SUPPLYDEPOT (124, 119)
+
+672: monitorUnitActions | Actions (total, APM, last frame): 337, 337, 0
+886: fixBuildOrderDeadlock | TERRAN_STARPORT needs a requirement: TERRAN_FACTORY
+886: fixBuildOrderDeadlock | SiegeTank needs a requirement: TERRAN_FACTORYTECHLAB
+896: monitorUnitActions | Actions (total, APM, last frame): 458, 458, 0
+1120: monitorUnitActions | Actions (total, APM, last frame): 573, 573, 0
+1344: drawProductionInformation | Production Information
+
+OrbitalCommand               [10]
+TERRAN_SCV                   [1]
+CommandCenter                [0]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-10]
+
+
+
+1344: drawProductionInformation | Free Mineral:     235
+Free Gas:         0
+Gas Worker Target:3
+Mineral income:   923
+Gas income:       0
+
+1344: drawProductionInformation | Being built:      
+TERRAN_BARRACKS UnderConstruction, Builder: TERRAN_SCV (127.625, 119.5), Building: TERRAN_BARRACKS (126.5, 119.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (147.375, 119.5), Building: TERRAN_REFINERY (148.5, 119.5)
+
+1344: monitorUnitActions | Actions (total, APM, last frame): 696, 696, 0
+1568: monitorUnitActions | Actions (total, APM, last frame): 813, 691, 0
+1792: monitorUnitActions | Actions (total, APM, last frame): 930, 701, 0
+2016: drawProductionInformation | Production Information
+
+OrbitalCommand               [10]
+TERRAN_SCV                   [1]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORY               [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-10]
+Barracks                     [-20]
+
+
+
+2016: drawProductionInformation | Free Mineral:     75
+Free Gas:         18
+Gas Worker Target:3
+Mineral income:   867
+Gas income:       156
+
+2016: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (143.447, 116.5), Building: TERRAN_COMMANDCENTER (141.5, 116.5)
+
+2016: monitorUnitActions | Actions (total, APM, last frame): 1058, 721, 0
+2240: monitorUnitActions | Actions (total, APM, last frame): 1186, 728, 0
+2464: monitorUnitActions | Actions (total, APM, last frame): 1317, 744, 0
+2688: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+Reaper                       [0]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORYTECHLAB        [0]
+TERRAN_REFINERY              [-40]
+CommandCenter                [-50]
+
+
+
+2688: drawProductionInformation | Free Mineral:     -5
+Free Gas:         -2
+Gas Worker Target:3
+Mineral income:   811
+Gas income:       156
+
+2688: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (139.375, 114.375), Building: TERRAN_COMMANDCENTER (141.5, 116.5)
+TERRAN_BARRACKS UnderConstruction, Builder: TERRAN_SCV (142.625, 110.5), Building: TERRAN_BARRACKS (141.5, 110.5)
+TERRAN_REFINERY UnderConstruction, Builder: TERRAN_SCV (137.5, 128.375), Building: TERRAN_REFINERY (137.5, 129.5)
+TERRAN_FACTORY Assigned, Builder: TERRAN_SCV (133.58, 117.186)
+
+2688: monitorUnitActions | Actions (total, APM, last frame): 1436, 740, 0
+2912: monitorUnitActions | Actions (total, APM, last frame): 1539, 726, 0
+3136: monitorUnitActions | Actions (total, APM, last frame): 1634, 704, 0
+3360: drawProductionInformation | Production Information
+
+TERRAN_SCV                   [1]
+BansheeCloak                 [0]
+Banshee                      [0]
+SiegeTank                    [0]
+TERRAN_STARPORTTECHLAB       [0]
+TERRAN_STARPORT              [0]
+TERRAN_FACTORYTECHLAB        [0]
+Marine                       [-1]
+TERRAN_REFINERY              [-40]
+CommandCenter                [-50]
+
+
+
+3360: drawProductionInformation | Free Mineral:     135
+Free Gas:         76
+Gas Worker Target:3
+Mineral income:   895
+Gas income:       335
+
+3360: drawProductionInformation | Being built:      
+TERRAN_COMMANDCENTER UnderConstruction, Builder: TERRAN_SCV (139.912, 114.375), Building: TERRAN_COMMANDCENTER (141.5, 116.5)
+TERRAN_BARRACKS UnderConstruction, Builder: TERRAN_SCV (140.375, 111.625), Building: TERRAN_BARRACKS (141.5, 110.5)
+TERRAN_FACTORY UnderConstruction, Builder: TERRAN_SCV (134.317, 116.528), Building: TERRAN_FACTORY (133.5, 117.5)
+TERRAN_SUPPLYDEPOT UnderConstruction, Builder: TERRAN_SCV (127.625, 121.375), Building: TERRAN_SUPPLYDEPOT (127, 122)
+
+3360: monitorUnitActions | Actions (total, APM, last frame): 1774, 716, 0
+3378: manageBuildOrderQueue | Supply blocked | 0x00000007
+3380: manageBuildOrderQueue | Supply blocked | 0x00000007
+3382: manageBuildOrderQueue | Supply blocked | 0x00000007
+3384: manageBuildOrderQueue | Supply blocked | 0x00000007
+3386: manageBuildOrderQueue | Supply blocked | 0x00000007
+3388: manageBuildOrderQueue | Supply blocked | 0x00000007
+3584: monitorUnitActions | Actions (total, APM, last frame): 1976, 790, 0
+3664: constructAssignedBuildings | TERRAN_FACTORY at (133.5, 117.5) was given the command BUILD_TECHLAB_FACTORY
+3791: updateAttackSquads | MainAttackSquad new order = Retreat (138.245, 120.175) Keep retreating
+3808: monitorUnitActions | Actions (total, APM, last frame): 2180, 863, 0

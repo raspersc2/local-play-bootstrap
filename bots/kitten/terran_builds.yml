@@ -1,0 +1,44 @@
+# Save the game opening and result to disk?
+# Setting to `True` allows Ares to select a new opening after defeat
+UseData: False
+# How should we choose a build? Cycle is the only option for now
+BuildSelection: Cycle
+# For each Race / Opponent ID choose a build selection
+BuildChoices:
+    # test_123 is active if Debug: True (set via a `config.yml` file)
+    test_123:
+        BotName: Test
+        Cycle:
+            - BarracksOpener
+
+    Protoss:
+        BotName: ProtossRace
+        Cycle:
+            - BarracksOpener
+
+    Random:
+        BotName: RandomRace
+        Cycle:
+            - BarracksOpener
+
+    Terran:
+        BotName: TerranRace
+        Cycle:
+            - BarracksOpener
+
+    Zerg:
+        BotName: ZergRace
+        Cycle:
+            - BarracksOpener
+
+Builds:
+    BarracksOpener:
+        ConstantWorkerProductionTill: 30
+        OpeningBuildOrder:
+            - 14 supply @ ramp
+            - 16 barracks
+            - 17 barracks
+            - 19 orbital
+            - 19 gas
+            - 19 supply
+            - 20 expand
