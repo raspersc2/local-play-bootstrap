@@ -23,7 +23,7 @@ from bot.squad_agent.utils import load_checkpoint, save_checkpoint
 
 NUM_ENVS: int = 1
 SPATIAL_SHAPE: tuple[int, int, int, int] = (1, 38, 120, 120)
-ENTITY_SHAPE: tuple[int, int, int] = (1, 256, 406)
+ENTITY_SHAPE: tuple[int, int, int] = (1, 256, 408)
 SCALAR_SHAPE: tuple[int, int] = (1, 8)
 
 

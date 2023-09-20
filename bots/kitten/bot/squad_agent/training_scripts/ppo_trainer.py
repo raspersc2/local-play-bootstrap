@@ -35,7 +35,7 @@ def natural_key(string_: str) -> list[str]:
 
 
 SPATIAL_SHAPE: tuple[int, int, int, int] = (1, 38, 120, 120)
-ENTITY_SHAPE: tuple[int, int, int] = (1, 256, 406)
+ENTITY_SHAPE: tuple[int, int, int] = (1, 256, 408)
 SCALAR_SHAPE: tuple[int, int] = (1, 8)
 
 
