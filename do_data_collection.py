@@ -41,7 +41,7 @@ BOTS_PLAYER_TWO = [
     "TyrP,P,dotnetcore,",
 ]
 
-NUM_GAMES_TO_PLAY: int = 1
+NUM_GAMES_TO_PLAY: int = 10000000000000000
 
 LOCAL_DIRECTORY = './bots/kitten/data'
 BUCKET_NAME = "kitten-spaces"
@@ -178,8 +178,10 @@ if __name__ == "__main__":
             # play game
             system("docker compose -f docker-compose-host-network.yml up")
             # upload states to bucket for learning
-            random_dir_name = get_random_string()
-            upload_files_to_space(s3_client, random_dir_name)
-            clean_up(random_dir_name)
+            states_path = path.join(LOCAL_DIRECTORY, "states")
+            if path.exists(states_path) and path.isdir(states_path):
+                random_dir_name = get_random_string()
+                upload_files_to_space(s3_client, random_dir_name)
+                clean_up(random_dir_name)
 
     print("matches ended")
