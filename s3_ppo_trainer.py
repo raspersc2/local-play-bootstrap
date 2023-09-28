@@ -113,6 +113,14 @@ if __name__ == "__main__":
                     except Exception as e:
                         print(f"Error uploading {local_file} to path {relative_key} at {BUCKET_NAME}: {str(e)}")
 
+                    local_file = os.path.join(LOCAL_DIRECTORY, "history.json")
+                    relative_key = os.path.relpath(local_file, LOCAL_DIRECTORY)
+                    try:
+                        s3_client.upload_file(local_file, BUCKET_NAME, relative_key)
+                        print(f"File '{local_file}' uploaded to '{BUCKET_NAME}' successfully.")
+                    except Exception as e:
+                        print(f"Error uploading {local_file} to path {relative_key} at {BUCKET_NAME}: {str(e)}")
+
             # Update the last seen objects
             last_seen_objects = new_directories
 
